@@ -1,0 +1,47 @@
+---
+title: monkey see...
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/reset.css" | url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap">
+    <style>
+      body {
+        font-family: Inconsolata,Times New Roman,serif;
+        background: #211F25;
+        color: rgba(255, 255, 255, 0.8);
+      }
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+      .text-white {
+        color: #ffffff;
+      }
+      .text-gray {
+        color: rgba(255, 255, 255, 0.8);
+      }
+    </style>
+  </head>
+  <body>
+    <div style="display: flex; flex-direction: column;">
+      <div>
+        <nav>
+          <div style="padding: 8px; margin: 16px;">
+            <a href="{{ "/" | url }}">HOME</a>
+          </div>
+        </nav>
+      </div>
+      <main style="padding: 8px; margin: 0px 0px 24px 0px;">
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>
