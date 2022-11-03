@@ -1,0 +1,85 @@
+{
+  "id": "1691",
+  "name": "Iona's Crook",
+  "description": "A prophetic impression of the HAG IONA’s shepherd’s crook. Its oceanic lantern is well-suited to a SEER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1691",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1691&witch-id=8617",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8617.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8617"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Striated"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Shell of Wonder (Lavender)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Black Gold"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "1691",
+    "name": "Iona's Crook",
+    "description": "A prophetic impression of the HAG IONA’s shepherd’s crook. Its oceanic lantern is well-suited to a SEER.",
+    "witchId": "8617",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "handle",
+        "style": "sandstone",
+        "url": "https://dl.airtable.com/.attachments/46533fea4d7bfdedde218a6f01ca64a5/4861d82a/ionas-crook-seer_0002s_0001_sandstone-ivory.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "striated",
+        "url": "https://dl.airtable.com/.attachments/1dbd6f5050e976b44770a49a75e58794/4b637467/ionas-crook-seer_0001s_0001_striated.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "black-gold",
+        "url": "https://dl.airtable.com/.attachments/5cbc4b4d6b10bb7f80f62579469cec7f/90424a2d/ionas-crook-seer_0000s_0002_jeweled-cuffs-black-gold.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "shell-of-wonder",
+        "color": "lavender",
+        "url": "https://dl.airtable.com/.attachments/0e06f0522f2a0e124ea6e92bdc2be335/a95261f5/ionas-crook-seer_0003s_0022_wonder-shell-lavender.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}
