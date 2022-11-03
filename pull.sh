@@ -20,15 +20,15 @@ invalid=`{ grep -rL 'name' output_raw/artifacts || true; }`;
 [[ ! -z $invalid ]] && (xargs rm <<< $invalid)
 
 # TODO:
-# - -c below
-# - prob prune unneeded attrs
-# - prob make all_artifacts a projection of artifacts_and_witches to get e.g. witch name
+# - WITCH entries with no artifacts?
+# - prune unneeded artifact attrs prob
+# - all_artifacts a projection of artifacts_and_witches to get e.g. witch name on artifact page?
 
 # wombo combo join witches + artifacts by witch id
-jq -s '.[0] * .[1] | values[] | select(.artifacts != null)' \
+jq -cs '.[0] * .[1] | values[] | select(.artifacts != null)' \
     <(jq 'group_by(.id) | map({key: .[0].id|tostring, value: {witch: .[0]}}) | from_entries' output_raw/witches.json) \
     <(jq 'select(.coven.witchId != null)' output_raw/artifacts/* | jq -s | jq 'group_by(.coven.witchId) | map({key: .[0].coven.witchId|tostring, value: {artifacts: .}}) | from_entries') \
   | jq -s \
   > _data/artifacts_and_witches.json
 
-jq -s '.' output_raw/artifacts/* > _data/all_artifacts.json
+jq -cs '.' output_raw/artifacts/* > _data/all_artifacts.json
