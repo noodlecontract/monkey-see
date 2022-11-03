@@ -1,0 +1,77 @@
+{
+  "id": "1015",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1015",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1015&witch-id=4272",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_4272.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4272"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Pink Ivory"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Nasturtium (Yellow)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Fox of Wit (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1015",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "4272",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "handle",
+        "style": "pink-ivory",
+        "url": "https://dl.airtable.com/.attachments/86a84d53e07bd380936477efda425122/ad1957e8/hag_0002s_0000_pink-ivory-.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "nasturtium",
+        "color": "yellow",
+        "url": "https://dl.airtable.com/.attachments/a7b1efe13357f055b8a15718bfbcd578/0fe18e76/_0001s_0001_nasturtium-yellow.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "fox-of-wit",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/260c69835736b2e99c272c6ad7822e9d/fe793b95/_0004s_0003_bottle-fox-gold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 2
+    }
+  }
+}

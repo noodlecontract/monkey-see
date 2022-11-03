@@ -1,0 +1,87 @@
+{
+  "id": "1355",
+  "name": "Spinor's Axe",
+  "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1355",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=1355&witch-id=9690",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_9690.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9690"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Demure (Ruby)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Aries Honeysuckle (Blue)"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Pierine (Rose Quartz)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1355",
+    "name": "Spinor's Axe",
+    "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "9690",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "handle",
+        "style": "demure",
+        "color": "ruby",
+        "url": "https://dl.airtable.com/.attachments/08a5456fd40d36763c80bbbd070172b1/2a0fbc41/spinors-axe-hag-export_0004s_0000_demure-ruby.png"
+      },
+      {
+        "name": "blade",
+        "style": "pierine",
+        "color": "rose-quartz",
+        "url": "https://dl.airtable.com/.attachments/c7ca281f7870c266242be14934416dae/69be44e2/spinors-axe-hag-export_0003s_0003_rose-quartz.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "pierine",
+        "url": "https://dl.airtable.com/.attachments/178b1cc57e98a9c0f9aef0f413cf9e7b/394ae368/axe-blade-mask.png"
+      },
+      {
+        "name": "sun",
+        "style": "aries-honeysuckle",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/50a0afa02b44d8a4db0e6efba23e628b/15b12b3c/spinors-axe-hag-export_0000s_0030_aries-honeysuckle-copy-2.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}

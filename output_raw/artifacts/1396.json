@@ -1,0 +1,96 @@
+{
+  "id": "1396",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1396",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1396&witch-id=8743",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8743.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8743"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Mark of the Untamed"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Raven Skull of Woe (Blackened)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Frayed Charms (Black)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "The Stalk (Void Black)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1396",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "8743",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark",
+        "url": "https://dl.airtable.com/.attachments/b36ba97439faad07d6298ca2d4c7c362/919f8976/_0002s_0002_dark.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "mark-of-the-untamed",
+        "url": "https://dl.airtable.com/.attachments/60059aa4f7d6c1e8962a2da3832e9061/e7505680/_0001s_0003_mark-of-the-untamed.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "frayed-charms",
+        "color": "black",
+        "url": "https://dl.airtable.com/.attachments/658da13451f5df6908891577f491ad7e/eae65fc2/_0000s_0003_frayed-charms-black.png"
+      },
+      {
+        "name": "glow",
+        "style": "the-stalk",
+        "color": "void-black",
+        "url": "https://dl.airtable.com/.attachments/c57ecc25b79772bac5897e5fa8ef46cc/6502ddf0/_0005s_0001_the-stalk-void-black.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "raven-skull-of-woe",
+        "color": "blackened",
+        "url": "https://dl.airtable.com/.attachments/784693d196c79a6b88a4ca373a610693/142d8fdd/_0004s_0013_woe-raven-dark.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

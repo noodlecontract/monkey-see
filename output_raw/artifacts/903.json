@@ -1,0 +1,87 @@
+{
+  "id": "903",
+  "name": "Spinor's Axe",
+  "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/903",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=903&witch-id=4484",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_4484.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4484"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Mantis (Verdant)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Virgo Morning Glory (Pink)"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Pierine (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "903",
+    "name": "Spinor's Axe",
+    "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "4484",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "handle",
+        "style": "mantis",
+        "color": "verdant",
+        "url": "https://dl.airtable.com/.attachments/f104696c14ea23d2f06ee670a2b95f6a/00dd34d1/spinors-axe-hag-export_0004s_0007_mantis-verdant.png"
+      },
+      {
+        "name": "blade",
+        "style": "pierine",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/b22a22ed52e2e62ddfecd86564ae48a3/751c1279/spinors-axe-hag-export_0003s_0002_gold.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "pierine",
+        "url": "https://dl.airtable.com/.attachments/178b1cc57e98a9c0f9aef0f413cf9e7b/394ae368/axe-blade-mask.png"
+      },
+      {
+        "name": "sun",
+        "style": "virgo-morning-glory",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/4ddc698d562860297a80d431f7258087/ac21216e/spinors-axe-hag-export_0000s_0016_virgo-morning-glory-pink.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 0
+    }
+  }
+}

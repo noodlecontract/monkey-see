@@ -1,0 +1,96 @@
+{
+  "id": "1239",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1239",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1239&witch-id=576",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_576.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "576"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Bone"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Mark of the Untamed"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Elephant Skull of Will (Antique)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Frayed Charms (Black)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "The Stalk Lined (Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1239",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "576",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "bone",
+        "url": "https://dl.airtable.com/.attachments/13c64fa7edad8fc9177f21b21d252fc3/18919723/_0002s_0003_bleached.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "mark-of-the-untamed",
+        "url": "https://dl.airtable.com/.attachments/60059aa4f7d6c1e8962a2da3832e9061/e7505680/_0001s_0003_mark-of-the-untamed.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "frayed-charms",
+        "color": "black",
+        "url": "https://dl.airtable.com/.attachments/658da13451f5df6908891577f491ad7e/eae65fc2/_0000s_0003_frayed-charms-black.png"
+      },
+      {
+        "name": "glow",
+        "style": "the-stalk-lined",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/f8c2108c4eb8770325030ebd29f2d46f/25bfd34d/_0005s_0000_the-stalk-lined-red.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "elephant-skull-of-will",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/9f8620ce9355716e38624f22b6153761/83e034ca/_0004s_0002_elephant-will-aged.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

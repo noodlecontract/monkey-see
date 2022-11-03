@@ -1,0 +1,106 @@
+{
+  "id": "1423",
+  "name": "Spinor's Axe",
+  "description": "A prophetic, starlit axe fit for a SEER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1423",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=1423&witch-id=9206",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_9206.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9206"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Flowing Coral (Ochre)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Shell (Silver)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Cloth (Aquamarine)"
+    },
+    {
+      "trait_type": "Handle Ornament",
+      "value": "Piercing Collar (Teal)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "3"
+    }
+  ],
+  "coven": {
+    "id": "1423",
+    "name": "Spinor's Axe",
+    "description": "A prophetic, starlit axe fit for a SEER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "9206",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "handle",
+        "style": "flowing-coral",
+        "color": "ochre",
+        "url": "https://dl.airtable.com/.attachments/23c3e85d23d4d2b9217adfbd93735dcb/aaeb76c0/flowingcoralochre.png"
+      },
+      {
+        "name": "handle-ornament",
+        "style": "piercing-collar",
+        "color": "teal",
+        "url": "https://dl.airtable.com/.attachments/6181fea5bc368f1c2cc9b90e96b8c613/0da6e389/_0003s_0001_piercing-collar-teal-copy.png"
+      },
+      {
+        "name": "blade",
+        "style": "shell",
+        "color": "silver",
+        "url": "https://dl.airtable.com/.attachments/0cc18e7b269b53acb8e187583560eeba/4e76aeef/_0002s_0001_silver.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "shell",
+        "url": "https://dl.airtable.com/.attachments/4f2545bfc2586193d10d1a8cc0cfb432/26efb267/maskspinorsaxeseer.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "cloth",
+        "color": "aquamarine",
+        "url": "https://dl.airtable.com/.attachments/c889f7f3ed00753ead166460d5a33d9a/c1ce03aa/_0001s_0001_cloth-aquamarine.png"
+      },
+      {
+        "name": "sun",
+        "style": "scorpio",
+        "url": "https://dl.airtable.com/.attachments/6ca78b0898c0f31f8cadc5768c5059a5/3b6a04ce/_0000s_0004_scorpio.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 3
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "949",
+  "name": "Rijha's Mirror",
+  "description": "An enchanting mirror in full bloom.  It once reflected the fine ENCHANTRESS RIJHA, now perfect for a new ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/949",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=949&witch-id=8525",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_8525.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8525"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Obsidian (Purple)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Smooth"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cantata, the Stimulating Violin"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "0"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-2"
+    }
+  ],
+  "coven": {
+    "id": "949",
+    "name": "Rijha's Mirror",
+    "description": "An enchanting mirror in full bloom.  It once reflected the fine ENCHANTRESS RIJHA, now perfect for a new ENCHANTRESS.",
+    "witchId": "8525",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/45c316f6c215b5437c990cd938afe997/ab0fdf04/fdeb7098.png"
+      },
+      {
+        "name": "face",
+        "style": "Cantata, the Stimulating Violin",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/496526a8c717f1a40d2867fb0e71e4ae.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/9b372bbdd556b225c6a22b45bab158ea/bbefa87d/enchantress.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "smooth",
+        "url": "https://dl.airtable.com/.attachments/0142225831cab433b4af5e6d89b4c2bc/5ad99223/empty.png"
+      },
+      {
+        "name": "frame",
+        "style": "obsidian",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/d63951cea0e38b85df657ed223c3d78c/1eb55878/obsidianpurple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 0,
+      "woe": -2
+    }
+  }
+}

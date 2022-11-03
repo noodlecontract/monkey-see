@@ -1,0 +1,130 @@
+{
+  "id": "917",
+  "name": "Dove's Monkey Charm",
+  "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/917",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=917&witch-id=1104",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_1104.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1104"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Serene (Blue)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Rope Gourd (Blue)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Austere (Blue)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Gold"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "917",
+    "name": "Dove's Monkey Charm",
+    "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "1104",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "serene",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/c74a8eb0e0551fdc5ef41faef029eaee/efbf5fac/robes-blue.png"
+      },
+      {
+        "name": "head",
+        "style": "ethereum",
+        "url": "https://dl.airtable.com/.attachments/879fe1dd1fc467116d5999b596aec1ea/e26410c2/ethereum_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "gold",
+        "url": "https://dl.airtable.com/.attachments/8978366e39cacaea1eb9495562fce3af/f8532bf4/gold.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "ethereum",
+        "url": "https://dl.airtable.com/.attachments/a9ed399bd7f03a378ab07d6c92d0210a/000f33db/ethereum.png"
+      },
+      {
+        "name": "accessory",
+        "style": "austere",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/48a3ad04f2107361339953800df568f2/b950760e/sigil-blue.png"
+      },
+      {
+        "name": "hands",
+        "style": "ethereum",
+        "url": "https://dl.airtable.com/.attachments/83b9956823a4b5db89a7308831faab0e/b1f0bb98/ethereum_hands.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "rope-gourd",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/f59e7808b6e0f1de1ec30c88ec6fc0e4/0b025453/necromancer_gourd-rope_blue.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

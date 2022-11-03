@@ -1,0 +1,130 @@
+{
+  "id": "794",
+  "name": "Dove's Monkey Charm",
+  "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/794",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=794&witch-id=296",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_296.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "296"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Feral Fawn (Antique)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Auburn"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Incense (Bergamot)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Giant Stole (Light)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Glo"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "794",
+    "name": "Dove's Monkey Charm",
+    "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "296",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/fea7548e8aa6abff074b29f87ff9d4e9/1a591dbc/purple.png"
+      },
+      {
+        "name": "kimono",
+        "style": "feral-fawn",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/df55273e808f5b5f90118ba75f445efb/e2c830f6/occultist-busy.png"
+      },
+      {
+        "name": "head",
+        "style": "auburn",
+        "url": "https://dl.airtable.com/.attachments/9876eec3e8f21d2480067ce92dddd636/37d07a5d/warm-brown_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "glo",
+        "url": "https://dl.airtable.com/.attachments/85602b60f0fb80aca3f884feb5d0703b/e833c450/glo.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "auburn",
+        "url": "https://dl.airtable.com/.attachments/9c4633457ef15b2d8317cfb92d80a43c/847510f1/warm-brown.png"
+      },
+      {
+        "name": "accessory",
+        "style": "giant-stole",
+        "color": "light",
+        "url": "https://dl.airtable.com/.attachments/ded1b4d9aa21ff4af1ff5aedf517977c/64751dd6/giant_stole_white.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "incense",
+        "color": "bergamot",
+        "url": "https://dl.airtable.com/.attachments/3ef2d9e27756a6192b82f88f1b4bf4b6/4dc1dd55/purple_incense.png"
+      },
+      {
+        "name": "hands",
+        "style": "auburn",
+        "url": "https://dl.airtable.com/.attachments/8e5645a99efcf6e33f97b202add8e1f2/a8c888a6/warm-brown-hands.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 2
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "244",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/244",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=244&witch-id=9765",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_9765.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9765"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Aged"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Spotted"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Snake Skull of Wiles (Bleached)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Scales (Natural)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Clear Graphic (Grey)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-2"
+    }
+  ],
+  "coven": {
+    "id": "244",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "9765",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "aged",
+        "url": "https://dl.airtable.com/.attachments/ea35bdcd6d8109f40fe347a8bc1f997c/7b4dbede/_0002s_0001_aged.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "spotted",
+        "url": "https://dl.airtable.com/.attachments/c7df753903c70aa90d1b068d8de6806f/8819232c/_0001s_0000_spotted.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "scales",
+        "color": "natural",
+        "url": "https://dl.airtable.com/.attachments/f330ec980b93466d2f46672261a2b08a/f30cde5b/_0000s_0000_scales.png"
+      },
+      {
+        "name": "glow",
+        "style": "clear-graphic",
+        "color": "grey",
+        "url": "https://dl.airtable.com/.attachments/a3253f7f29f71b09e38db73e0c7cc81d/5b57f3ea/_0005s_0030_clear-graphic-grey.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "snake-skull-of-wiles",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/139b676717ea289942591928a8b18990/0025228c/_0004s_0008_wiles-snake-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -2
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "61",
+  "name": "Dove's Monkey Charm",
+  "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/61",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=61&witch-id=9763",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_9763.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9763"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Deep Stars (Blue)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Mage Glass Ribbon (Blue)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Bicolor Pink Turquoise"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Scripted Glasses (Blue)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "61",
+    "name": "Dove's Monkey Charm",
+    "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "9763",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "platform",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/65e6ad86d1cc725866f02a14b4d9777c/43a61d80/blue.png"
+      },
+      {
+        "name": "kimono",
+        "style": "deep-stars",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/13888e7afa40883253c2b474aa3fa00c/335001fa/mage-stars.png"
+      },
+      {
+        "name": "head",
+        "style": "platinum",
+        "url": "https://dl.airtable.com/.attachments/4889f86720308bffa3d2d244eb625ca1/f7c4556b/platinum_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "bicolor-pink-turquoise",
+        "url": "https://dl.airtable.com/.attachments/229262bd941e9b896f89627fe8d27bc0/7139311c/bicolor-pink-turquoise.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "platinum",
+        "url": "https://dl.airtable.com/.attachments/0f9ee9865a49012b31525ff8bc5b9aaa/190f6562/platinum.png"
+      },
+      {
+        "name": "hands",
+        "style": "platinum",
+        "url": "https://dl.airtable.com/.attachments/5d2e1504b11e40bdf5422e7efa7ca618/7ff5265b/platinum_hands.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "mage-glass-ribbon",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/a8732eb29738e8c688edf95d9e14349a/7af820d4/mage_ribbon-sparkle_blue.png"
+      },
+      {
+        "name": "facewear",
+        "style": "scripted-glasses",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/59f887cb9a92c68034649b9f93df3650/1f92b26b/purple-glasses.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 2
+    }
+  }
+}

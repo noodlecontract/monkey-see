@@ -1,0 +1,83 @@
+{
+  "id": "508",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a hypnotic pool. What future did it see?",
+  "external_url": "https://cryptocoven.xyz/artifacts/508",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=508",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_1_508.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Butterfly (Gold)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Mono"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Red"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "508",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a hypnotic pool. What future did it see?",
+    "witchId": null,
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "shell",
+        "style": "butterfly",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/f3f415d9f347aba23c17c058b0702817/c5105925/butterflygold.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "mono",
+        "url": "https://dl.airtable.com/.attachments/27af5c150886db1ce5ad1ba131a094d1/16263d8f/mono.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "mono",
+        "url": "https://dl.airtable.com/.attachments/76207c2f281360d6e7f449cdf54149b1/9ae57b8d/mono.png"
+      },
+      {
+        "name": "pearl",
+        "style": "red",
+        "url": "https://dl.airtable.com/.attachments/09d9729e11bae1cdc7323f9c351d9702/f6fbc651/pealoccult.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": -1,
+      "wisdom": 1
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "838",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/838",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=838&witch-id=6351",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_6351.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6351"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark Oak"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Woods (Purple)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Moon (Blue)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Shielded"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Wonder"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "838",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "6351",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark-oak",
+        "url": "https://dl.airtable.com/.attachments/406acc79b254f579b577b8e04567f631/fe71ba3a/_0002s_0004_dark-oak.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "woods",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/3be2c84c592db956d09aa75dc140e9ce/c008385a/woods.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "fire",
+        "url": "https://dl.airtable.com/.attachments/f6d780a70af4252049ddfe8ec31c9a1c/bb1614b1/_0000s_0000_fire.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "moon",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/d5fb8991cf915d394df95fd9d0a58cfd/3de6c8d5/_0005s_0004_moon-blue.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "shielded",
+        "url": "https://dl.airtable.com/.attachments/5dbd9220f6ffb76b3ba136407477b0a7/38b96076/_0004s_0000_shielded.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-wonder",
+        "url": "https://dl.airtable.com/.attachments/1967a7b39fe7781e422f64c89777a3be/681e215b/_0003s_0000_wonder.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

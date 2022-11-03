@@ -1,0 +1,77 @@
+{
+  "id": "266",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/266",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=266&witch-id=9709",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_9709.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9709"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Nightshade"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Gardenia (Blue)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Owl of Wisdom (Green)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "266",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "9709",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "handle",
+        "style": "nightshade",
+        "url": "https://dl.airtable.com/.attachments/227596a5406511fb7209a6104a7dc0f5/910adb8a/hag_0002s_0006_nightshade.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "gardenia",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/47cfc446abea5887f566f1c4e6504715/4a7db449/_0001s_0004_gardenia-blue.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "owl-of-wisdom",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/bbeba5d8d855ecb9b6266e94759233e8/0be359a5/_0004s_0014_bottle-owl-green.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

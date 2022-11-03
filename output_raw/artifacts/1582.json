@@ -1,0 +1,140 @@
+{
+  "id": "1582",
+  "name": "Dove's Monkey Charm",
+  "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1582",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1582&witch-id=3332",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_3332.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3332"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Ochre"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Serene (Cream)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Striped Gourd (Red)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bow (Dark)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goth Lolita (Green)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Pink"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1582",
+    "name": "Dove's Monkey Charm",
+    "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "3332",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "platform",
+        "style": "ochre",
+        "url": "https://dl.airtable.com/.attachments/11094dc93933ccc3fdaaadf4a039be10/1a0fb18d/ochre.png"
+      },
+      {
+        "name": "kimono",
+        "style": "serene",
+        "color": "cream",
+        "url": "https://dl.airtable.com/.attachments/d261839dfa40d356e5270b97a0f1138d/c9384048/robes-cream.png"
+      },
+      {
+        "name": "head",
+        "style": "platinum",
+        "url": "https://dl.airtable.com/.attachments/4889f86720308bffa3d2d244eb625ca1/f7c4556b/platinum_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/de02fa4129c0b1c57b7b69bf00e53499/acee45c2/pink.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "platinum",
+        "url": "https://dl.airtable.com/.attachments/0f9ee9865a49012b31525ff8bc5b9aaa/190f6562/platinum.png"
+      },
+      {
+        "name": "accessory",
+        "style": "goth-lolita",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/0f19f6d6837b5c8e8ae642138be52fb6/175a45d1/lolita-green.png"
+      },
+      {
+        "name": "hands",
+        "style": "platinum",
+        "url": "https://dl.airtable.com/.attachments/5d2e1504b11e40bdf5422e7efa7ca618/7ff5265b/platinum_hands.png"
+      },
+      {
+        "name": "hat",
+        "style": "bow",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/db7e1a19fcaa2a7ae102939184c89b76/08fd43d2/dark_bow.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "striped-gourd",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/937923a0e7ea5f022e4e3f74d33345dc/b2be7373/necromancer_gourd_red.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 2
+    }
+  }
+}

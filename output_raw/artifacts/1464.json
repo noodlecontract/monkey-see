@@ -1,0 +1,129 @@
+{
+  "id": "1464",
+  "name": "Dove's Monkey Charm",
+  "description": "A lush snow monkey carved from stone, natural like a HAG. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1464",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1464&witch-id=801",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_801.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "801"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Butterfly Green (Green Blue)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Offering Mochi"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Butterfly Crown (Pink)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Purple"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1464",
+    "name": "Dove's Monkey Charm",
+    "description": "A lush snow monkey carved from stone, natural like a HAG. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "801",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "platform",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/65e6ad86d1cc725866f02a14b4d9777c/43a61d80/blue.png"
+      },
+      {
+        "name": "kimono",
+        "style": "butterfly-green",
+        "color": "green-blue",
+        "url": "https://dl.airtable.com/.attachments/e34b3976b23060520ddba25de26bee38/37ed02b1/hag_green_bue.png"
+      },
+      {
+        "name": "head",
+        "style": "lilac",
+        "url": "https://dl.airtable.com/.attachments/a91300ade5c4781ba55cca3b11b75caf/7a30e957/lilac_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/7f5997a0bdf79549af54e312cb91869b/04e8241c/purple.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "lilac",
+        "url": "https://dl.airtable.com/.attachments/23f1e5da8b13d3ee9a666541f5bef266/b9fa7f12/lilac.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "offering-mochi",
+        "url": "https://dl.airtable.com/.attachments/d2f251371ebf2a8b43293c3f8383201f/732709d3/offering_mochi.png"
+      },
+      {
+        "name": "hands",
+        "style": "lilac",
+        "url": "https://dl.airtable.com/.attachments/ce65cab1ec72a9d292e7506a506a62a8/800ed566/lilac_hands.png"
+      },
+      {
+        "name": "hat",
+        "style": "butterfly-crown",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/cc3e6f9d38aa91f1c8f169ebdbabdb86/1f015a4a/pink.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": -1
+    }
+  }
+}

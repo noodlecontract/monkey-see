@@ -1,0 +1,130 @@
+{
+  "id": "412",
+  "name": "Dove's Monkey Charm",
+  "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/412",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=412&witch-id=2245",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_2245.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "2245"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Royal Thorns (Red)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Tasseled Fan (Gold)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Earth Queen (Purple)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Grey"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "412",
+    "name": "Dove's Monkey Charm",
+    "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "2245",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "royal-thorns",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/3be12ac486f7a54e3a6e5f81b37e5fe6/3170480f/encahntress_royal.png"
+      },
+      {
+        "name": "head",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/8b204dc0fe29bc05361418d59b1eb932/bb83ab14/lavender_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "grey",
+        "url": "https://dl.airtable.com/.attachments/1be45c0f63fc0bd62cb59ada9571f986/a7371610/grey.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/26c61f74f38d6f8a33758dea4fe8a078/66e6c710/lavender.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "tasseled-fan",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/01bf67be361b40211b8e2d8b9e601f8a/c05bb8c1/gold-tassel.png"
+      },
+      {
+        "name": "hands",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/bb45d7fa185a5a17dbfb78113920b199/aa198415/lavender_hands.png"
+      },
+      {
+        "name": "hat",
+        "style": "earth-queen",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/15082c12754d2a99128e8f53cc540cc5/b34c324e/flower_purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

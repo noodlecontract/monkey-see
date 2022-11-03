@@ -1,0 +1,131 @@
+{
+  "id": "618",
+  "name": "Dove's Monkey Charm",
+  "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/618",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=618&witch-id=4606",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_4606.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4606"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Feral Fawn (Antique)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Incense (Bergamot)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bone Corset (White)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Demon Aqua (Aqua)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "618",
+    "name": "Dove's Monkey Charm",
+    "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "4606",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/fea7548e8aa6abff074b29f87ff9d4e9/1a591dbc/purple.png"
+      },
+      {
+        "name": "kimono",
+        "style": "feral-fawn",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/df55273e808f5b5f90118ba75f445efb/e2c830f6/occultist-busy.png"
+      },
+      {
+        "name": "head",
+        "style": "platinum",
+        "url": "https://dl.airtable.com/.attachments/4889f86720308bffa3d2d244eb625ca1/f7c4556b/platinum_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "black",
+        "url": "https://dl.airtable.com/.attachments/2f23d1908adb5e87b77e507a55f90c68/7406b761/eye-black.png"
+      },
+      {
+        "name": "irises",
+        "style": "demon-aqua",
+        "color": "aqua",
+        "url": "https://dl.airtable.com/.attachments/83553464bd1c2be512b7ad705d2bbed6/91b05095/demon-aqua.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "platinum",
+        "url": "https://dl.airtable.com/.attachments/0f9ee9865a49012b31525ff8bc5b9aaa/190f6562/platinum.png"
+      },
+      {
+        "name": "accessory",
+        "style": "bone-corset",
+        "color": "white",
+        "url": "https://dl.airtable.com/.attachments/b2eccde6f37978a729d9f4f2a423389d/5a10b50b/bone-corset_white.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "incense",
+        "color": "bergamot",
+        "url": "https://dl.airtable.com/.attachments/3ef2d9e27756a6192b82f88f1b4bf4b6/4dc1dd55/purple_incense.png"
+      },
+      {
+        "name": "hands",
+        "style": "platinum",
+        "url": "https://dl.airtable.com/.attachments/5d2e1504b11e40bdf5422e7efa7ca618/7ff5265b/platinum_hands.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "905",
+  "name": "Dove's Monkey Charm",
+  "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/905",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=905&witch-id=9073",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_9073.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9073"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Austere Fawn (Cream)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Incense (Ocotillo Bloom)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Demon Pink (Pink)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "905",
+    "name": "Dove's Monkey Charm",
+    "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "9073",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "austere-fawn",
+        "color": "cream",
+        "url": "https://dl.airtable.com/.attachments/751dbf6fb0d22eba04a762a5d0192848/bbf6dbf9/occultist-plain2.png"
+      },
+      {
+        "name": "head",
+        "style": "mauve",
+        "url": "https://dl.airtable.com/.attachments/7c7157499f26187c1f99b9bb389d50ba/0a05b706/mauve_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "black",
+        "url": "https://dl.airtable.com/.attachments/2f23d1908adb5e87b77e507a55f90c68/7406b761/eye-black.png"
+      },
+      {
+        "name": "irises",
+        "style": "demon-pink",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/56b6d652e8d0bc99ee6681b30b3a985e/139557a5/demon-pink.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "mauve",
+        "url": "https://dl.airtable.com/.attachments/4b137047d8f12d7644c3c2ed022d145f/e6d26237/mauve.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "incense",
+        "color": "ocotillo-bloom",
+        "url": "https://dl.airtable.com/.attachments/50523b4da0115010586838e6520e3833/d6c0c694/pink_incense.png"
+      },
+      {
+        "name": "hands",
+        "style": "mauve",
+        "url": "https://dl.airtable.com/.attachments/7c766b8b65d87e1742073ba1ca5860b1/84c3f9cd/mauve_hands.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 2
+    }
+  }
+}

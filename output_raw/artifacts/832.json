@@ -1,0 +1,130 @@
+{
+  "id": "832",
+  "name": "Dove's Monkey Charm",
+  "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/832",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=832&witch-id=9353",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_9353.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9353"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Kraken (Orange)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fortune (Red Blue)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Third Eye (Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "832",
+    "name": "Dove's Monkey Charm",
+    "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "9353",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/fea7548e8aa6abff074b29f87ff9d4e9/1a591dbc/purple.png"
+      },
+      {
+        "name": "kimono",
+        "style": "kraken",
+        "color": "orange",
+        "url": "https://dl.airtable.com/.attachments/fe19f26a7071ae17cc892e2dc0b4b663/69fa17ca/seer-orange.png"
+      },
+      {
+        "name": "head",
+        "style": "mauve",
+        "url": "https://dl.airtable.com/.attachments/7c7157499f26187c1f99b9bb389d50ba/0a05b706/mauve_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/7f5997a0bdf79549af54e312cb91869b/04e8241c/purple.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "mauve",
+        "url": "https://dl.airtable.com/.attachments/4b137047d8f12d7644c3c2ed022d145f/e6d26237/mauve.png"
+      },
+      {
+        "name": "hands",
+        "style": "mauve",
+        "url": "https://dl.airtable.com/.attachments/7c766b8b65d87e1742073ba1ca5860b1/84c3f9cd/mauve_hands.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "fortune",
+        "color": "red-blue",
+        "url": "https://dl.airtable.com/.attachments/ab5c35baab3f103ccc03bb0f89e474bb/a279a830/red-sand.png"
+      },
+      {
+        "name": "facewear",
+        "style": "third-eye",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/8fe1650a8cf01a1ea7ccae4e5c84a349/80866e51/red.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": -1
+    }
+  }
+}

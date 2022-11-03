@@ -1,0 +1,125 @@
+{
+  "id": "1545",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1545",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=1545&witch-id=8600",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_8600.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8600"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Splash (Chartreuse)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Hydrophobic Pool (Azure)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Tripod (Glow)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Energy Blob (Glow)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Tripod (Pink)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1545",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+    "witchId": "8600",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "stand",
+        "style": "tripod",
+        "color": "glow",
+        "url": "https://dl.airtable.com/.attachments/54a933b7a5e022cfdf0531a85d4f689a/1a63cc87/neutral-blue.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "tripod",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/b0cb1e27d3125c12fc9cfadd693daba0/f7cd09bb/pink.png"
+      },
+      {
+        "name": "shell",
+        "style": "splash",
+        "color": "chartreuse",
+        "url": "https://dl.airtable.com/.attachments/e48cd5c9f064db75516ede5e6b2c5cef/63c0b81e/mage_green.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "energy-blob",
+        "color": "glow",
+        "url": "https://dl.airtable.com/.attachments/5d4bd496a0c61364b9e0da946418978c/75e12a8a/mage_blob.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "hydrophobic-pool",
+        "color": "azure",
+        "url": "https://dl.airtable.com/.attachments/4bdaae60fff318f2cb7c1d1f253ad527/7f90f26a/purple.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "hydrophobic-pool",
+        "color": "azure",
+        "url": "https://dl.airtable.com/.attachments/dce2b05b99c6bbe2d4c5cfe59d7a6a2f/32a2dbd6/purple-overlay.png"
+      },
+      {
+        "name": "pearl",
+        "style": "grey",
+        "url": "https://dl.airtable.com/.attachments/90b8cf5047d5d577e1f2e515b37ac7d9/1fe7600b/pearlnecro.png"
+      },
+      {
+        "name": "shell-front",
+        "style": "splash",
+        "color": "chartreuse",
+        "url": "https://dl.airtable.com/.attachments/91cb860cff6cd8f5eeb6b0520eb71a04/eea81499/mage_green.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": -1,
+      "wisdom": 2
+    }
+  }
+}

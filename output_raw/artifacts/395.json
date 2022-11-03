@@ -1,0 +1,120 @@
+{
+  "id": "395",
+  "name": "Dove's Monkey Charm",
+  "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/395",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=395&witch-id=557",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_557.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "557"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Deep Stars (Blue)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Neon Ribbon (Glowing)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Red"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "395",
+    "name": "Dove's Monkey Charm",
+    "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "557",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "deep-stars",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/13888e7afa40883253c2b474aa3fa00c/335001fa/mage-stars.png"
+      },
+      {
+        "name": "head",
+        "style": "steel",
+        "url": "https://dl.airtable.com/.attachments/aa01164debb184c1cef55a1c01cf63ae/bde2fd3b/steel_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "red",
+        "url": "https://dl.airtable.com/.attachments/cf919f1d88ef9af8079dadfc2d922aae/3558d303/red.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "steel",
+        "url": "https://dl.airtable.com/.attachments/31b19fcd8f836fe63e25bab7cf6b7683/da384f67/steel.png"
+      },
+      {
+        "name": "hands",
+        "style": "steel",
+        "url": "https://dl.airtable.com/.attachments/3014bb7519b4e86af65cf46ab2118df6/ac457680/steel_hands.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "neon-ribbon",
+        "color": "glowing",
+        "url": "https://dl.airtable.com/.attachments/74565621ab2db6f52916203a410ee777/11bb2cb8/mint-plain.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": -1
+    }
+  }
+}

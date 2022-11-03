@@ -1,0 +1,96 @@
+{
+  "id": "93",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/93",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=93&witch-id=9025",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_9025.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9025"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Striated"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Elephant Skull of Will (Bleached)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Frayed Charms (Green)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Sclera (Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "93",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "9025",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark",
+        "url": "https://dl.airtable.com/.attachments/b36ba97439faad07d6298ca2d4c7c362/919f8976/_0002s_0002_dark.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "striated",
+        "url": "https://dl.airtable.com/.attachments/ad21f94d6b5646fc00fc1c4c595ed48f/3a631edb/_0001s_0001_striated.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "frayed-charms",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/4c37cec85e65973f3677ea58202daa87/4f8b2c8d/_0000s_0001_frayed-charms-green.png"
+      },
+      {
+        "name": "glow",
+        "style": "sclera",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/03848aba338b5c21130132f18541de38/26157507/_0005s_0016_sclera-red.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "elephant-skull-of-will",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/b6cba3298bdc82fac3b6814ab00dbf84/ed19d4ce/_0004s_0001_elephant-will-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

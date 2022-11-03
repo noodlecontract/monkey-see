@@ -1,0 +1,129 @@
+{
+  "id": "767",
+  "name": "Dove's Monkey Charm",
+  "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/767",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=767&witch-id=3256",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_3256.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3256"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Ochre"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Deep Stars (Blue)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Elemental Shroud (Gold)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Wire Glasses"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "767",
+    "name": "Dove's Monkey Charm",
+    "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "3256",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "platform",
+        "style": "ochre",
+        "url": "https://dl.airtable.com/.attachments/11094dc93933ccc3fdaaadf4a039be10/1a0fb18d/ochre.png"
+      },
+      {
+        "name": "kimono",
+        "style": "deep-stars",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/13888e7afa40883253c2b474aa3fa00c/335001fa/mage-stars.png"
+      },
+      {
+        "name": "head",
+        "style": "mermaid",
+        "url": "https://dl.airtable.com/.attachments/2ff3255f37c1033eaa41dfd87cac418a/7ce8b350/mermaid_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "glo",
+        "url": "https://dl.airtable.com/.attachments/85602b60f0fb80aca3f884feb5d0703b/e833c450/glo.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "mermaid",
+        "url": "https://dl.airtable.com/.attachments/3e8c652d535006bfab87c03923baeeec/24a90825/mermaid.png"
+      },
+      {
+        "name": "hands",
+        "style": "mermaid",
+        "url": "https://dl.airtable.com/.attachments/e6434ebb5eb267e9a22c23ba62b1cfb9/43b03697/mermaid_hands.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "elemental-shroud",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/f8ad2f848d424f98c042a844d8615c12/e4044bf8/elemental-gold.png"
+      },
+      {
+        "name": "facewear",
+        "style": "wire-glasses",
+        "url": "https://dl.airtable.com/.attachments/97e56255fced051dd4737ae78553f733/9d01b1fe/wire-glasses.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

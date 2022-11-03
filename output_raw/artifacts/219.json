@@ -1,0 +1,103 @@
+{
+  "id": "219",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/219",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=219&witch-id=8353",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8353.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8353"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Daedric (Purple)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Nega Moon"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Deco"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Wonder"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "219",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "8353",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "handle",
+        "style": "obsidian",
+        "url": "https://dl.airtable.com/.attachments/deb319228384521d1afddf69854dc094/dde56b92/_0002s_0006_obsidian.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "daedric",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/d7bec4639d0f68d9b0c0344829f1d39d/ce420ad0/daedric.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d2a1dc4d7546a49ac6f01188a7dd3dfc/82d87c10/_0000s_0001_pink.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "nega-moon",
+        "url": "https://dl.airtable.com/.attachments/8bfd895021d543e90f89f7d067f49d0b/e5942b12/_0005s_0001_nega-moon.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "deco",
+        "url": "https://dl.airtable.com/.attachments/13c2108a62fd15c074783194277ee5e9/c3007f0b/_0004s_0002_deco.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-wonder",
+        "url": "https://dl.airtable.com/.attachments/1967a7b39fe7781e422f64c89777a3be/681e215b/_0003s_0000_wonder.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "1471",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1471",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1471&witch-id=101",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_101.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "101"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Raven Skull of Woe (Blackened)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Frayed Charms (Red)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Hypnotic (Pink)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1471",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "101",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark",
+        "url": "https://dl.airtable.com/.attachments/b36ba97439faad07d6298ca2d4c7c362/919f8976/_0002s_0002_dark.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "cracked",
+        "url": "https://dl.airtable.com/.attachments/84483efbca9ff68631167376865070c2/70216b53/_0001s_0002_cracked.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "frayed-charms",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/3d1ff301c2270287880fe4387a9cd757/9250256d/_0000s_0002_frayed-charms-red.png"
+      },
+      {
+        "name": "glow",
+        "style": "hypnotic",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/c9f95307e041429cb04db553d69ab919/acd62914/_0005s_0025_hypnotic-pink.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "raven-skull-of-woe",
+        "color": "blackened",
+        "url": "https://dl.airtable.com/.attachments/784693d196c79a6b88a4ca373a610693/142d8fdd/_0004s_0013_woe-raven-dark.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1504",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1504",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1504&witch-id=6117",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_6117.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6117"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Aubergine"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Turkeytail (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Owl of Wisdom (Warm)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1504",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "6117",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "aubergine",
+        "url": "https://dl.airtable.com/.attachments/302f15a565062b4ebb63928e0a849db0/6852e717/hag_0002s_0005_aubergine.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "turkeytail",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/04b971cbc26dd454931394c86f87b095/383fae13/hag_0001s_0005_turkeytail-pink.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "owl-of-wisdom",
+        "color": "warm",
+        "url": "https://dl.airtable.com/.attachments/ea55cf4325dc52c8d8a8271ba9e2754a/96342e23/hag_0004s_0007_bottle-owl-warm-.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

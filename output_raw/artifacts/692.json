@@ -1,0 +1,109 @@
+{
+  "id": "692",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/692",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=692&witch-id=637",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_637.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "637"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Skull (Bleached)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Shallow Pool (Green)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Twists Passiflora (Horn)"
+    },
+    {
+      "trait_type": "Background Decor",
+      "value": "Amber Wraps (Purple)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "692",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+    "witchId": "637",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "shell",
+        "style": "skull",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/0ce672447ed15809d01ef18eb2b1f81a/3942376c/skull_bleached.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "twists-passiflora",
+        "color": "horn",
+        "url": "https://dl.airtable.com/.attachments/ae9ef91d784143c725ee64d7dda19a58/a36ba0d1/passiflora-twists.png"
+      },
+      {
+        "name": "background-decor",
+        "style": "amber-wraps",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/5799ed422f7aaeefe547281d2311625a/dbac8b3f/decor-purple.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "shallow-pool",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/34725d6e404069ba9c52d63c25a866df/248b0b09/wooo.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "shallow-pool",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/5ef43b2b20073a9e9e3cc469215d7f33/c0041d56/wooo-overlay.png"
+      },
+      {
+        "name": "pearl",
+        "style": "spectral",
+        "url": "https://dl.airtable.com/.attachments/eb41891acc92348fc6d45e89411351fe/7058383d/pearlspectral.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": 1
+    }
+  }
+}

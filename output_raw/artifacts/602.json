@@ -1,0 +1,104 @@
+{
+  "id": "602",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/602",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=602&witch-id=5910",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_5910.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "5910"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark Oak"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Daedric (Jade)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Soul Fire (Blue)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Shielded"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Woe"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "602",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "5910",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark-oak",
+        "url": "https://dl.airtable.com/.attachments/406acc79b254f579b577b8e04567f631/fe71ba3a/_0002s_0004_dark-oak.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "daedric",
+        "color": "jade",
+        "url": "https://dl.airtable.com/.attachments/ddbcf9ce31d9f347a5ba9f41c7125307/be81cd8c/_0001s_0005s_0006_daedric.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "aqua",
+        "url": "https://dl.airtable.com/.attachments/4c35732660330b3896f12519439543d4/d0510592/_0000s_0003_aqua.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "soul-fire",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/ca5532c2962a05a8b4af09bc17ad2b40/1014d990/_0005s_0008_soulfire-blue.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "shielded",
+        "url": "https://dl.airtable.com/.attachments/5dbd9220f6ffb76b3ba136407477b0a7/38b96076/_0004s_0000_shielded.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-woe",
+        "url": "https://dl.airtable.com/.attachments/06791927413d47bc5e7cb449e1033f24/7bbadd4f/_0003s_0003_woe.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

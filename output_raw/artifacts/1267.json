@@ -1,0 +1,129 @@
+{
+  "id": "1267",
+  "name": "Dove's Monkey Charm",
+  "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1267",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1267&witch-id=7037",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_7037.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7037"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Austere Fawn (Cream)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Incense (Ocotillo Bloom)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Coyote Stole"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Gold"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1267",
+    "name": "Dove's Monkey Charm",
+    "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "7037",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/fea7548e8aa6abff074b29f87ff9d4e9/1a591dbc/purple.png"
+      },
+      {
+        "name": "kimono",
+        "style": "austere-fawn",
+        "color": "cream",
+        "url": "https://dl.airtable.com/.attachments/751dbf6fb0d22eba04a762a5d0192848/bbf6dbf9/occultist-plain2.png"
+      },
+      {
+        "name": "head",
+        "style": "navy",
+        "url": "https://dl.airtable.com/.attachments/b7768bb681f39788657fe10ba822ea28/f18fe978/navy_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "black",
+        "url": "https://dl.airtable.com/.attachments/2f23d1908adb5e87b77e507a55f90c68/7406b761/eye-black.png"
+      },
+      {
+        "name": "irises",
+        "style": "gold",
+        "url": "https://dl.airtable.com/.attachments/8978366e39cacaea1eb9495562fce3af/f8532bf4/gold.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "navy",
+        "url": "https://dl.airtable.com/.attachments/d3e67f367e19a99520a0a2c3af6d8fe2/e832b9f5/navy.png"
+      },
+      {
+        "name": "accessory",
+        "style": "coyote-stole",
+        "url": "https://dl.airtable.com/.attachments/f97cadec1fcd0a3939fa60c97e1106ab/4537d536/wolf.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "incense",
+        "color": "ocotillo-bloom",
+        "url": "https://dl.airtable.com/.attachments/50523b4da0115010586838e6520e3833/d6c0c694/pink_incense.png"
+      },
+      {
+        "name": "hands",
+        "style": "navy",
+        "url": "https://dl.airtable.com/.attachments/3aafedeec33a04ece93c5d8ca1464a52/fd3893db/navy_hands.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": -1
+    }
+  }
+}

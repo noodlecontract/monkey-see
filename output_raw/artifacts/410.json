@@ -1,0 +1,129 @@
+{
+  "id": "410",
+  "name": "Dove's Monkey Charm",
+  "description": "A lush snow monkey carved from stone, natural like a HAG. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/410",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=410&witch-id=7999",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_7999.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7999"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Butterfly Purple (Purple Pink)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Offering Mushroom"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Butterfly Crown (Blue Purple)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Bicolor Pink Turquoise"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "410",
+    "name": "Dove's Monkey Charm",
+    "description": "A lush snow monkey carved from stone, natural like a HAG. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "7999",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "butterfly-purple",
+        "color": "purple-pink",
+        "url": "https://dl.airtable.com/.attachments/3a43964a34213a745173f8e396d4049f/f3bb3501/hag_purple_pink.png"
+      },
+      {
+        "name": "head",
+        "style": "silver",
+        "url": "https://dl.airtable.com/.attachments/fadc963134af9a98bc1882e0a645b300/9fa1adb6/silver_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "bicolor-pink-turquoise",
+        "url": "https://dl.airtable.com/.attachments/229262bd941e9b896f89627fe8d27bc0/7139311c/bicolor-pink-turquoise.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "silver",
+        "url": "https://dl.airtable.com/.attachments/6a2d88efeb29cdcf3b9264426ec4d844/3d231d2e/silver.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "offering-mushroom",
+        "url": "https://dl.airtable.com/.attachments/6c649f78806bc380332007256a14e701/8618f9f3/offering_mushroom.png"
+      },
+      {
+        "name": "hands",
+        "style": "silver",
+        "url": "https://dl.airtable.com/.attachments/caa791f01c2ee4f13b27f0f22a0eac84/913d8210/silver_hands.png"
+      },
+      {
+        "name": "hat",
+        "style": "butterfly-crown",
+        "color": "blue-purple",
+        "url": "https://dl.airtable.com/.attachments/f5fa1a435e2f1e9334c640e41f2957b3/3c50cebc/pink-blue.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 2
+    }
+  }
+}

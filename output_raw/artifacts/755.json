@@ -1,0 +1,77 @@
+{
+  "id": "755",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/755",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=755&witch-id=5077",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_5077.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "5077"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Nightshade"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Turkeytail (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Deer of Wonder (Warm)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "755",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "5077",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "handle",
+        "style": "nightshade",
+        "url": "https://dl.airtable.com/.attachments/227596a5406511fb7209a6104a7dc0f5/910adb8a/hag_0002s_0006_nightshade.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "turkeytail",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/04b971cbc26dd454931394c86f87b095/383fae13/hag_0001s_0005_turkeytail-pink.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "deer-of-wonder",
+        "color": "warm",
+        "url": "https://dl.airtable.com/.attachments/04095c2a227636ceff67f6d679700d1f/482e8a4d/hag_0004s_0010_bottle-deer-warm.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

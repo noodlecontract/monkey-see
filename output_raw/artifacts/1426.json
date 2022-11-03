@@ -1,0 +1,86 @@
+{
+  "id": "1426",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1426",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1426&witch-id=6998",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_6998.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6998"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Turkeytail (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Owl of Wisdom (Cool)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Cabbage White Butterfly"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1426",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "6998",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "handle",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/bff6822f6752473b442931f2fa1baf78/fc31062d/_0002s_0004_lavender.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "turkeytail",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/04b971cbc26dd454931394c86f87b095/383fae13/hag_0001s_0005_turkeytail-pink.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "cabbage-white-butterfly",
+        "url": "https://dl.airtable.com/.attachments/0f270170666c97f52e5155adbbc08f8b/5d40fd13/hag_0000s_0002_cabbage-white-.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "owl-of-wisdom",
+        "color": "cool",
+        "url": "https://dl.airtable.com/.attachments/823d89d0af476f4ca565c2e1b15063bf/85604aef/hag_0004s_0006_bottle-owl-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

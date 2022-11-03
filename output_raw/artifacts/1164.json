@@ -1,0 +1,111 @@
+{
+  "id": "1164",
+  "name": "Rijha's Mirror",
+  "description": "An intricately carved mirror that once reflected the fine ENCHANTRESS RIJHA. It cannot seem to find your face…",
+  "external_url": "https://cryptocoven.xyz/artifacts/1164",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=1164",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_2_1164.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Polished Dawn"
+    },
+    {
+      "trait_type": "Frame Ornament",
+      "value": "Labradorite"
+    },
+    {
+      "trait_type": "Charm",
+      "value": "Cat Eye (Red)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Void (Starry)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Rijha"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1164",
+    "name": "Rijha's Mirror",
+    "description": "An intricately carved mirror that once reflected the fine ENCHANTRESS RIJHA. It cannot seem to find your face…",
+    "witchId": null,
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/5b03a0617f9911924488f6c08a07fddf/f316a37c/8cfa705e.png"
+      },
+      {
+        "name": "face",
+        "style": "Rijha",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/rijha-unattuned.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/ac419163124986c1eaaafccd6483c9bf/a3a4a9b7/217c56bd.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "void",
+        "color": "starry",
+        "url": "https://dl.airtable.com/.attachments/2bf1bccf1d9b77d4eb21674766323459/ab12d4e9/voidmirrorstarry.png"
+      },
+      {
+        "name": "frame",
+        "style": "polished-dawn",
+        "url": "https://dl.airtable.com/.attachments/843b3ee16ba1df60653b1ed0241e8428/e9853043/_0004s_0006_3.png"
+      },
+      {
+        "name": "frame-ornament",
+        "style": "labradorite",
+        "url": "https://dl.airtable.com/.attachments/b669c80009a83a649657b78bf464fea9/ae37415e/mirror-unattuned-export_0002s_0000_6.png"
+      },
+      {
+        "name": "charm",
+        "style": "cat-eye",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/43ea77db1e5d3524dca1fb0cdbf1c42d/2cb80d75/mirror-unattuned-export_0001s_0000_cat-eye-copy-4.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 1,
+      "woe": 1
+    }
+  }
+}

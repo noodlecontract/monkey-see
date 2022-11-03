@@ -1,0 +1,111 @@
+{
+  "id": "329",
+  "name": "Dove's Monkey Charm",
+  "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/329",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=329&witch-id=7368",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_7368.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7368"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Kraken (Orange Purple)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fortune (Blue Purple)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blank (Glo)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "329",
+    "name": "Dove's Monkey Charm",
+    "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "7368",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "kraken",
+        "color": "orange-purple",
+        "url": "https://dl.airtable.com/.attachments/8143f782516fd561d984fcfbfd25511a/0cf01e3c/ornge-purple.png"
+      },
+      {
+        "name": "head",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/8b204dc0fe29bc05361418d59b1eb932/bb83ab14/lavender_head.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "expression",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/26c61f74f38d6f8a33758dea4fe8a078/66e6c710/lavender.png"
+      },
+      {
+        "name": "eyes",
+        "style": "blank",
+        "color": "glo",
+        "url": "https://dl.airtable.com/.attachments/a6b23ebdb84e31d9349c23ac3f2e2581/21cafa23/void-green.png"
+      },
+      {
+        "name": "hands",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/bb45d7fa185a5a17dbfb78113920b199/aa198415/lavender_hands.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "fortune",
+        "color": "blue-purple",
+        "url": "https://dl.airtable.com/.attachments/0ba1a5e778aa5b5472dbf97c1a9cd88a/78a790b9/blue-purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": -1
+    }
+  }
+}

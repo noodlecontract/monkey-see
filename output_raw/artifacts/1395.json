@@ -1,0 +1,120 @@
+{
+  "id": "1395",
+  "name": "Dove's Monkey Charm",
+  "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1395",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1395&witch-id=8743",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_8743.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8743"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Feral Flesh (Dark)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Incense (Sandalwood)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Coyote Stole"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "The Stalk (Void Black)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1395",
+    "name": "Dove's Monkey Charm",
+    "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "8743",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "feral-flesh",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/1a6e173233d8741d700da8d2d46999e3/9e7fdedb/dark-feral.png"
+      },
+      {
+        "name": "head",
+        "style": "navy",
+        "url": "https://dl.airtable.com/.attachments/b7768bb681f39788657fe10ba822ea28/f18fe978/navy_head.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "expression",
+        "style": "navy",
+        "url": "https://dl.airtable.com/.attachments/d3e67f367e19a99520a0a2c3af6d8fe2/e832b9f5/navy.png"
+      },
+      {
+        "name": "eyes",
+        "style": "the-stalk",
+        "color": "void-black",
+        "url": "https://dl.airtable.com/.attachments/ebdbee13a6cf7e49e184bfadcba8236f/248b8a43/stalk.png"
+      },
+      {
+        "name": "accessory",
+        "style": "coyote-stole",
+        "url": "https://dl.airtable.com/.attachments/f97cadec1fcd0a3939fa60c97e1106ab/4537d536/wolf.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "incense",
+        "color": "sandalwood",
+        "url": "https://dl.airtable.com/.attachments/6cc740454fa2e4f7ddb03ed44f5a1a28/8b98abc4/brown_incense.png"
+      },
+      {
+        "name": "hands",
+        "style": "navy",
+        "url": "https://dl.airtable.com/.attachments/3aafedeec33a04ece93c5d8ca1464a52/fd3893db/navy_hands.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

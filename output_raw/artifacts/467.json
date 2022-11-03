@@ -1,0 +1,86 @@
+{
+  "id": "467",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/467",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=467&witch-id=6765",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_6765.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6765"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Aubergine"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Nasturtium (Red)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Deer of Wonder (Warm)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Cabbage White Butterfly"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "467",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "6765",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "handle",
+        "style": "aubergine",
+        "url": "https://dl.airtable.com/.attachments/302f15a565062b4ebb63928e0a849db0/6852e717/hag_0002s_0005_aubergine.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "nasturtium",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/0d02a819c580967d27b0a9636f598c44/8a304d98/_0001s_0002_nasturtium-red.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "cabbage-white-butterfly",
+        "url": "https://dl.airtable.com/.attachments/0f270170666c97f52e5155adbbc08f8b/5d40fd13/hag_0000s_0002_cabbage-white-.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "deer-of-wonder",
+        "color": "warm",
+        "url": "https://dl.airtable.com/.attachments/04095c2a227636ceff67f6d679700d1f/482e8a4d/hag_0004s_0010_bottle-deer-warm.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

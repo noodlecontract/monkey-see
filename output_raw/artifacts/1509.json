@@ -1,0 +1,120 @@
+{
+  "id": "1509",
+  "name": "Dove's Monkey Charm",
+  "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1509",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1509&witch-id=6490",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_6490.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6490"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Ochre"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Austere Fawn (Dark)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Phosphorous Incense (Red)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Grey"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1509",
+    "name": "Dove's Monkey Charm",
+    "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "6490",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "platform",
+        "style": "ochre",
+        "url": "https://dl.airtable.com/.attachments/11094dc93933ccc3fdaaadf4a039be10/1a0fb18d/ochre.png"
+      },
+      {
+        "name": "kimono",
+        "style": "austere-fawn",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/e3b73f370c66c605c0770477ad1c1807/4e6c20e8/fawn-dark.png"
+      },
+      {
+        "name": "head",
+        "style": "mermaid",
+        "url": "https://dl.airtable.com/.attachments/2ff3255f37c1033eaa41dfd87cac418a/7ce8b350/mermaid_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "grey",
+        "url": "https://dl.airtable.com/.attachments/1be45c0f63fc0bd62cb59ada9571f986/a7371610/grey.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "mermaid",
+        "url": "https://dl.airtable.com/.attachments/3e8c652d535006bfab87c03923baeeec/24a90825/mermaid.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "phosphorous-incense",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/dd089900881ba1a18a898a5cd0b13478/b5ecb0e7/PHOSPHOROUS.png"
+      },
+      {
+        "name": "hands",
+        "style": "mermaid",
+        "url": "https://dl.airtable.com/.attachments/e6434ebb5eb267e9a22c23ba62b1cfb9/43b03697/mermaid_hands.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 2
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "553",
+  "name": "Iona's Crook",
+  "description": "A prophetic impression of the HAG IONA’s shepherd’s crook. Its oceanic lantern is well-suited to a SEER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/553",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=553&witch-id=1492",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_1492.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1492"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Flora"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Nautilus of Wisdom (Dark Iridescent)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "White Gold"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "553",
+    "name": "Iona's Crook",
+    "description": "A prophetic impression of the HAG IONA’s shepherd’s crook. Its oceanic lantern is well-suited to a SEER.",
+    "witchId": "1492",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "handle",
+        "style": "navy",
+        "url": "https://dl.airtable.com/.attachments/f02773fa0ea7b01199f988d2ce9f25c4/ea438e13/ionas-crook-seer_0002s_0006_navy-blue.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "flora",
+        "url": "https://dl.airtable.com/.attachments/3041edf0150dfc22ec1d75fc459ee509/25b7bca4/ionas-crook-seer_0001s_0000_flora.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "white-gold",
+        "url": "https://dl.airtable.com/.attachments/4193004e23ae98b98716299dba6e68e2/6d493154/ionas-crook-seer_0000s_0000_jeweled-cuffs---white-gold.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "nautilus-of-wisdom",
+        "color": "dark-iridescent",
+        "url": "https://dl.airtable.com/.attachments/21a5a2c1660ad3903d77ca91efb77897/f6fbf00b/ionas-crook-seer_0003s_0016_wisdom-nautilus-dark-iridescent.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

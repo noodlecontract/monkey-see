@@ -1,0 +1,129 @@
+{
+  "id": "920",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/920",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=920&witch-id=3509",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_3509.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3509"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Lava Rock (Jade)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Languid Pool (Orange)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Moss (Green)"
+    },
+    {
+      "trait_type": "Right Plant",
+      "value": "Spiky (Gold)"
+    },
+    {
+      "trait_type": "Back Plant",
+      "value": "Fern (Green)"
+    },
+    {
+      "trait_type": "Left Plant",
+      "value": "Thistle (Green)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "920",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+    "witchId": "3509",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "shell",
+        "style": "lava-rock",
+        "color": "jade",
+        "url": "https://dl.airtable.com/.attachments/880b4891a036bc7eb3082adc57c6a5d5/2f04c02b/jade.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "moss",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/33b8283983e0058ac5ef7bdfc2fcea11/f74ab6ff/moss.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "languid-pool",
+        "color": "orange",
+        "url": "https://dl.airtable.com/.attachments/92d5bab38f52aceca5f267534a72ffbc/12950332/orange.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "languid-pool",
+        "color": "orange",
+        "url": "https://dl.airtable.com/.attachments/62437c667bafee68cbb74b3e7861a429/ec18bbf3/orange.png"
+      },
+      {
+        "name": "back-plant",
+        "style": "fern",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/22e8315d4c04e7cb4678a94d77124d4c/7d3ef824/fern.png"
+      },
+      {
+        "name": "pearl",
+        "style": "black",
+        "url": "https://dl.airtable.com/.attachments/b67f62ffee2910b112a0b3f2cef20b78/0ff7676f/black.png"
+      },
+      {
+        "name": "right-plant",
+        "style": "spiky",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/9d3c8544889cb2a6ff25b35f2d39bb1b/b501ccf7/spiky-orange.png"
+      },
+      {
+        "name": "left-plant",
+        "style": "thistle",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/c67c1db5d7a5012372fc69d0109b6972/dc437ddf/thistle-green.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": 0
+    }
+  }
+}

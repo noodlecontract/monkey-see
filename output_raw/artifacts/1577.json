@@ -1,0 +1,77 @@
+{
+  "id": "1577",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1577",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1577&witch-id=3512",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_3512.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3512"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Purple Heart"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Painted Pine (Light)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Elephant of Will (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1577",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "3512",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "handle",
+        "style": "purple-heart",
+        "url": "https://dl.airtable.com/.attachments/400a8a1672a2a58137bd436d6191cc9c/72cdb410/hag_0002s_0004_purple-heart.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "painted-pine",
+        "color": "light",
+        "url": "https://dl.airtable.com/.attachments/59a9b0847f8df2fdd3501a6f70bb1923/b7c7ae41/_0001s_0010_painted-pine-light.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "elephant-of-will",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/291388dbc331a243700e47ca64ab5d94/79ce0120/_0004s_0009_bottle-elephant-gold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

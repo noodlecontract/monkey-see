@@ -1,0 +1,86 @@
+{
+  "id": "1616",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1616",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1616&witch-id=8336",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8336.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8336"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Pink Ivory"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Painted Pine (Light)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Owl of Wisdom (Gold)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Clouded Yellow Butterfly"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1616",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "8336",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "handle",
+        "style": "pink-ivory",
+        "url": "https://dl.airtable.com/.attachments/86a84d53e07bd380936477efda425122/ad1957e8/hag_0002s_0000_pink-ivory-.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "painted-pine",
+        "color": "light",
+        "url": "https://dl.airtable.com/.attachments/59a9b0847f8df2fdd3501a6f70bb1923/b7c7ae41/_0001s_0010_painted-pine-light.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "clouded-yellow-butterfly",
+        "url": "https://dl.airtable.com/.attachments/81b8e6a6944c4a6f036c854fe8576a2d/988d3ba9/hag_0000s_0001_clouded-yellow.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "owl-of-wisdom",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/07cbbe2e18f9c86507318b5d49b0114f/6401a656/_0004s_0015_bottle-owl-gold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "893",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/893",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=893&witch-id=655",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_655.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "655"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Aged"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Deer Skull of Wonder (Bleached)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Frayed Charms (Red)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Smudged (Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "893",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "655",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "handle",
+        "style": "aged",
+        "url": "https://dl.airtable.com/.attachments/ea35bdcd6d8109f40fe347a8bc1f997c/7b4dbede/_0002s_0001_aged.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "cracked",
+        "url": "https://dl.airtable.com/.attachments/84483efbca9ff68631167376865070c2/70216b53/_0001s_0002_cracked.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "frayed-charms",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/3d1ff301c2270287880fe4387a9cd757/9250256d/_0000s_0002_frayed-charms-red.png"
+      },
+      {
+        "name": "glow",
+        "style": "smudged",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/e0cf3c298df8ccb796c3ef040d3ba47b/68b02277/_0005s_0014_smudged-red.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "deer-skull-of-wonder",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/d4ee65e104b04e3fafa10c153136b907/a764658f/_0004s_0016_wonder-deer-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

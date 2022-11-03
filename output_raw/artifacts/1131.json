@@ -1,0 +1,96 @@
+{
+  "id": "1131",
+  "name": "Rijha's Mirror",
+  "description": "A spectral raven feather mirror with a delicate brooch. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a NECROMANCER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1131",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=1131&witch-id=1424",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_1424.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1424"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Magnolia (Blue)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Smooth"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Ethyl the Dark"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "-1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "1131",
+    "name": "Rijha's Mirror",
+    "description": "A spectral raven feather mirror with a delicate brooch. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a NECROMANCER.",
+    "witchId": "1424",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/4411a314537dfaa47316d7e54637196b/73236fc4/masknecromancermirror.png"
+      },
+      {
+        "name": "face",
+        "style": "Ethyl the Dark",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/3c4db834623b5455d030e59ec15deed5.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/0167d92381c8cb1a58dbf477afb6a04f/376b5c8a/83d91055.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "smooth",
+        "url": "https://dl.airtable.com/.attachments/0142225831cab433b4af5e6d89b4c2bc/5ad99223/empty.png"
+      },
+      {
+        "name": "frame",
+        "style": "magnolia",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/1f26ce6efba3b7d8bea4275f5bce5e7f/92a35103/magblue.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": -1,
+      "woe": 0
+    }
+  }
+}

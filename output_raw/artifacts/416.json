@@ -1,0 +1,128 @@
+{
+  "id": "416",
+  "name": "Dove's Monkey Charm",
+  "description": "A lush snow monkey carved from stone, natural like a HAG. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/416",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=416&witch-id=988",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_988.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "988"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Butterfly Gold (Gold Blue)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mauve"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Offering Mushroom"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Wire Glasses"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Red"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "416",
+    "name": "Dove's Monkey Charm",
+    "description": "A lush snow monkey carved from stone, natural like a HAG. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "988",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/fea7548e8aa6abff074b29f87ff9d4e9/1a591dbc/purple.png"
+      },
+      {
+        "name": "kimono",
+        "style": "butterfly-gold",
+        "color": "gold-blue",
+        "url": "https://dl.airtable.com/.attachments/24f6e44d2b4d22476ca667a696d6d01b/742e92cd/hag_gold_blue.png"
+      },
+      {
+        "name": "head",
+        "style": "mauve",
+        "url": "https://dl.airtable.com/.attachments/7c7157499f26187c1f99b9bb389d50ba/0a05b706/mauve_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "red",
+        "url": "https://dl.airtable.com/.attachments/cf919f1d88ef9af8079dadfc2d922aae/3558d303/red.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "mauve",
+        "url": "https://dl.airtable.com/.attachments/4b137047d8f12d7644c3c2ed022d145f/e6d26237/mauve.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "offering-mushroom",
+        "url": "https://dl.airtable.com/.attachments/6c649f78806bc380332007256a14e701/8618f9f3/offering_mushroom.png"
+      },
+      {
+        "name": "hands",
+        "style": "mauve",
+        "url": "https://dl.airtable.com/.attachments/7c766b8b65d87e1742073ba1ca5860b1/84c3f9cd/mauve_hands.png"
+      },
+      {
+        "name": "facewear",
+        "style": "wire-glasses",
+        "url": "https://dl.airtable.com/.attachments/2a1d39a51765a44dbb2813dd7192ce4e/09556e2f/wire-glasses.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 0
+    }
+  }
+}

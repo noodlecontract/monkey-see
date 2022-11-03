@@ -1,0 +1,96 @@
+{
+  "id": "1252",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1252",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1252&witch-id=6786",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_6786.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6786"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Pelt"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Cracked"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Snake Skull of Wiles (Blackened)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Frayed Charms (Red)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Smudged Snake (Glo)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1252",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "6786",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "handle",
+        "style": "pelt",
+        "url": "https://dl.airtable.com/.attachments/3d1301203c62a91f7616671dd4385a53/4b9a6015/_0002s_0000_pelt.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "cracked",
+        "url": "https://dl.airtable.com/.attachments/84483efbca9ff68631167376865070c2/70216b53/_0001s_0002_cracked.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "frayed-charms",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/3d1ff301c2270287880fe4387a9cd757/9250256d/_0000s_0002_frayed-charms-red.png"
+      },
+      {
+        "name": "glow",
+        "style": "smudged-snake",
+        "color": "glo",
+        "url": "https://dl.airtable.com/.attachments/7a49cf94adf9b704bef30a7aadc396e8/08b40589/_0005s_0006_smudged-snake-glo.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "snake-skull-of-wiles",
+        "color": "blackened",
+        "url": "https://dl.airtable.com/.attachments/34fb9f97a684567cd156305e497b6d11/a9aaed3b/_0004s_0009_wiles-snake-dark.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

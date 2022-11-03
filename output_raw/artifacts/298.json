@@ -1,0 +1,133 @@
+{
+  "id": "298",
+  "name": "Spinor's Axe",
+  "description": "An erudite, rune-carved axe, fit for a MAGE. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/298",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=298&witch-id=6260",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_6260.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6260"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Articulated"
+    },
+    {
+      "trait_type": "Rising",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Hierophant (Gold)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Scythe (Glo)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Air (White)"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mage Aura (Glo)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "298",
+    "name": "Spinor's Axe",
+    "description": "An erudite, rune-carved axe, fit for a MAGE. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "6260",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "background-item",
+        "style": "mage-aura",
+        "color": "glo",
+        "url": "https://dl.airtable.com/.attachments/6d72f99e17410578ab7683d2d10828f3/f8d55030/_0007s_0001_glo-aura-.png"
+      },
+      {
+        "name": "handle",
+        "style": "hierophant",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/eae820b6f2ebb3f7fe3e96604fe93f8f/5c3065bf/heirophantgold.png"
+      },
+      {
+        "name": "blade",
+        "style": "scythe",
+        "color": "glo",
+        "url": "https://dl.airtable.com/.attachments/813f8b7ea3f5b69022455a211ee75fad/d4abf98d/_0005s_0002_glo.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "scythe",
+        "url": "https://dl.airtable.com/.attachments/248455f027549ac60cbf0836b465ffc0/86b500d4/spinorsaxemage.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "air",
+        "color": "white",
+        "url": "https://dl.airtable.com/.attachments/6ed263afc599aca4bdcf1ef37fe6e82c/bcf249d5/_0004s_0009_air-white.png"
+      },
+      {
+        "name": "center",
+        "style": "articulated",
+        "url": "https://dl.airtable.com/.attachments/02f3a60169e6ae2025c46af0e1d841ae/16afe662/_0003s_0001_articulated.png"
+      },
+      {
+        "name": "sun",
+        "style": "gemini",
+        "url": "https://dl.airtable.com/.attachments/5e38d904c5d118f561a7378bd74d0a45/6162538e/_0002s_0001_gemini.png"
+      },
+      {
+        "name": "moon",
+        "style": "cancer",
+        "url": "https://dl.airtable.com/.attachments/245934ecf943b3e0e36a8ea81352b595/08040f2a/_0001s_0002_cancer.png"
+      },
+      {
+        "name": "rising",
+        "style": "aries",
+        "url": "https://dl.airtable.com/.attachments/c68793f8768017bfd1d44ea6be0a1a65/567d4376/_0000s_0011_aries.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}

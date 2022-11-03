@@ -1,0 +1,86 @@
+{
+  "id": "735",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/735",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=735&witch-id=853",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_853.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "853"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Bloodwood"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Gardenia (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Fox of Wit (Green)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Cabbage White Butterfly"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "3"
+    }
+  ],
+  "coven": {
+    "id": "735",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "853",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "handle",
+        "style": "bloodwood",
+        "url": "https://dl.airtable.com/.attachments/bf2243889c55944a448b6791d2fb5d89/c9051a2c/hag_0002s_0002_bloodwood.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "gardenia",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/65dc391a2fcf5499125477b2fc6dbbf0/3609d346/_0001s_0005_gardenia-pink.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "cabbage-white-butterfly",
+        "url": "https://dl.airtable.com/.attachments/0f270170666c97f52e5155adbbc08f8b/5d40fd13/hag_0000s_0002_cabbage-white-.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "fox-of-wit",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/f6612e658e79bc037357c08736302563/01bbeb6c/_0004s_0002_bottle-fox-green.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 3
+    }
+  }
+}

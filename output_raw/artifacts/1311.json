@@ -1,0 +1,83 @@
+{
+  "id": "1311",
+  "name": "Spinor's Axe",
+  "description": "A wickedly gorgeous axe. More gorgeous after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1311",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=1311",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_4_1311.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Demon (Citrine)"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Encrusted (Obsidian)"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Curved (Crazy Lace)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1311",
+    "name": "Spinor's Axe",
+    "description": "A wickedly gorgeous axe. More gorgeous after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": null,
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "handle",
+        "style": "encrusted",
+        "color": "obsidian",
+        "url": "https://dl.airtable.com/.attachments/633a0c7cb7097c77a54e4631583abe5d/e5e9864e/_0003s_0000_3-copy-2.png"
+      },
+      {
+        "name": "blade",
+        "style": "curved",
+        "color": "crazy-lace",
+        "url": "https://dl.airtable.com/.attachments/d90f9f3994dc59df2f7bb1d3bd2ffb5d/0039fe5e/_0002s_0009_2.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "curved",
+        "url": "https://dl.airtable.com/.attachments/cac2b31c6c6c65597c0341881bcf67d7/32affd3e/curvedshine.png"
+      },
+      {
+        "name": "center",
+        "style": "demon",
+        "color": "citrine",
+        "url": "https://dl.airtable.com/.attachments/4125cdbe601d1c61798a7919820f6081/074ad874/_0000s_0012_Group-18.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}

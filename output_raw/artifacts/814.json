@@ -1,0 +1,120 @@
+{
+  "id": "814",
+  "name": "Dove's Monkey Charm",
+  "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/814",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=814&witch-id=6625",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_6625.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6625"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Royal Forest (Red Gold)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Periwinkle"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fan (Red)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Pink"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "814",
+    "name": "Dove's Monkey Charm",
+    "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "6625",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/fea7548e8aa6abff074b29f87ff9d4e9/1a591dbc/purple.png"
+      },
+      {
+        "name": "kimono",
+        "style": "royal-forest",
+        "color": "red-gold",
+        "url": "https://dl.airtable.com/.attachments/d1467ef65fb84c980199d0b2f0224c49/1cb240c8/enchantress_red-purple.png"
+      },
+      {
+        "name": "head",
+        "style": "periwinkle",
+        "url": "https://dl.airtable.com/.attachments/b8a8bc3516cc5326830e32de7b516d91/591075a1/periwinkle-pearl_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/de02fa4129c0b1c57b7b69bf00e53499/acee45c2/pink.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "periwinkle",
+        "url": "https://dl.airtable.com/.attachments/6589796eb1f9b96d3e54cf02fbf2e851/f2b2c60f/periwinkle.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "fan",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/fb0dfbf8b3caa4aa5a1f1df328bb6432/601cd578/red.png"
+      },
+      {
+        "name": "hands",
+        "style": "periwinkle",
+        "url": "https://dl.airtable.com/.attachments/e7e60b0f439f6ebe0da913ab34445dd8/d1b72d3c/periwinkle-pearl_hands.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

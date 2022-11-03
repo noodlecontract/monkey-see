@@ -1,0 +1,77 @@
+{
+  "id": "630",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/630",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=630&witch-id=5882",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_5882.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "5882"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Aubergine"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Nasturtium (Red)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Elephant of Will (Cool)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "630",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "5882",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "handle",
+        "style": "aubergine",
+        "url": "https://dl.airtable.com/.attachments/302f15a565062b4ebb63928e0a849db0/6852e717/hag_0002s_0005_aubergine.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "nasturtium",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/0d02a819c580967d27b0a9636f598c44/8a304d98/_0001s_0002_nasturtium-red.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "elephant-of-will",
+        "color": "cool",
+        "url": "https://dl.airtable.com/.attachments/477ac0990a0d76ddd6a661f619c32843/1b298c3c/hag_0004s_0005_bottle-elephant-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

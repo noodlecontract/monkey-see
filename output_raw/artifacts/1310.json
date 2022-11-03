@@ -1,0 +1,102 @@
+{
+  "id": "1310",
+  "name": "Iona's Crook",
+  "description": "One of the renowned HAG IONA’s story-carved shepherd’s crooks. It nestles a lantern of golden light.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1310",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1310",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_3_1310.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Ash"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Pearls (Classic)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Betta (Aqua)"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Flowing (Bronze)"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Agate (Gold)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Speckled Gold"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1310",
+    "name": "Iona's Crook",
+    "description": "One of the renowned HAG IONA’s story-carved shepherd’s crooks. It nestles a lantern of golden light.",
+    "witchId": null,
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "handle",
+        "style": "ash",
+        "url": "https://dl.airtable.com/.attachments/91be69907b0a571e990546f6a2de0737/1d0bd7bc/ionas-crook-unattuned_0001s_0001_ash-.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "pearls",
+        "color": "classic",
+        "url": "https://dl.airtable.com/.attachments/8fe9669434fd5f9398d97007a052b38a/00e3a5c7/ionas-crook-unattuned_0000s_0001_classic-pearls.png"
+      },
+      {
+        "name": "glow",
+        "style": "speckled-gold",
+        "url": "https://dl.airtable.com/.attachments/3bb5c22d376794bd4b28f02970236d73/80702739/ionas-crook-unattuned_0005s_0001_Group-29-copy.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "betta",
+        "color": "aqua",
+        "url": "https://dl.airtable.com/.attachments/bc48509e67f55ede2f48d49b9c33cf0f/91b830ab/ionas-crook-unattuned_0004s_0021_beta-blue.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "flowing",
+        "color": "bronze",
+        "url": "https://dl.airtable.com/.attachments/c6add9c77dba39582caf26a79dbcbe30/5d89c483/ionas-crook-unattuned_0003s_0001_2.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "agate",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/22bd3b5555bb4e393bdc2888cb5be605/35e447cf/ionas-crook-unattuned_0002s_0001_4.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

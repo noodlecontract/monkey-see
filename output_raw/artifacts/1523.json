@@ -1,0 +1,96 @@
+{
+  "id": "1523",
+  "name": "Rijha's Mirror",
+  "description": "An occult mirror made from a creature’s ribcage. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1523",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=1523&witch-id=96",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_96.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "96"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Bleached"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Void (Starry)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blizzard of the Asylum"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1523",
+    "name": "Rijha's Mirror",
+    "description": "An occult mirror made from a creature’s ribcage. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for an OCCULTIST.",
+    "witchId": "96",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/cd3fc1ef5eb66415219356653f170b43/61534dae/1d938cdd.png"
+      },
+      {
+        "name": "face",
+        "style": "Blizzard of the Asylum",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/a3fbfafb0ab798de06f8ad5c165071e5.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/93b0ccc8eed54337e14f0b69150cfec9/9c4bafdc/9dfe7264.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "void",
+        "color": "starry",
+        "url": "https://dl.airtable.com/.attachments/2bf1bccf1d9b77d4eb21674766323459/ab12d4e9/voidmirrorstarry.png"
+      },
+      {
+        "name": "frame",
+        "style": "bleached",
+        "url": "https://dl.airtable.com/.attachments/8ed1ad379a8125680769003180972485/5048fef3/bleached-purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 1,
+      "woe": 1
+    }
+  }
+}

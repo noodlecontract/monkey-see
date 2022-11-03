@@ -1,0 +1,96 @@
+{
+  "id": "201",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/201",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=201&witch-id=7217",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_7217.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7217"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Bone"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Striped"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Raven Skull of Woe (Blackened)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Spines (Blackened)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Inscribed Demon Bloom (Black)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "201",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "7217",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "handle",
+        "style": "bone",
+        "url": "https://dl.airtable.com/.attachments/13c64fa7edad8fc9177f21b21d252fc3/18919723/_0002s_0003_bleached.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "striped",
+        "url": "https://dl.airtable.com/.attachments/e1a30a8c2792b309582f512cd23f1c1b/368e7505/_0001s_0004_striped.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "spines",
+        "color": "blackened",
+        "url": "https://dl.airtable.com/.attachments/e89c5ef643d4e61701cdf8747cde4d09/ac8811ee/_0000s_0004_spines-dark.png"
+      },
+      {
+        "name": "glow",
+        "style": "inscribed-demon-bloom",
+        "color": "black",
+        "url": "https://dl.airtable.com/.attachments/85c280769882367cfafc01350710beb6/23887c0a/_0005s_0024_inscribed-demon-bloom-black.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "raven-skull-of-woe",
+        "color": "blackened",
+        "url": "https://dl.airtable.com/.attachments/784693d196c79a6b88a4ca373a610693/142d8fdd/_0004s_0013_woe-raven-dark.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

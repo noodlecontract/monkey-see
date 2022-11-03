@@ -1,0 +1,96 @@
+{
+  "id": "1529",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1529",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1529&witch-id=3797",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_3797.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3797"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Spotted"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Fox Skull of Wit (Bone)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Scales (Natural)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Smudged Monolid (Green)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1529",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "3797",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark",
+        "url": "https://dl.airtable.com/.attachments/b36ba97439faad07d6298ca2d4c7c362/919f8976/_0002s_0002_dark.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "spotted",
+        "url": "https://dl.airtable.com/.attachments/c7df753903c70aa90d1b068d8de6806f/8819232c/_0001s_0000_spotted.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "scales",
+        "color": "natural",
+        "url": "https://dl.airtable.com/.attachments/f330ec980b93466d2f46672261a2b08a/f30cde5b/_0000s_0000_scales.png"
+      },
+      {
+        "name": "glow",
+        "style": "smudged-monolid",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/cd569e121f41dd7354234f09e656e8ae/fc9f6e51/_0005s_0010_smudged-monolid-green.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "fox-skull-of-wit",
+        "color": "bone",
+        "url": "https://dl.airtable.com/.attachments/5f865804004a946f7079f1f86979913c/1ded38c0/_0004s_0023_wit-fox-bleached.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

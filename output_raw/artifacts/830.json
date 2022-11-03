@@ -1,0 +1,94 @@
+{
+  "id": "830",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/830",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=830&witch-id=1184",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_1184.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1184"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Deep Teal"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Demonic (Gold)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Nega Moon"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Clawed"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Wonder"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "830",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "1184",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "handle",
+        "style": "deep-teal",
+        "url": "https://dl.airtable.com/.attachments/1e2db3d4a1753323d3a5388be6d07101/97825046/_0002s_0005_deep-teal.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "demonic",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/43074740b257a980509166bcd995e3ca/ef7340fb/_0001s_0003s_0005_demonic.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "nega-moon",
+        "url": "https://dl.airtable.com/.attachments/8bfd895021d543e90f89f7d067f49d0b/e5942b12/_0005s_0001_nega-moon.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "clawed",
+        "url": "https://dl.airtable.com/.attachments/d95c685182950074c6f62763dc017d21/4173f669/_0004s_0001_clawed.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-wonder",
+        "url": "https://dl.airtable.com/.attachments/1967a7b39fe7781e422f64c89777a3be/681e215b/_0003s_0000_wonder.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

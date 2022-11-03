@@ -1,0 +1,86 @@
+{
+  "id": "545",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/545",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=545&witch-id=8526",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8526.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8526"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Purple Heart"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Painted Pine (Dark)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Elephant of Will (Cool)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Cabbage White Butterfly"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "545",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "8526",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "handle",
+        "style": "purple-heart",
+        "url": "https://dl.airtable.com/.attachments/400a8a1672a2a58137bd436d6191cc9c/72cdb410/hag_0002s_0004_purple-heart.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "painted-pine",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/358e0193a4064ab4bd9e9f1fad800f87/29c13306/_0001s_0009_painted-pine-dark.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "cabbage-white-butterfly",
+        "url": "https://dl.airtable.com/.attachments/0f270170666c97f52e5155adbbc08f8b/5d40fd13/hag_0000s_0002_cabbage-white-.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "elephant-of-will",
+        "color": "cool",
+        "url": "https://dl.airtable.com/.attachments/477ac0990a0d76ddd6a661f619c32843/1b298c3c/hag_0004s_0005_bottle-elephant-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

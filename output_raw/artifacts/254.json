@@ -1,0 +1,109 @@
+{
+  "id": "254",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/254",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=254&witch-id=1438",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_1438.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1438"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Skull (Antique)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Shallow Pool (Daytrip)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Antlers (Dark)"
+    },
+    {
+      "trait_type": "Background Decor",
+      "value": "Painted (Black)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "254",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+    "witchId": "1438",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "shell",
+        "style": "skull",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/4f1ea7a63377e6e9a8c83a15561439a2/c391bde0/skull_antique.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "antlers",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/afbeecc9170da4cdae11333c95e3fdc1/4fe852ca/antlers_dark.png"
+      },
+      {
+        "name": "background-decor",
+        "style": "painted",
+        "color": "black",
+        "url": "https://dl.airtable.com/.attachments/e0f0790dfb44735114479adae6abece5/dbff72c8/tattoo-black.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "shallow-pool",
+        "color": "daytrip",
+        "url": "https://dl.airtable.com/.attachments/aaa8c685ebc701680a9ed3d1bc279cc7/94a9b222/liquid-daytrip.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "shallow-pool",
+        "color": "daytrip",
+        "url": "https://dl.airtable.com/.attachments/d60d4167fa86d795724070126d218239/aef51b8c/liquid-daytrip-overlay.png"
+      },
+      {
+        "name": "pearl",
+        "style": "grey",
+        "url": "https://dl.airtable.com/.attachments/90b8cf5047d5d577e1f2e515b37ac7d9/1fe7600b/pearlnecro.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": -1
+    }
+  }
+}

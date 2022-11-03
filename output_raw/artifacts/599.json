@@ -1,0 +1,130 @@
+{
+  "id": "599",
+  "name": "Dove's Monkey Charm",
+  "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/599",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=599&witch-id=1493",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_1493.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1493"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Kraken (Sand)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Iridescent"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fortune (Gold Green)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Bicolor Pink Turquoise"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Third Eye (Purple)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "599",
+    "name": "Dove's Monkey Charm",
+    "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "1493",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/fea7548e8aa6abff074b29f87ff9d4e9/1a591dbc/purple.png"
+      },
+      {
+        "name": "kimono",
+        "style": "kraken",
+        "color": "sand",
+        "url": "https://dl.airtable.com/.attachments/de1540ddba15c0bcd40e728a2e988120/146d94b3/sand-red.png"
+      },
+      {
+        "name": "head",
+        "style": "iridescent",
+        "url": "https://dl.airtable.com/.attachments/85f10997a050c8e888e81d2ed182ac70/deaa5fc6/irredescent_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "bicolor-pink-turquoise",
+        "url": "https://dl.airtable.com/.attachments/229262bd941e9b896f89627fe8d27bc0/7139311c/bicolor-pink-turquoise.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "iridescent",
+        "url": "https://dl.airtable.com/.attachments/7d9bc791083a2886b7007a2803ab4887/66bccc4d/iridescent.png"
+      },
+      {
+        "name": "hands",
+        "style": "iridescent",
+        "url": "https://dl.airtable.com/.attachments/f9ebfa25d88b2f993acaaacb608d5b4f/84187002/irridescent_hands.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "fortune",
+        "color": "gold-green",
+        "url": "https://dl.airtable.com/.attachments/a7bd3747382b7b31f18a0080332c9900/0b6d859f/gold-green.png"
+      },
+      {
+        "name": "facewear",
+        "style": "third-eye",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/5eec4165b87bf46d76c2e12ff0781d26/ffe4145e/purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 0
+    }
+  }
+}

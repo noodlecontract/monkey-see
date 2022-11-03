@@ -1,0 +1,129 @@
+{
+  "id": "931",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an enchanting pool, attuned to the work of an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/931",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=931&witch-id=239",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_239.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "239"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Lotus (Purple)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Gilded Pool (Magenta)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Thorns (Purple)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Wrap Adornment (Purple)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Twin Statuettes (Gold)"
+    },
+    {
+      "trait_type": "Background Decor",
+      "value": "Low Bun (Gold Purple)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "931",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an enchanting pool, attuned to the work of an ENCHANTRESS.",
+    "witchId": "239",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "stand",
+        "style": "thorns",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/b4ad98686685bf61182660e1a2b1fc69/bcc90f0e/thorns-purple.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "twin-statuettes",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/ce89f32e2ff6f9a72dc872da32cfaf24/886a01fc/gold.png"
+      },
+      {
+        "name": "shell",
+        "style": "lotus",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/b40c082199079ef23cb98d48e82f7cd9/8a7de6ca/purple-lotus.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "wrap-adornment",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/83154bb0fa1957bd79635ace1cfd048c/4344d938/wrap.png"
+      },
+      {
+        "name": "background-decor",
+        "style": "low-bun",
+        "color": "gold-purple",
+        "url": "https://dl.airtable.com/.attachments/6f27f265abd7e11090654c0f40f75d79/fea85b61/low-gold-purple.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "gilded-pool",
+        "color": "magenta",
+        "url": "https://dl.airtable.com/.attachments/a76d126663990572649d25fa3fd1dfa9/f4fe7df1/5.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "gilded-pool",
+        "color": "magenta",
+        "url": "https://dl.airtable.com/.attachments/1546706137eb2c4660e698988f411b6d/c1b3479b/5.png"
+      },
+      {
+        "name": "pearl",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/d72125aac5c841437f00c7d2b260f20d/bc364863/blue.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": 1
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "1601",
+  "name": "Dove's Monkey Charm",
+  "description": "A gentlemanly snow monkey carved from stone. A marker of the kind DOVE’s arrangement with the keepers of THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1601",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1601",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_5_1601.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Checked (Gold Pastel)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Stone Kintsugi"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Neko (Black Hat)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Stone"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1601",
+    "name": "Dove's Monkey Charm",
+    "description": "A gentlemanly snow monkey carved from stone. A marker of the kind DOVE’s arrangement with the keepers of THE ASYLUM.",
+    "witchId": null,
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "platform",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/65e6ad86d1cc725866f02a14b4d9777c/43a61d80/blue.png"
+      },
+      {
+        "name": "kimono",
+        "style": "checked",
+        "color": "gold-pastel",
+        "url": "https://dl.airtable.com/.attachments/1863cd4351a3b578b84d0864548b5321/dcf569b5/goldpastel.png"
+      },
+      {
+        "name": "head",
+        "style": "stone-kintsugi",
+        "url": "https://dl.airtable.com/.attachments/9ebb1d768479434e3774ad7a965dd5bd/2e281d5b/stone_kinsugi-head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "stone",
+        "url": "https://dl.airtable.com/.attachments/3b93d561ef1176e8ce7939cad57c9c55/70898a54/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "stone",
+        "url": "https://dl.airtable.com/.attachments/4ee4913acf493e1e7ae282b36fd0c956/9f233a85/pupil.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "stone",
+        "url": "https://dl.airtable.com/.attachments/9ba7dd0b556b8d461921a7a4534d5d21/338aaf2a/eye_white.png"
+      },
+      {
+        "name": "expression",
+        "style": "stone-kintsugi",
+        "url": "https://dl.airtable.com/.attachments/446f020776e1afa3293ee152fc3c86f0/20cc6c5b/stone_expression.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "neko",
+        "color": "black-hat",
+        "url": "https://dl.airtable.com/.attachments/4d1ddf74c16b449823db763106796d06/bc918755/catblackhat.png"
+      },
+      {
+        "name": "hands",
+        "style": "stone-kintsugi",
+        "url": "https://dl.airtable.com/.attachments/8f3f6cb23fcbcdd93d0e7b603717acd4/7ca4646a/unattunedhandskinsugi.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

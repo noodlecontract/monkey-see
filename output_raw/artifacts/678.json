@@ -1,0 +1,96 @@
+{
+  "id": "678",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/678",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=678&witch-id=1817",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_1817.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1817"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Bone"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Mark of the Untamed"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Owl Skull of Wisdom (Bone)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Frayed Charms (Black)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Smudged Snake (Glo)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "678",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "1817",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "handle",
+        "style": "bone",
+        "url": "https://dl.airtable.com/.attachments/13c64fa7edad8fc9177f21b21d252fc3/18919723/_0002s_0003_bleached.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "mark-of-the-untamed",
+        "url": "https://dl.airtable.com/.attachments/60059aa4f7d6c1e8962a2da3832e9061/e7505680/_0001s_0003_mark-of-the-untamed.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "frayed-charms",
+        "color": "black",
+        "url": "https://dl.airtable.com/.attachments/658da13451f5df6908891577f491ad7e/eae65fc2/_0000s_0003_frayed-charms-black.png"
+      },
+      {
+        "name": "glow",
+        "style": "smudged-snake",
+        "color": "glo",
+        "url": "https://dl.airtable.com/.attachments/7a49cf94adf9b704bef30a7aadc396e8/08b40589/_0005s_0006_smudged-snake-glo.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "owl-skull-of-wisdom",
+        "color": "bone",
+        "url": "https://dl.airtable.com/.attachments/88783433d426da67c7699ff5904f2f51/97568a9e/_0004s_0007_wisdom-owl-bleach.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

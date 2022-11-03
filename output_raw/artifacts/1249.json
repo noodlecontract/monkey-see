@@ -1,0 +1,109 @@
+{
+  "id": "1249",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1249",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=1249&witch-id=6786",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_6786.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6786"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Skull (Blackened)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Shallow Pool (Dark)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Twists Quill Offerings (Dark)"
+    },
+    {
+      "trait_type": "Background Decor",
+      "value": "Painted (Purple)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "2"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1249",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+    "witchId": "6786",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "shell",
+        "style": "skull",
+        "color": "blackened",
+        "url": "https://dl.airtable.com/.attachments/5c1e350483f46b8a705a61dd6dafabb3/ae0ccc40/skull_black.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "twists-quill-offerings",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/8090486e8d3652dd5b51566d48411ab8/0d132f5f/twists_dark-quill.png"
+      },
+      {
+        "name": "background-decor",
+        "style": "painted",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/4c12a321b7b91b9ed6c9ceb4ab5d0b1f/2042eb0b/tattoo-purple.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "shallow-pool",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/2bcbc39173675e454419a8171b1349b0/08ed6105/dark.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "shallow-pool",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/606e055d3bd90ba524061015c6dd25ae/84f5e025/dark-overlay.png"
+      },
+      {
+        "name": "pearl",
+        "style": "yellow",
+        "url": "https://dl.airtable.com/.attachments/85dc940a6854e0b37bab426967424344/39c1365e/pearlseer.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 2,
+      "wisdom": 1
+    }
+  }
+}

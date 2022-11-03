@@ -1,0 +1,76 @@
+{
+  "id": "1446",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1446",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1446&witch-id=20",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_20.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "20"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Nightshade"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Bright Leaves"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Fox of Wit (Warm)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1446",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "20",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "handle",
+        "style": "nightshade",
+        "url": "https://dl.airtable.com/.attachments/227596a5406511fb7209a6104a7dc0f5/910adb8a/hag_0002s_0006_nightshade.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "bright-leaves",
+        "url": "https://dl.airtable.com/.attachments/a7ca133eea11abd237ac116525f6623b/c909f802/hag_0001s_0001_bright-leaves.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "fox-of-wit",
+        "color": "warm",
+        "url": "https://dl.airtable.com/.attachments/ea6a2329b35d27d7760ea1b9280513eb/41412bb3/hag_0004s_0001_bottle-fox-warm.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 2
+    }
+  }
+}

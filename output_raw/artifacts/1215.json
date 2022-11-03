@@ -1,0 +1,132 @@
+{
+  "id": "1215",
+  "name": "Iona's Crook",
+  "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1215",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1215&witch-id=518",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_518.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "518"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Rhodium"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Shimmering Twilight"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Pagoda (Jeweled Hood)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Red Coral"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Embroidered (Red)"
+    },
+    {
+      "trait_type": "Tassel",
+      "value": "Feathered (Gold)"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Gilded Wonder"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Lantern Secondary Ornament",
+      "value": "Pearled"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1215",
+    "name": "Iona's Crook",
+    "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+    "witchId": "518",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "handle",
+        "style": "rhodium",
+        "url": "https://dl.airtable.com/.attachments/2cf9d6f9ae268ac5bbf3024b697f3984/95878669/ionas-crook-enchantress_0002s_0000_rhodium.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "shimmering-twilight",
+        "url": "https://dl.airtable.com/.attachments/1b8a3fc64ada5525a397474430d1d979/d759aea9/ionas-crook-enchantress_0000s_0003_wiles.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "red-coral",
+        "url": "https://dl.airtable.com/.attachments/d4a1ae2c70f203069636b4ba8d564b61/794601fd/ionas-crook-enchantress_0001s_0002_red-velvet.png"
+      },
+      {
+        "name": "glow",
+        "style": "gold",
+        "url": "https://dl.airtable.com/.attachments/cacda71ca33db11852270c16495c7fb1/5b6aab9e/ionas-crook-enchantress_0004s_0000_wit.png"
+      },
+      {
+        "name": "lantern-secondary-ornament",
+        "style": "pearled",
+        "url": "https://dl.airtable.com/.attachments/707061c1d4db48d82a7dfa1c2d127898/89b9d3d2/ionas-crook-enchantress_0003s_0003s_0000_pearls.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "pagoda",
+        "color": "jeweled-hood",
+        "url": "https://dl.airtable.com/.attachments/5b01bb7b6c95cd646a3aaba54f52cb70/455f1d91/ionas-crook-enchantress_0003s_0001s_0010_2-copy-4.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "embroidered",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/1cb80beb9bdd6e144d98110a886f1595/a77e4a6b/ionas-crook-enchantress_0003s_0000s_0002_2.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "gilded-wonder",
+        "url": "https://dl.airtable.com/.attachments/1350376a6a24c7900fb2544bbb80051e/8585ac84/gildedwonder.png"
+      },
+      {
+        "name": "tassel",
+        "style": "feathered",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/84b44f75d2977d116ccea1390363738b/7753562f/tasselfeathergold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

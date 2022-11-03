@@ -1,0 +1,130 @@
+{
+  "id": "162",
+  "name": "Dove's Monkey Charm",
+  "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/162",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=162&witch-id=1988",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_1988.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1988"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Ochre"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Royal Forest (Red)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Tasseled Fan (Striped Red)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Earth Queen (Red)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Hazel"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "162",
+    "name": "Dove's Monkey Charm",
+    "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "1988",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "platform",
+        "style": "ochre",
+        "url": "https://dl.airtable.com/.attachments/11094dc93933ccc3fdaaadf4a039be10/1a0fb18d/ochre.png"
+      },
+      {
+        "name": "kimono",
+        "style": "royal-forest",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/b9531b2ab979aeaca2961d16408c2ffb/bd7d98fb/enchamtress_red-purple-alt.png"
+      },
+      {
+        "name": "head",
+        "style": "silver",
+        "url": "https://dl.airtable.com/.attachments/fadc963134af9a98bc1882e0a645b300/9fa1adb6/silver_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "hazel",
+        "url": "https://dl.airtable.com/.attachments/95c7e28ef4e84b5e3d97e7bd069b354f/75a4f042/hazel.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "silver",
+        "url": "https://dl.airtable.com/.attachments/6a2d88efeb29cdcf3b9264426ec4d844/3d231d2e/silver.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "tasseled-fan",
+        "color": "striped-red",
+        "url": "https://dl.airtable.com/.attachments/f501807393d075e84f554ce6a67eb054/430dedfd/fan_pink-red-stripe.png"
+      },
+      {
+        "name": "hands",
+        "style": "silver",
+        "url": "https://dl.airtable.com/.attachments/caa791f01c2ee4f13b27f0f22a0eac84/913d8210/silver_hands.png"
+      },
+      {
+        "name": "hat",
+        "style": "earth-queen",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/f10acd2c703b3aca5c3447aecf1d1e72/08d30b56/flower_red.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 0
+    }
+  }
+}

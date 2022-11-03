@@ -1,0 +1,102 @@
+{
+  "id": "1309",
+  "name": "Rijha's Mirror",
+  "description": "An intricately carved mirror that once reflected the fine ENCHANTRESS RIJHA. It cannot seem to find your face…",
+  "external_url": "https://cryptocoven.xyz/artifacts/1309",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=1309",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_2_1309.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Iridescent Sea"
+    },
+    {
+      "trait_type": "Frame Ornament",
+      "value": "Agate (Blue)"
+    },
+    {
+      "trait_type": "Charm",
+      "value": "Round Cabochon (Mirth)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Rijha"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1309",
+    "name": "Rijha's Mirror",
+    "description": "An intricately carved mirror that once reflected the fine ENCHANTRESS RIJHA. It cannot seem to find your face…",
+    "witchId": null,
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/5b03a0617f9911924488f6c08a07fddf/f316a37c/8cfa705e.png"
+      },
+      {
+        "name": "face",
+        "style": "Rijha",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/rijha-unattuned.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/ac419163124986c1eaaafccd6483c9bf/a3a4a9b7/217c56bd.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "frame",
+        "style": "iridescent-sea",
+        "url": "https://dl.airtable.com/.attachments/f45555fdf9c061079db0a3994da53876/f67df69e/_0004s_0009_5.png"
+      },
+      {
+        "name": "frame-ornament",
+        "style": "agate",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/4d03dca9a41c53b9842c7cf3ccc5d843/e20fa7e9/1-3.png"
+      },
+      {
+        "name": "charm",
+        "style": "round-cabochon",
+        "color": "mirth",
+        "url": "https://dl.airtable.com/.attachments/782e99575038a641dc16f0e66f62229b/b59737cc/mirror-unattuned-export_0001s_0005_3.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 1,
+      "woe": 1
+    }
+  }
+}

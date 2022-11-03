@@ -1,0 +1,96 @@
+{
+  "id": "1325",
+  "name": "Rijha's Mirror",
+  "description": "A spectral raven feather mirror with a delicate brooch. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a NECROMANCER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1325",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=1325&witch-id=250",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_250.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "250"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Bird Skull (Green)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Smooth"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Catalpa of the Demon Market"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "2"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1325",
+    "name": "Rijha's Mirror",
+    "description": "A spectral raven feather mirror with a delicate brooch. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a NECROMANCER.",
+    "witchId": "250",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/4411a314537dfaa47316d7e54637196b/73236fc4/masknecromancermirror.png"
+      },
+      {
+        "name": "face",
+        "style": "Catalpa of the Demon Market",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/1096b7be9a018cbcbd7eb0bb6f882539.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/0167d92381c8cb1a58dbf477afb6a04f/376b5c8a/83d91055.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "smooth",
+        "url": "https://dl.airtable.com/.attachments/0142225831cab433b4af5e6d89b4c2bc/5ad99223/empty.png"
+      },
+      {
+        "name": "frame",
+        "style": "bird-skull",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/67f600af44b9e6f7e18a6af79b26068a/2b181d4e/green-mirror-necromancer.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 2,
+      "woe": -1
+    }
+  }
+}

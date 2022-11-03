@@ -1,0 +1,105 @@
+{
+  "id": "1331",
+  "name": "Rijha's Mirror",
+  "description": "An erudite flame mirror summoned by nifty engineering. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1331",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=1331&witch-id=3930",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_3930.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3930"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Phosphorous (Blue)"
+    },
+    {
+      "trait_type": "Handle Ornament",
+      "value": "Flowing"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Smooth"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Apprentice Phoenix"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "0"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1331",
+    "name": "Rijha's Mirror",
+    "description": "An erudite flame mirror summoned by nifty engineering. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a MAGE.",
+    "witchId": "3930",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/5586d717461f21702131daf220596f96/e92a1210/46a9fce0.png"
+      },
+      {
+        "name": "face",
+        "style": "Apprentice Phoenix",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/0926fe0577daa50f3e74999dea5b69ce.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/e5d3b1883d4204289e05326a1100a2c4/399d3631/bf71f4a1.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "smooth",
+        "url": "https://dl.airtable.com/.attachments/0142225831cab433b4af5e6d89b4c2bc/5ad99223/empty.png"
+      },
+      {
+        "name": "frame",
+        "style": "phosphorous",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/87df352f711a5955810f9bbd8723e73e/cc3e5961/mirror-mage-export_0001s_0006_blue.png"
+      },
+      {
+        "name": "handle-ornament",
+        "style": "flowing",
+        "url": "https://dl.airtable.com/.attachments/7923a6782a18d298f971fb6876a8872e/5d2c8cca/flowing.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 0,
+      "woe": 1
+    }
+  }
+}

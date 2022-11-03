@@ -1,0 +1,107 @@
+{
+  "id": "1007",
+  "name": "Iona's Crook",
+  "description": "A spectral impression of the HAG IONA’s shepherd’s crook. Its gothic lantern is well suited to a NECROMANCER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1007",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1007&witch-id=5348",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_5348.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "5348"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Petrified Wood"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Scales (Natural)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Ornate (Light)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Hanging Moss (Silver)"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Pagoda (Light)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Will (Dark)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1007",
+    "name": "Iona's Crook",
+    "description": "A spectral impression of the HAG IONA’s shepherd’s crook. Its gothic lantern is well suited to a NECROMANCER.",
+    "witchId": "5348",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "handle",
+        "style": "petrified-wood",
+        "url": "https://dl.airtable.com/.attachments/60bbb4ee6bea6f06f72990cdd8e148f0/a7a00a7c/_0002s_0002_petrified-wood.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "scales",
+        "color": "natural",
+        "url": "https://dl.airtable.com/.attachments/551134bda94efa1c526751a541d05be7/b1b7dbcd/_0001s_0000_scales-natural.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "hanging-moss",
+        "color": "silver",
+        "url": "https://dl.airtable.com/.attachments/6a1262de754d1013fa8292e3399c1064/8f2de6c7/hangingmosssilver.png"
+      },
+      {
+        "name": "glow",
+        "style": "will",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/19a4afc3461330ab63146cdca67a2d06/e4d1ac37/_0005s_0003_will-dark.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "ornate",
+        "color": "light",
+        "url": "https://dl.airtable.com/.attachments/ead216f3ea4bd0655694cdcde3cf9135/7a11fcd5/_0004s_0002_ornate-light.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "pagoda",
+        "color": "light",
+        "url": "https://dl.airtable.com/.attachments/fb8d81b9ea3503f913d8a7ff1c59d80e/cc89e340/_0003s_0003_pagoda-light.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

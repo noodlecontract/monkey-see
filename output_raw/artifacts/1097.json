@@ -1,0 +1,76 @@
+{
+  "id": "1097",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1097",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1097&witch-id=3225",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_3225.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3225"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Mauve Leaves"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Elephant of Will (Green)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1097",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "3225",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "handle",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/bff6822f6752473b442931f2fa1baf78/fc31062d/_0002s_0004_lavender.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "mauve-leaves",
+        "url": "https://dl.airtable.com/.attachments/7b6e8fb5ad67df6d60c5bd724f5b5459/98562220/hag_0001s_0002_mauve-leaves.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "elephant-of-will",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/43cb1a2a566f639e0ed21215bb3c72c6/31ec87fd/_0004s_0008_bottle-elephant-green.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

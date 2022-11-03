@@ -1,0 +1,113 @@
+{
+  "id": "641",
+  "name": "Spinor's Axe",
+  "description": "A spectral, gothic axe fit for a NECROMANCER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/641",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=641&witch-id=7897",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_7897.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7897"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Jeweled Beetle (Jade)"
+    },
+    {
+      "trait_type": "Rising",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Curved"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Trumpet (Lavender Grey)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "641",
+    "name": "Spinor's Axe",
+    "description": "A spectral, gothic axe fit for a NECROMANCER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "7897",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "handle",
+        "style": "curved",
+        "url": "https://dl.airtable.com/.attachments/1203650c0757461434349b300a73e285/bfc61299/_0006s_0002_curved.png"
+      },
+      {
+        "name": "blade",
+        "style": "trumpet",
+        "color": "lavender-grey",
+        "url": "https://dl.airtable.com/.attachments/62455f84585c8296b6643616761089f0/a724ad64/_0005s_0000_lavender-grey.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "trumpet",
+        "url": "https://dl.airtable.com/.attachments/aaaa7a3728c7caa0d099754eb6df88eb/83e9dc82/spinorsaxenecromancer.png"
+      },
+      {
+        "name": "center",
+        "style": "jeweled-beetle",
+        "color": "jade",
+        "url": "https://dl.airtable.com/.attachments/7883c9f87ebb0cd0c1ac3481abe0ec16/b05547c4/_0003s_0002_jeweled-beetle-green.png"
+      },
+      {
+        "name": "sun",
+        "style": "cancer",
+        "url": "https://dl.airtable.com/.attachments/e9b6e93d6b446c0d96d67a52b29b3cb3/64116f8d/_0002s_0003_cancer.png"
+      },
+      {
+        "name": "moon",
+        "style": "leo",
+        "url": "https://dl.airtable.com/.attachments/831fddb5a307b0a1f825492a0f405b5c/36598a77/_0001s_0004_leo.png"
+      },
+      {
+        "name": "rising",
+        "style": "capricorn",
+        "url": "https://dl.airtable.com/.attachments/8e1ca4289f17f9ede9f5f16c516b6fdb/0fd7a48c/_0000s_0009_capricorn.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}

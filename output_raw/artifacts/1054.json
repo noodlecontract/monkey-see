@@ -1,0 +1,109 @@
+{
+  "id": "1054",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a prophetic pool, attuned to the work of a new SEER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1054",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=1054&witch-id=540",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_540.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "540"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Spotted (Blue)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Prophetic Pool (Weird)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Wave Stand (Dark)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Eye Motif (Orange)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "1054",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a prophetic pool, attuned to the work of a new SEER.",
+    "witchId": "540",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "stand",
+        "style": "wave-stand",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/8fde723337d8f72954c7d07cc8e33646/3bae3864/dark.png"
+      },
+      {
+        "name": "shell",
+        "style": "spotted",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/3c7c09ce0efa123e218a0acfb6dbefd9/3a144b0b/blue-dark.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "eye-motif",
+        "color": "orange",
+        "url": "https://dl.airtable.com/.attachments/4e80599ee0711c923094d41be3ea735f/10e73f98/seer_demon_neutral-wonder.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "prophetic-pool",
+        "color": "weird",
+        "url": "https://dl.airtable.com/.attachments/7ce7ab94a362463cdbd710ec9c8ed268/005f22ae/ochre.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "prophetic-pool",
+        "color": "weird",
+        "url": "https://dl.airtable.com/.attachments/d0a3ff4d1f3fcdf87777de47be2de669/311e332b/weird.png"
+      },
+      {
+        "name": "pearl",
+        "style": "red",
+        "url": "https://dl.airtable.com/.attachments/09d9729e11bae1cdc7323f9c351d9702/f6fbc651/pealoccult.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": 0
+    }
+  }
+}

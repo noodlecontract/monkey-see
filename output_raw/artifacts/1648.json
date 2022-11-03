@@ -1,0 +1,86 @@
+{
+  "id": "1648",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1648",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1648&witch-id=7972",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_7972.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7972"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Bloodwood"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Turkeytail (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Floral Lacewing (Gold)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Ladybug"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "1648",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "7972",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "bloodwood",
+        "url": "https://dl.airtable.com/.attachments/bf2243889c55944a448b6791d2fb5d89/c9051a2c/hag_0002s_0002_bloodwood.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "turkeytail",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/04b971cbc26dd454931394c86f87b095/383fae13/hag_0001s_0005_turkeytail-pink.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "ladybug",
+        "url": "https://dl.airtable.com/.attachments/658e561fa38b297d6529d29ef4a1bbd7/b7942672/hag_0000s_0000_ladybug.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "floral-lacewing",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/49920616e02cdac298397b301dbfc48f/7f5d28c2/hag_0004s_0014_floral-lacewing-gold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

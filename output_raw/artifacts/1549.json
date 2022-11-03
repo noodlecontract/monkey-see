@@ -1,0 +1,96 @@
+{
+  "id": "1549",
+  "name": "Spinor's Axe",
+  "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1549",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=1549&witch-id=8870",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_8870.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8870"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Leafy (Ruby)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Capricorn Magnolia (Blue)"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Pierine (Gold)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Ball Piercing"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "1549",
+    "name": "Spinor's Axe",
+    "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "8870",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "leafy",
+        "color": "ruby",
+        "url": "https://dl.airtable.com/.attachments/2e3f149b94ad4799d373c512bc497f9c/5d1a5c68/spinors-axe-hag-export_0004s_0003_leafy-ruby.png"
+      },
+      {
+        "name": "blade",
+        "style": "pierine",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/b22a22ed52e2e62ddfecd86564ae48a3/751c1279/spinors-axe-hag-export_0003s_0002_gold.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "pierine",
+        "url": "https://dl.airtable.com/.attachments/178b1cc57e98a9c0f9aef0f413cf9e7b/394ae368/axe-blade-mask.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "ball-piercing",
+        "url": "https://dl.airtable.com/.attachments/6bda7d13f9271ae7476cdb24f82400b3/0e335b50/spinors-axe-hag-export_0002s_0004_ball-piercing.png"
+      },
+      {
+        "name": "sun",
+        "style": "capricorn-magnolia",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/339b6e92825ad4d00e257ecdff4749d2/d5369998/spinors-axe-hag-export_0000s_0003_capricorn-magnolia-blue.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": -1
+    }
+  }
+}

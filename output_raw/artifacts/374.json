@@ -1,0 +1,86 @@
+{
+  "id": "374",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/374",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=374&witch-id=9310",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_9310.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9310"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Purple Heart"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Painted Pine (Dark)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Deer of Wonder (Cool)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Ladybug"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "374",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "9310",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "handle",
+        "style": "purple-heart",
+        "url": "https://dl.airtable.com/.attachments/400a8a1672a2a58137bd436d6191cc9c/72cdb410/hag_0002s_0004_purple-heart.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "painted-pine",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/358e0193a4064ab4bd9e9f1fad800f87/29c13306/_0001s_0009_painted-pine-dark.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "ladybug",
+        "url": "https://dl.airtable.com/.attachments/658e561fa38b297d6529d29ef4a1bbd7/b7942672/hag_0000s_0000_ladybug.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "deer-of-wonder",
+        "color": "cool",
+        "url": "https://dl.airtable.com/.attachments/a2bd6c7d900e1c87af21afca0fc0a276/b55c4fcc/hag_0004s_0011_bottle-deer-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

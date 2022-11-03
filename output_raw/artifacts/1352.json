@@ -1,0 +1,95 @@
+{
+  "id": "1352",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1352",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1352&witch-id=3009",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_3009.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3009"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Demonic (Jade)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Moon (Jade)"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Articulated"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Wisdom"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1352",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "3009",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "handle",
+        "style": "stone",
+        "url": "https://dl.airtable.com/.attachments/266437a43bce659f22199734cec23653/8623f3f2/_0002s_0003_stone.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "demonic",
+        "color": "jade",
+        "url": "https://dl.airtable.com/.attachments/2024cfdce5d1bfaa17da01625c6fd4ff/c94fefbe/_0001s_0005s_0005_demonic.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "moon",
+        "color": "jade",
+        "url": "https://dl.airtable.com/.attachments/d0f9a6475fbcf87e71ebe031a1aba1cd/bf4a06cf/moonjade.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "articulated",
+        "url": "https://dl.airtable.com/.attachments/6e1ba6e02858de99a1f2d4328c131838/d59e0ae7/_0004s_0003_articulated.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-wisdom",
+        "url": "https://dl.airtable.com/.attachments/68361885ed00775e25f591099dcd89ac/32151957/_0003s_0001_wisdom.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "1173",
+  "name": "Spinor's Axe",
+  "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1173",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=1173&witch-id=8382",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_8382.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8382"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Bat Wings (Bleached)"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Spine (Bleached)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Maw (Bleached)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Mark of the Damned"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1173",
+    "name": "Spinor's Axe",
+    "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "8382",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "handle",
+        "style": "spine",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/a795ef8f1d7a9eef38c2921c9867a734/5d78e76a/_0004s_0007_spine-purple.png"
+      },
+      {
+        "name": "blade",
+        "style": "maw",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/39d2b14bfe6d2bac043a251ffcf01875/dc906909/_0003s_0004_maw-purple.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "maw",
+        "url": "https://dl.airtable.com/.attachments/0affc93ea5302ba1bf547c09268fd7cc/ab2f7ed7/spinorsaxeoccultist.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "mark-of-the-damned",
+        "url": "https://dl.airtable.com/.attachments/087a0e0d02057c022a33e49d2ab4212f/c60a091f/_0002s_0009_mark-of-the-damned.png"
+      },
+      {
+        "name": "center",
+        "style": "bat-wings",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/ebf311627ff7f7aef7f0a4420ec80fe6/f6524eac/_0001s_0015_bat-wings-purple.png"
+      },
+      {
+        "name": "sun",
+        "style": "taurus",
+        "url": "https://dl.airtable.com/.attachments/45ed4ef3092af3458f16008607c458d6/43dbe850/_0000s_0010_taurus.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "1353",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an enchanting pool, attuned to the work of an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1353",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=1353&witch-id=7411",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_7411.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7411"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Lotus (Red)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Gilded Pool (Magenta)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Thorns (Red)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Kali Adornment (Red)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Twin Statuettes (Gold)"
+    },
+    {
+      "trait_type": "Background Decor",
+      "value": "Sultry Puff (Gold Purple)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1353",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an enchanting pool, attuned to the work of an ENCHANTRESS.",
+    "witchId": "7411",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "stand",
+        "style": "thorns",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/6a42fc2110bdcd34c15e78d35e1b1c5e/38bb0cd2/thorn-red.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "twin-statuettes",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/ce89f32e2ff6f9a72dc872da32cfaf24/886a01fc/gold.png"
+      },
+      {
+        "name": "shell",
+        "style": "lotus",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/7b2b97fa143d7adb8c9fafedcd5c64c3/64235c13/lotus.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "kali-adornment",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/f6c7f921d0c8bc9d00d6b5c9b4b76694/a665580c/kali.png"
+      },
+      {
+        "name": "background-decor",
+        "style": "sultry-puff",
+        "color": "gold-purple",
+        "url": "https://dl.airtable.com/.attachments/e546eb8b8479acc41ee404ed3ed91697/0098d8ec/puff-gold-purple.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "gilded-pool",
+        "color": "magenta",
+        "url": "https://dl.airtable.com/.attachments/a76d126663990572649d25fa3fd1dfa9/f4fe7df1/5.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "gilded-pool",
+        "color": "magenta",
+        "url": "https://dl.airtable.com/.attachments/1546706137eb2c4660e698988f411b6d/c1b3479b/5.png"
+      },
+      {
+        "name": "pearl",
+        "style": "brown",
+        "url": "https://dl.airtable.com/.attachments/3c01ce3bbee4c7492261c6b36015885f/a2b4ca27/brown.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": 1
+    }
+  }
+}

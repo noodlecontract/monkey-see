@@ -1,0 +1,120 @@
+{
+  "id": "1595",
+  "name": "Dove's Monkey Charm",
+  "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1595",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1595&witch-id=657",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_657.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "657"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Royal Forest (Purple Gold)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Saffron"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Patterned Fan (Black)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Pink"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1595",
+    "name": "Dove's Monkey Charm",
+    "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "657",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "royal-forest",
+        "color": "purple-gold",
+        "url": "https://dl.airtable.com/.attachments/c69f664f860d15e3038116ff47807089/a4fb37aa/purple-gold.png"
+      },
+      {
+        "name": "head",
+        "style": "saffron",
+        "url": "https://dl.airtable.com/.attachments/299355fa1a33b8e5c89decbacdadfed9/eab8f507/saffron_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/de02fa4129c0b1c57b7b69bf00e53499/acee45c2/pink.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "saffron",
+        "url": "https://dl.airtable.com/.attachments/9021eaa086c339fe68961cd927383b36/499104c1/saffron.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "patterned-fan",
+        "color": "black",
+        "url": "https://dl.airtable.com/.attachments/f842f5a4950121b6658d5ecf7dd9437c/fd378f23/black-pattern.png"
+      },
+      {
+        "name": "hands",
+        "style": "saffron",
+        "url": "https://dl.airtable.com/.attachments/2737492fc59a2af13843c264f554e403/65c9d174/saffron_hands.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 2
+    }
+  }
+}

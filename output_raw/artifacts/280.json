@@ -1,0 +1,125 @@
+{
+  "id": "280",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/280",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=280&witch-id=5147",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_5147.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "5147"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Splash (Heliotrope)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Hydrophobic Pool (Toxic)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Pale Tripod (Flame)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Fire Flower (Flame)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Tripod (Purple)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "280",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+    "witchId": "5147",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "stand",
+        "style": "pale-tripod",
+        "color": "flame",
+        "url": "https://dl.airtable.com/.attachments/aa325e8007ae4b7ab2811a4c71cdf73f/8dd66388/wonder-red.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "tripod",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/0e1c56e50fb544b4fa9eb0939679e92e/4615b787/purple.png"
+      },
+      {
+        "name": "shell",
+        "style": "splash",
+        "color": "heliotrope",
+        "url": "https://dl.airtable.com/.attachments/24b70c2e21dcd526fa7e03835f6835d7/6368a06c/purple-back.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "fire-flower",
+        "color": "flame",
+        "url": "https://dl.airtable.com/.attachments/b2fb6a6bd612eee78db8dea7fde20df9/6bb7c72e/fire-flower.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "hydrophobic-pool",
+        "color": "toxic",
+        "url": "https://dl.airtable.com/.attachments/250009f06067dd1bd807847ef72ad28b/eef37922/dark.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "hydrophobic-pool",
+        "color": "toxic",
+        "url": "https://dl.airtable.com/.attachments/ef3dca567d8873cc2598f8bde9c60eb6/0e65d957/dark-overlay.png"
+      },
+      {
+        "name": "pearl",
+        "style": "aquamarine",
+        "url": "https://dl.airtable.com/.attachments/7b234363d990bba80e17b58350dc4cd3/f530a79c/aquamarine.png"
+      },
+      {
+        "name": "shell-front",
+        "style": "splash",
+        "color": "heliotrope",
+        "url": "https://dl.airtable.com/.attachments/1518d6be08ae77779ca5fce4ee5e50db/045d8db1/purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": -1
+    }
+  }
+}

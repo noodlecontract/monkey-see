@@ -1,0 +1,129 @@
+{
+  "id": "1405",
+  "name": "Dove's Monkey Charm",
+  "description": "A lush snow monkey carved from stone, natural like a HAG. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1405",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1405&witch-id=717",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_717.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "717"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Butterfly Green (Green Blue)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Auburn"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Offering Mushroom"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flower Charm (Pink)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Purple"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1405",
+    "name": "Dove's Monkey Charm",
+    "description": "A lush snow monkey carved from stone, natural like a HAG. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "717",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "platform",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/65e6ad86d1cc725866f02a14b4d9777c/43a61d80/blue.png"
+      },
+      {
+        "name": "kimono",
+        "style": "butterfly-green",
+        "color": "green-blue",
+        "url": "https://dl.airtable.com/.attachments/e34b3976b23060520ddba25de26bee38/37ed02b1/hag_green_bue.png"
+      },
+      {
+        "name": "head",
+        "style": "auburn",
+        "url": "https://dl.airtable.com/.attachments/9876eec3e8f21d2480067ce92dddd636/37d07a5d/warm-brown_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/7f5997a0bdf79549af54e312cb91869b/04e8241c/purple.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "auburn",
+        "url": "https://dl.airtable.com/.attachments/9c4633457ef15b2d8317cfb92d80a43c/847510f1/warm-brown.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "offering-mushroom",
+        "url": "https://dl.airtable.com/.attachments/6c649f78806bc380332007256a14e701/8618f9f3/offering_mushroom.png"
+      },
+      {
+        "name": "hands",
+        "style": "auburn",
+        "url": "https://dl.airtable.com/.attachments/8e5645a99efcf6e33f97b202add8e1f2/a8c888a6/warm-brown-hands.png"
+      },
+      {
+        "name": "hat",
+        "style": "flower-charm",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/ac21268b80195b4bd1ee15ae9535d045/efe2b2f9/hag_flower-charm_hot-pink.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

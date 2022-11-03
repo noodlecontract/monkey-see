@@ -1,0 +1,85 @@
+{
+  "id": "1199",
+  "name": "Iona's Crook",
+  "description": "A prophetic impression of the HAG IONA’s shepherd’s crook. Its oceanic lantern is well-suited to a SEER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1199",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1199&witch-id=3157",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_3157.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3157"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Flora"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Sea Turtle of Will (Ivory)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "White Gold"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1199",
+    "name": "Iona's Crook",
+    "description": "A prophetic impression of the HAG IONA’s shepherd’s crook. Its oceanic lantern is well-suited to a SEER.",
+    "witchId": "3157",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "handle",
+        "style": "sandstone",
+        "url": "https://dl.airtable.com/.attachments/46533fea4d7bfdedde218a6f01ca64a5/4861d82a/ionas-crook-seer_0002s_0001_sandstone-ivory.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "flora",
+        "url": "https://dl.airtable.com/.attachments/3041edf0150dfc22ec1d75fc459ee509/25b7bca4/ionas-crook-seer_0001s_0000_flora.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "white-gold",
+        "url": "https://dl.airtable.com/.attachments/4193004e23ae98b98716299dba6e68e2/6d493154/ionas-crook-seer_0000s_0000_jeweled-cuffs---white-gold.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "sea-turtle-of-will",
+        "color": "ivory",
+        "url": "https://dl.airtable.com/.attachments/719e5a13b9cabcf2d34f4c293afe9688/9042c666/ionas-crook-seer_0003s_0004_will-sea-turtle-ivory.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

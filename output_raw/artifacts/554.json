@@ -1,0 +1,96 @@
+{
+  "id": "554",
+  "name": "Spinor's Axe",
+  "description": "A prophetic, starlit axe fit for a SEER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/554",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=554&witch-id=1492",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_1492.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1492"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Elegant Coral (Blue)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Shell (Black)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Eclectic Charms (Green)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "-2"
+    }
+  ],
+  "coven": {
+    "id": "554",
+    "name": "Spinor's Axe",
+    "description": "A prophetic, starlit axe fit for a SEER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "1492",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "handle",
+        "style": "elegant-coral",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/dca8b5336b940643d19b0cb65a49704d/4fe375d0/_0004s_0001_elegant-coral-blue.png"
+      },
+      {
+        "name": "blade",
+        "style": "shell",
+        "color": "black",
+        "url": "https://dl.airtable.com/.attachments/a7ca322fb9ec7d7186b5a2e01add9692/7662ab01/_0002s_0000_black.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "shell",
+        "url": "https://dl.airtable.com/.attachments/4f2545bfc2586193d10d1a8cc0cfb432/26efb267/maskspinorsaxeseer.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "eclectic-charms",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/a83a6204c1872f47bb9cad592cb883c4/fd05430f/_0001s_0010_eclectic-charms-green.png"
+      },
+      {
+        "name": "sun",
+        "style": "capricorn",
+        "url": "https://dl.airtable.com/.attachments/926a25797aef5ab83b36f17cb40283ab/a4aef4ec/_0000s_0002_cap.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": -2
+    }
+  }
+}

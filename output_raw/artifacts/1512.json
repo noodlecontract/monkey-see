@@ -1,0 +1,106 @@
+{
+  "id": "1512",
+  "name": "Spinor's Axe",
+  "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1512",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=1512&witch-id=7131",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_7131.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7131"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Maleficent Horns (Bleached)"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Carved (Bleached)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Fanged (Bleached)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Pierced Moon (Dark)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1512",
+    "name": "Spinor's Axe",
+    "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "7131",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "carved",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/0e42824af601e7997b8a9a099c189836/8d6b12d9/_0004s_0006_carved-purple.png"
+      },
+      {
+        "name": "blade",
+        "style": "fanged",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/a375aa88e1a41cf503f298e0ff1d7373/eb57f194/_0003s_0005_fanged-purple.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "fanged",
+        "url": "https://dl.airtable.com/.attachments/277d11c32657295857c105cc49cc6593/998203ee/fanged.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "pierced-moon",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/a17fe084c5213bd2e3d5eb7d14181d24/293d254b/_0002s_0003_pierced-moon-dark.png"
+      },
+      {
+        "name": "center",
+        "style": "maleficent-horns",
+        "color": "bleached",
+        "url": "https://dl.airtable.com/.attachments/00d2f469d9fecaa11b6f012da7682e35/14ebd8ac/_0001s_0018_maleficent-horns-purple.png"
+      },
+      {
+        "name": "sun",
+        "style": "leo",
+        "url": "https://dl.airtable.com/.attachments/105f6fd3c0f683b610118936f6b56d94/f52edffd/_0000s_0007_leo.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}

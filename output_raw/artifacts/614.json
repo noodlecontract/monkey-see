@@ -1,0 +1,129 @@
+{
+  "id": "614",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/614",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=614&witch-id=2051",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_2051.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "2051"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Lava Rock (Blue)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Languid Pool (Turquoise)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Moss (Purple)"
+    },
+    {
+      "trait_type": "Right Plant",
+      "value": "Anthurium (Blue)"
+    },
+    {
+      "trait_type": "Back Plant",
+      "value": "Caladium (Purple)"
+    },
+    {
+      "trait_type": "Left Plant",
+      "value": "Salix (Pink)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "0"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "3"
+    }
+  ],
+  "coven": {
+    "id": "614",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+    "witchId": "2051",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "shell",
+        "style": "lava-rock",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/8965281adad4e0b1e8e2cbcb89ef067e/dab0173f/hag_blue.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "moss",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/0245513fdcf62857e4d0efebef98f7ea/39e95528/pink.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "languid-pool",
+        "color": "turquoise",
+        "url": "https://dl.airtable.com/.attachments/82d21fac38284c26f964a5f262603aa0/29741257/blue.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "languid-pool",
+        "color": "turquoise",
+        "url": "https://dl.airtable.com/.attachments/9ed4e395e648439042d7484d06fa286a/8d763467/blue.png"
+      },
+      {
+        "name": "back-plant",
+        "style": "caladium",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/c82af2fbd2fdbf081a4d9249e815aa95/772782a4/anthurium_purple.png"
+      },
+      {
+        "name": "pearl",
+        "style": "spectral",
+        "url": "https://dl.airtable.com/.attachments/eb41891acc92348fc6d45e89411351fe/7058383d/pearlspectral.png"
+      },
+      {
+        "name": "right-plant",
+        "style": "anthurium",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/ab266a5ae5e221e4e0358b59cc0829af/5585f6c3/anthuriumblue.png"
+      },
+      {
+        "name": "left-plant",
+        "style": "salix",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/f74356a3a35b2abe6df7ce33e73e19d4/f52bde3d/willow-purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 0,
+      "wisdom": 3
+    }
+  }
+}

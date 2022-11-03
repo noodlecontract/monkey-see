@@ -1,0 +1,97 @@
+{
+  "id": "353",
+  "name": "Rijha's Mirror",
+  "description": "A prophetic mirror with curves full of pearls. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a SEER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/353",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=353&witch-id=1",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_1.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Witch of Woe"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Kombu (Ivory)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Void (Starry)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Nyx"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "2"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "5"
+    }
+  ],
+  "coven": {
+    "id": "353",
+    "name": "Rijha's Mirror",
+    "description": "A prophetic mirror with curves full of pearls. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a SEER.",
+    "witchId": "1",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/884e4b721f7c7ba02b23c466753ef101/f457047f/75931ec1.png"
+      },
+      {
+        "name": "face",
+        "style": "Nyx",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/nyx.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/198d6b2d947dfd3756c1bf2f64f74494/0a710493/6b5b7ef9.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "void",
+        "color": "starry",
+        "url": "https://dl.airtable.com/.attachments/2bf1bccf1d9b77d4eb21674766323459/ab12d4e9/voidmirrorstarry.png"
+      },
+      {
+        "name": "frame",
+        "style": "kombu",
+        "color": "ivory",
+        "url": "https://dl.airtable.com/.attachments/2707816d84ce0830047a89ef91f34f2e/42b71524/ivory.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 2,
+      "woe": 5
+    }
+  }
+}

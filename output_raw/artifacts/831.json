@@ -1,0 +1,125 @@
+{
+  "id": "831",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/831",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=831&witch-id=8211",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_8211.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8211"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Splash (Ichor)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Hydrophobic Pool (Fluorite)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Dark Tripod (Heliotrope)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Crystal (Heliotrope)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Tripod (Green)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "2"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "831",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+    "witchId": "8211",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "stand",
+        "style": "dark-tripod",
+        "color": "heliotrope",
+        "url": "https://dl.airtable.com/.attachments/b70f58cf3fd26e6a03872b0d3c233c33/ef937b6e/dark-purple.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "tripod",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/f0754c596c32b01b5d9039721cb7f7d9/9fba8113/green.png"
+      },
+      {
+        "name": "shell",
+        "style": "splash",
+        "color": "ichor",
+        "url": "https://dl.airtable.com/.attachments/d1da920398c96a02c73bce6fa2ad9aa5/8013aa48/gold-back.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "crystal",
+        "color": "heliotrope",
+        "url": "https://dl.airtable.com/.attachments/06b287f1ea7d2a12740bf86f8027b6b1/2b33e03d/mage_crystal-dark.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "hydrophobic-pool",
+        "color": "fluorite",
+        "url": "https://dl.airtable.com/.attachments/7bf01e1d78800d6f501b4b2ea1fba68f/1cff84b5/cyan.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "hydrophobic-pool",
+        "color": "fluorite",
+        "url": "https://dl.airtable.com/.attachments/2a50c9ed8127979048a97dd8533788f0/ff20582e/cyan-overlay.png"
+      },
+      {
+        "name": "pearl",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/da194454f48868537dd53e9f5669af5c/e9e31331/pink.png"
+      },
+      {
+        "name": "shell-front",
+        "style": "splash",
+        "color": "ichor",
+        "url": "https://dl.airtable.com/.attachments/e8fbad7ef185dcc74f2418c0596d68bb/39ba33a9/gold-front.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 2,
+      "wisdom": 2
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "22",
+  "name": "Rijha's Mirror",
+  "description": "A spectral raven feather mirror with a delicate brooch. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a NECROMANCER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/22",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=22&witch-id=2",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_2.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Witch of Wisdom"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "2"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Magnolia (Pink)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Void (Gaze)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Aletheia"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "3"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "22",
+    "name": "Rijha's Mirror",
+    "description": "A spectral raven feather mirror with a delicate brooch. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a NECROMANCER.",
+    "witchId": "2",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/4411a314537dfaa47316d7e54637196b/73236fc4/masknecromancermirror.png"
+      },
+      {
+        "name": "face",
+        "style": "Aletheia",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/aletheia.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/0167d92381c8cb1a58dbf477afb6a04f/376b5c8a/83d91055.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "void",
+        "color": "gaze",
+        "url": "https://dl.airtable.com/.attachments/732844797ae889a90356af18a58dad96/109ff97f/voidmirroreyes.png"
+      },
+      {
+        "name": "frame",
+        "style": "magnolia",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/2436f333c06a2035272758a2b43bcbb7/6ef3d72f/magpink.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 3,
+      "woe": 2
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "287",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/287",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=287&witch-id=1592",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_1592.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1592"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Aubergine"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Gardenia (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Deer of Wonder (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "287",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "1592",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "handle",
+        "style": "aubergine",
+        "url": "https://dl.airtable.com/.attachments/302f15a565062b4ebb63928e0a849db0/6852e717/hag_0002s_0005_aubergine.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "gardenia",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/65dc391a2fcf5499125477b2fc6dbbf0/3609d346/_0001s_0005_gardenia-pink.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "deer-of-wonder",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/e109236e1b8cd54e225e27b59dae7528/36d2beb6/_0004s_0021_bottle-deer-gold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

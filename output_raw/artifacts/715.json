@@ -1,0 +1,86 @@
+{
+  "id": "715",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/715",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=715&witch-id=6001",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_6001.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6001"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Rosewood"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Turkeytail (Red)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Owl of Wisdom (Green)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Ladybug"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "715",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "6001",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "handle",
+        "style": "rosewood",
+        "url": "https://dl.airtable.com/.attachments/a8221d1289add10a59dd9b8985ce3343/44fad6ce/hag_0002s_0001_rosewood.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "turkeytail",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/bea5bf6988246cba10ba16b7814e909a/c4aca22a/hag_0001s_0006_turkeytail-red.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "ladybug",
+        "url": "https://dl.airtable.com/.attachments/658e561fa38b297d6529d29ef4a1bbd7/b7942672/hag_0000s_0000_ladybug.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "owl-of-wisdom",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/bbeba5d8d855ecb9b6266e94759233e8/0be359a5/_0004s_0014_bottle-owl-green.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

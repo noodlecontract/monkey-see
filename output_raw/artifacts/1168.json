@@ -1,0 +1,86 @@
+{
+  "id": "1168",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1168",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1168&witch-id=5668",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_5668.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "5668"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Bloodwood"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Gardenia (Yellow)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Deer of Wonder (Warm)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Clouded Yellow Butterfly"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1168",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "5668",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "handle",
+        "style": "bloodwood",
+        "url": "https://dl.airtable.com/.attachments/bf2243889c55944a448b6791d2fb5d89/c9051a2c/hag_0002s_0002_bloodwood.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "gardenia",
+        "color": "yellow",
+        "url": "https://dl.airtable.com/.attachments/5e8a0dff0334a75056c7d5d6b8fa861d/1f0be229/_0001s_0003_gardenia-yellow.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "clouded-yellow-butterfly",
+        "url": "https://dl.airtable.com/.attachments/81b8e6a6944c4a6f036c854fe8576a2d/988d3ba9/hag_0000s_0001_clouded-yellow.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "deer-of-wonder",
+        "color": "warm",
+        "url": "https://dl.airtable.com/.attachments/04095c2a227636ceff67f6d679700d1f/482e8a4d/hag_0004s_0010_bottle-deer-warm.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 2
+    }
+  }
+}

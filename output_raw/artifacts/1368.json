@@ -1,0 +1,96 @@
+{
+  "id": "1368",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1368",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1368&witch-id=8092",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8092.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8092"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Pelt"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Mark of the Untamed"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Snake Skull of Wiles (Blackened)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Frayed Charms (Black)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Inscribed Demon Bloom (Black)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1368",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "8092",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "handle",
+        "style": "pelt",
+        "url": "https://dl.airtable.com/.attachments/3d1301203c62a91f7616671dd4385a53/4b9a6015/_0002s_0000_pelt.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "mark-of-the-untamed",
+        "url": "https://dl.airtable.com/.attachments/60059aa4f7d6c1e8962a2da3832e9061/e7505680/_0001s_0003_mark-of-the-untamed.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "frayed-charms",
+        "color": "black",
+        "url": "https://dl.airtable.com/.attachments/658da13451f5df6908891577f491ad7e/eae65fc2/_0000s_0003_frayed-charms-black.png"
+      },
+      {
+        "name": "glow",
+        "style": "inscribed-demon-bloom",
+        "color": "black",
+        "url": "https://dl.airtable.com/.attachments/85c280769882367cfafc01350710beb6/23887c0a/_0005s_0024_inscribed-demon-bloom-black.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "snake-skull-of-wiles",
+        "color": "blackened",
+        "url": "https://dl.airtable.com/.attachments/34fb9f97a684567cd156305e497b6d11/a9aaed3b/_0004s_0009_wiles-snake-dark.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

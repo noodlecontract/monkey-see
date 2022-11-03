@@ -1,0 +1,76 @@
+{
+  "id": "349",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/349",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=349&witch-id=4542",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_4542.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4542"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Pink Ivory"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Mauve Leaves"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Leafy Kokedama (Pink)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "349",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "4542",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "pink-ivory",
+        "url": "https://dl.airtable.com/.attachments/86a84d53e07bd380936477efda425122/ad1957e8/hag_0002s_0000_pink-ivory-.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "mauve-leaves",
+        "url": "https://dl.airtable.com/.attachments/7b6e8fb5ad67df6d60c5bd724f5b5459/98562220/hag_0001s_0002_mauve-leaves.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "leafy-kokedama",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/e7c2567da420983793a01118bb29bf99/08722cdf/hag_0004s_0013_leafy-kokedama-pink.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

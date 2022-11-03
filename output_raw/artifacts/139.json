@@ -1,0 +1,109 @@
+{
+  "id": "139",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a spectral pool, attuned to the work of a NECROMANCER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/139",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=139&witch-id=7236",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_7236.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7236"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Scallop (Silver)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Pensive Pool (Red)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Moth Stand of Wonder (Striped)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Gothic Crystals (Blue)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "139",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a spectral pool, attuned to the work of a NECROMANCER.",
+    "witchId": "7236",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "stand",
+        "style": "moth-stand-of-wonder",
+        "color": "striped",
+        "url": "https://dl.airtable.com/.attachments/032893fb83f95df6c74ec14385b8e9af/dd0efc15/necromancer_blue-moth_striped-wonder.png"
+      },
+      {
+        "name": "shell",
+        "style": "scallop",
+        "color": "silver",
+        "url": "https://dl.airtable.com/.attachments/21dc1fed539f94fc94a53722b841ed23/84f5284a/silver.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "gothic-crystals",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/c3fd278eb7d5a162f17c3f9fb03c2df8/4d000dab/necromancer_blue-gems.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "pensive-pool",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/4768ff4b08497ffab74df94cf90f4fea/85f08cd9/red.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "pensive-pool",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/0fc0b0bd5d44aed84fe7ab5e6ce842c8/4299b688/red-overlay.png"
+      },
+      {
+        "name": "pearl",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/da194454f48868537dd53e9f5669af5c/e9e31331/pink.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": -1
+    }
+  }
+}

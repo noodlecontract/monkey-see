@@ -1,0 +1,132 @@
+{
+  "id": "1568",
+  "name": "Iona's Crook",
+  "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1568",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1568&witch-id=1550",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_1550.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1550"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Midnight Sun"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Round (Gold)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Burnished Gold"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Domed Gold"
+    },
+    {
+      "trait_type": "Tassel",
+      "value": "Fanned (Gold)"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Gilded Wiles"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Lantern Secondary Ornament",
+      "value": "Peony (Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1568",
+    "name": "Iona's Crook",
+    "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+    "witchId": "1550",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "handle",
+        "style": "gold",
+        "url": "https://dl.airtable.com/.attachments/17bd0064d17c0bff04fe3c34ee4e1e0b/60f0b331/ionas-crook-enchantress_0002s_0002_gold.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "midnight-sun",
+        "url": "https://dl.airtable.com/.attachments/28b91a32f1326b744a592627d2da95c4/104aeea6/ionas-crook-enchantress_0000s_0004_woe.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "burnished-gold",
+        "url": "https://dl.airtable.com/.attachments/e8e6c16f978379e6de546b554b851907/13b00bdc/ionas-crook-enchantress_0001s_0003_burnished-gold.png"
+      },
+      {
+        "name": "glow",
+        "style": "gold",
+        "url": "https://dl.airtable.com/.attachments/cacda71ca33db11852270c16495c7fb1/5b6aab9e/ionas-crook-enchantress_0004s_0000_wit.png"
+      },
+      {
+        "name": "lantern-secondary-ornament",
+        "style": "peony",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/e992af21228437393692a820fbb3ecd5/69f37783/ionas-crook-enchantress_0003s_0003s_0003_2.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "round",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/32e28629d0df55863be33e5bd35e89e3/e2bf9283/lanternbodyroundgold.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "domed-gold",
+        "url": "https://dl.airtable.com/.attachments/364d08171e59042e1b774382065d9d64/2d012efa/domedgold.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "gilded-wiles",
+        "url": "https://dl.airtable.com/.attachments/5042104a4a170a039117eb58c7ac230d/ac42cbce/gildedwiles.png"
+      },
+      {
+        "name": "tassel",
+        "style": "fanned",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/e066f5c642cf20f9d0a8389cfcd3655f/894b69e2/tasselfannedgold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 2
+    }
+  }
+}

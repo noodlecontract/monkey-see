@@ -1,0 +1,109 @@
+{
+  "id": "574",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/574",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=574&witch-id=686",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_686.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "686"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Skull (Antique)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Shallow Pool (Daytrip)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Horns Green Ribbons (Horn)"
+    },
+    {
+      "trait_type": "Background Decor",
+      "value": "Painted (Blue)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "574",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+    "witchId": "686",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "shell",
+        "style": "skull",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/4f1ea7a63377e6e9a8c83a15561439a2/c391bde0/skull_antique.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "horns-green-ribbons",
+        "color": "horn",
+        "url": "https://dl.airtable.com/.attachments/a356f9ad9d0c8c107ad40dfb73c5a4c0/f1e53138/horns_ribbon_green.png"
+      },
+      {
+        "name": "background-decor",
+        "style": "painted",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/8dadd9ec2ee6308745939c38a6dfa994/37dd22ae/tattoo-blue.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "shallow-pool",
+        "color": "daytrip",
+        "url": "https://dl.airtable.com/.attachments/aaa8c685ebc701680a9ed3d1bc279cc7/94a9b222/liquid-daytrip.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "shallow-pool",
+        "color": "daytrip",
+        "url": "https://dl.airtable.com/.attachments/d60d4167fa86d795724070126d218239/aef51b8c/liquid-daytrip-overlay.png"
+      },
+      {
+        "name": "pearl",
+        "style": "spectral",
+        "url": "https://dl.airtable.com/.attachments/eb41891acc92348fc6d45e89411351fe/7058383d/pearlspectral.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": -1,
+      "wisdom": 2
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "855",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/855",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=855&witch-id=72",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_72.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "72"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Legion (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Soul Fire (Purple)"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Articulated"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Wit"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "855",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "72",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "handle",
+        "style": "charcoal",
+        "url": "https://dl.airtable.com/.attachments/d401ffc9c6454a67a688fb1ba652113c/59cdd6e0/_0002s_0007_charcoal.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "legion",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/5374dfb283980aae13f1ed5d345340c0/d810b0da/_0001s_0001s_0007_legion.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "soul-fire",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/38653a7a65bd11e6ff1c04d4d0cd1b38/28990f9e/_0005s_0006_soulfire-violet.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "articulated",
+        "url": "https://dl.airtable.com/.attachments/6e1ba6e02858de99a1f2d4328c131838/d59e0ae7/_0004s_0003_articulated.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-wit",
+        "url": "https://dl.airtable.com/.attachments/8e03131f0f5e26f2323d949d61e8400c/f6fce8a9/_0003s_0002_wit.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

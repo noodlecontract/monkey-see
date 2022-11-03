@@ -1,0 +1,77 @@
+{
+  "id": "1499",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1499",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1499&witch-id=8810",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8810.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8810"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Pink Ivory"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Gardenia (Yellow)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Fox of Wit (Cool)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "1499",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "8810",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "handle",
+        "style": "pink-ivory",
+        "url": "https://dl.airtable.com/.attachments/86a84d53e07bd380936477efda425122/ad1957e8/hag_0002s_0000_pink-ivory-.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "gardenia",
+        "color": "yellow",
+        "url": "https://dl.airtable.com/.attachments/5e8a0dff0334a75056c7d5d6b8fa861d/1f0be229/_0001s_0003_gardenia-yellow.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "fox-of-wit",
+        "color": "cool",
+        "url": "https://dl.airtable.com/.attachments/beedab06d5319b429b946d2472250f36/fdba823f/hag_0004s_0000_bottle-fox-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

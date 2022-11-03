@@ -1,0 +1,77 @@
+{
+  "id": "182",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/182",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=182&witch-id=3207",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_3207.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3207"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Rosewood"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Nasturtium (Yellow)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Deer of Wonder (Purple)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "182",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "3207",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "handle",
+        "style": "rosewood",
+        "url": "https://dl.airtable.com/.attachments/a8221d1289add10a59dd9b8985ce3343/44fad6ce/hag_0002s_0001_rosewood.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "nasturtium",
+        "color": "yellow",
+        "url": "https://dl.airtable.com/.attachments/a7b1efe13357f055b8a15718bfbcd578/0fe18e76/_0001s_0001_nasturtium-yellow.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "deer-of-wonder",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/7f07140bf90fbaa2e6aee2fd9316fca6/3b728ad7/_0004s_0023_bottle-deer-purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

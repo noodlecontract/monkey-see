@@ -1,0 +1,96 @@
+{
+  "id": "420",
+  "name": "Rijha's Mirror",
+  "description": "A lush mirror with blinking eyes. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/420",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=420&witch-id=7574",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_7574.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7574"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Butterfly (Rose Quartz)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Smooth"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dill, the Druidic Tart"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "420",
+    "name": "Rijha's Mirror",
+    "description": "A lush mirror with blinking eyes. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a HAG.",
+    "witchId": "7574",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/45d0dbd025cc36eebb218fa493bcc6be/7e7dd614/711da83c.png"
+      },
+      {
+        "name": "face",
+        "style": "Dill, the Druidic Tart",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/935739adf5b8aee3300a05268b14a51d.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/6a684a7cc90059da100d0c9c7bce0539/f85f108b/56c59e1a.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "smooth",
+        "url": "https://dl.airtable.com/.attachments/0142225831cab433b4af5e6d89b4c2bc/5ad99223/empty.png"
+      },
+      {
+        "name": "frame",
+        "style": "butterfly",
+        "color": "rose-quartz",
+        "url": "https://dl.airtable.com/.attachments/de2a582c8c5352998025c831004bc2c0/e8926ac9/rosequartz.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 1,
+      "woe": 0
+    }
+  }
+}

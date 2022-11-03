@@ -1,0 +1,77 @@
+{
+  "id": "746",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/746",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=746&witch-id=4931",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_4931.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4931"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Purple Heart"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Painted Pine (Dark)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Raven of Woe (Cool)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "746",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "4931",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "purple-heart",
+        "url": "https://dl.airtable.com/.attachments/400a8a1672a2a58137bd436d6191cc9c/72cdb410/hag_0002s_0004_purple-heart.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "painted-pine",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/358e0193a4064ab4bd9e9f1fad800f87/29c13306/_0001s_0009_painted-pine-dark.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "raven-of-woe",
+        "color": "cool",
+        "url": "https://dl.airtable.com/.attachments/adb0ec66576571d63a01c3bc755d8034/cdf674d3/hag_0004s_0008_bottle-raven-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

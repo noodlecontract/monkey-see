@@ -1,0 +1,129 @@
+{
+  "id": "543",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/543",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=543&witch-id=8526",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_8526.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8526"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Lava Rock (Teal)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Languid Pool (Orange)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Versicolor (Blue)"
+    },
+    {
+      "trait_type": "Right Plant",
+      "value": "Delicate Stripes (Pink)"
+    },
+    {
+      "trait_type": "Back Plant",
+      "value": "Monster Mushroom (Pink)"
+    },
+    {
+      "trait_type": "Left Plant",
+      "value": "Striped Cap (Blue)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "543",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+    "witchId": "8526",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "shell",
+        "style": "lava-rock",
+        "color": "teal",
+        "url": "https://dl.airtable.com/.attachments/126d0ac9f25082e62bc86eac042c4051/8af6ff42/teal.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "versicolor",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/3efe1f98baa7ddb2d4d8e49cab3b12f7/6220ae39/bottom_turkey_light_blue.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "languid-pool",
+        "color": "orange",
+        "url": "https://dl.airtable.com/.attachments/92d5bab38f52aceca5f267534a72ffbc/12950332/orange.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "languid-pool",
+        "color": "orange",
+        "url": "https://dl.airtable.com/.attachments/62437c667bafee68cbb74b3e7861a429/ec18bbf3/orange.png"
+      },
+      {
+        "name": "back-plant",
+        "style": "monster-mushroom",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/ee9bb7ab912e14c2e42f16dc41ff2322/5ad00a71/mushroom-pink.png"
+      },
+      {
+        "name": "pearl",
+        "style": "spectral",
+        "url": "https://dl.airtable.com/.attachments/eb41891acc92348fc6d45e89411351fe/7058383d/pearlspectral.png"
+      },
+      {
+        "name": "right-plant",
+        "style": "delicate-stripes",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/48558214f7ee32a3e6177ebcaa17af4a/196c0c63/striped-pink.png"
+      },
+      {
+        "name": "left-plant",
+        "style": "striped-cap",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/68615cf06d289eb83c25712f2a44259c/d374cd2e/delicate-purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": 1
+    }
+  }
+}

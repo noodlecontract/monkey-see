@@ -1,0 +1,95 @@
+{
+  "id": "679",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/679",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=679&witch-id=1818",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_1818.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1818"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Deep Teal"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Daedric (Jade)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Moon (Pink)"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Clawed"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Woe"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "679",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "1818",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "handle",
+        "style": "deep-teal",
+        "url": "https://dl.airtable.com/.attachments/1e2db3d4a1753323d3a5388be6d07101/97825046/_0002s_0005_deep-teal.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "daedric",
+        "color": "jade",
+        "url": "https://dl.airtable.com/.attachments/ddbcf9ce31d9f347a5ba9f41c7125307/be81cd8c/_0001s_0005s_0006_daedric.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "moon",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/7b332b4c185655013879427de42a6731/b7acbbbc/moonpink.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "clawed",
+        "url": "https://dl.airtable.com/.attachments/d95c685182950074c6f62763dc017d21/4173f669/_0004s_0001_clawed.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-woe",
+        "url": "https://dl.airtable.com/.attachments/06791927413d47bc5e7cb449e1033f24/7bbadd4f/_0003s_0003_woe.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

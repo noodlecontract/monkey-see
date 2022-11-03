@@ -1,0 +1,140 @@
+{
+  "id": "1633",
+  "name": "Dove's Monkey Charm",
+  "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1633",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1633&witch-id=3049",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_3049.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3049"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Serene (Silver)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Rope Gourd (Yellow)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bow (Dark)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Minori Muff (Silver)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Gold"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1633",
+    "name": "Dove's Monkey Charm",
+    "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "3049",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "serene",
+        "color": "silver",
+        "url": "https://dl.airtable.com/.attachments/fac10659a4bc43c93e2beaa4e1880f66/35d9c7ee/silver.png"
+      },
+      {
+        "name": "head",
+        "style": "silver",
+        "url": "https://dl.airtable.com/.attachments/fadc963134af9a98bc1882e0a645b300/9fa1adb6/silver_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "gold",
+        "url": "https://dl.airtable.com/.attachments/8978366e39cacaea1eb9495562fce3af/f8532bf4/gold.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "silver",
+        "url": "https://dl.airtable.com/.attachments/6a2d88efeb29cdcf3b9264426ec4d844/3d231d2e/silver.png"
+      },
+      {
+        "name": "accessory",
+        "style": "minori-muff",
+        "color": "silver",
+        "url": "https://dl.airtable.com/.attachments/6747b927f655f1da45dd554929f3b5c4/6f27c8a1/ruff.png"
+      },
+      {
+        "name": "hands",
+        "style": "silver",
+        "url": "https://dl.airtable.com/.attachments/caa791f01c2ee4f13b27f0f22a0eac84/913d8210/silver_hands.png"
+      },
+      {
+        "name": "hat",
+        "style": "bow",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/db7e1a19fcaa2a7ae102939184c89b76/08fd43d2/dark_bow.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "rope-gourd",
+        "color": "yellow",
+        "url": "https://dl.airtable.com/.attachments/d903e402d27d013a8425fbbf460159b1/c9cbf4f9/necromancer_gourd-rope_yellow.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 2
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "40",
+  "name": "Dove's Monkey Charm",
+  "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/40",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=40&witch-id=9759",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_9759.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9759"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Serene (Silver)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Dust"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Rope Gourd (Green)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bow (Silver)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goth Lolita (Green)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blank (White)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "40",
+    "name": "Dove's Monkey Charm",
+    "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "9759",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "platform",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/65e6ad86d1cc725866f02a14b4d9777c/43a61d80/blue.png"
+      },
+      {
+        "name": "kimono",
+        "style": "serene",
+        "color": "silver",
+        "url": "https://dl.airtable.com/.attachments/fac10659a4bc43c93e2beaa4e1880f66/35d9c7ee/silver.png"
+      },
+      {
+        "name": "head",
+        "style": "dust",
+        "url": "https://dl.airtable.com/.attachments/fadc963134af9a98bc1882e0a645b300/9fa1adb6/silver_head.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "expression",
+        "style": "dust",
+        "url": "https://dl.airtable.com/.attachments/6a2d88efeb29cdcf3b9264426ec4d844/3d231d2e/silver.png"
+      },
+      {
+        "name": "eyes",
+        "style": "blank",
+        "color": "white",
+        "url": "https://dl.airtable.com/.attachments/8e7d2c6e1f17f94d12edc72061d89a02/2fbc9524/blank-silver.png"
+      },
+      {
+        "name": "accessory",
+        "style": "goth-lolita",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/d753c062526233edd00993b81f38e4fc/5ba64c94/lolita-green-dark.png"
+      },
+      {
+        "name": "hands",
+        "style": "dust",
+        "url": "https://dl.airtable.com/.attachments/caa791f01c2ee4f13b27f0f22a0eac84/913d8210/silver_hands.png"
+      },
+      {
+        "name": "hat",
+        "style": "bow",
+        "color": "silver",
+        "url": "https://dl.airtable.com/.attachments/240553e6ee9fdc33e7452c7c56de4929/649ccda1/silver-bow.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "rope-gourd",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/e5236fa73354d957740a9c18eedb428d/f6bd5198/necromancer_gourd-rope_green.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

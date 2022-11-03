@@ -1,0 +1,105 @@
+{
+  "id": "1107",
+  "name": "Spinor's Axe",
+  "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1107",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=1107&witch-id=4263",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_4263.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4263"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Bat Wings (Bone)"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Carved (Bone)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Maw (Bone)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Eclectic Tassels"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "3"
+    }
+  ],
+  "coven": {
+    "id": "1107",
+    "name": "Spinor's Axe",
+    "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "4263",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "handle",
+        "style": "carved",
+        "color": "bone",
+        "url": "https://dl.airtable.com/.attachments/2d1eb35a7a7e0900f4210b2a4d6329dd/e9fa7476/_0004s_0009_carved-cream.png"
+      },
+      {
+        "name": "blade",
+        "style": "maw",
+        "color": "bone",
+        "url": "https://dl.airtable.com/.attachments/774a741a54f4bfbcbc90278f676f1449/ae9a979c/_0003s_0006_maw-cream.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "maw",
+        "url": "https://dl.airtable.com/.attachments/0affc93ea5302ba1bf547c09268fd7cc/ab2f7ed7/spinorsaxeoccultist.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "eclectic-tassels",
+        "url": "https://dl.airtable.com/.attachments/059678f78654ca8a56d32f5124c5b6d7/28125382/_0002s_0000_eclectic-tassels.png"
+      },
+      {
+        "name": "center",
+        "style": "bat-wings",
+        "color": "bone",
+        "url": "https://dl.airtable.com/.attachments/b1975882d9258f88fb13602519f29f0c/ba39ae96/_0001s_0022_bat-wings-cream.png"
+      },
+      {
+        "name": "sun",
+        "style": "cancer",
+        "url": "https://dl.airtable.com/.attachments/e995cae2247e767412b9166da42748fb/af5a1673/_0000s_0008_cancer.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 3
+    }
+  }
+}

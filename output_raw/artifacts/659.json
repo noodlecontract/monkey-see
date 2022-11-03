@@ -1,0 +1,85 @@
+{
+  "id": "659",
+  "name": "Iona's Crook",
+  "description": "A prophetic impression of the HAG IONA’s shepherd’s crook. Its oceanic lantern is well-suited to a SEER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/659",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=659&witch-id=8825",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8825.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8825"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Sandstone"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Striated"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Man O' War of Woe (Red)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Black Gold"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "659",
+    "name": "Iona's Crook",
+    "description": "A prophetic impression of the HAG IONA’s shepherd’s crook. Its oceanic lantern is well-suited to a SEER.",
+    "witchId": "8825",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "sandstone",
+        "url": "https://dl.airtable.com/.attachments/46533fea4d7bfdedde218a6f01ca64a5/4861d82a/ionas-crook-seer_0002s_0001_sandstone-ivory.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "striated",
+        "url": "https://dl.airtable.com/.attachments/1dbd6f5050e976b44770a49a75e58794/4b637467/ionas-crook-seer_0001s_0001_striated.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "black-gold",
+        "url": "https://dl.airtable.com/.attachments/5cbc4b4d6b10bb7f80f62579469cec7f/90424a2d/ionas-crook-seer_0000s_0002_jeweled-cuffs-black-gold.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "man-o'-war-of-woe",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/192e8af81c4f54d6e229a44d6e89eb3a/26fc8d94/ionas-crook-seer_0003s_0014_woe-man-of-war-red.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

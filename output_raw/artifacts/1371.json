@@ -1,0 +1,77 @@
+{
+  "id": "1371",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1371",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1371&witch-id=4021",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_4021.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4021"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Bloodwood"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Gardenia (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Deer of Wonder (Green)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1371",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "4021",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://dl.airtable.com/.attachments/7bc4844ee975e21a56a612f2f1b8fbe2/16d6f63f/rust.png"
+      },
+      {
+        "name": "handle",
+        "style": "bloodwood",
+        "url": "https://dl.airtable.com/.attachments/bf2243889c55944a448b6791d2fb5d89/c9051a2c/hag_0002s_0002_bloodwood.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "gardenia",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/65dc391a2fcf5499125477b2fc6dbbf0/3609d346/_0001s_0005_gardenia-pink.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "deer-of-wonder",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/0d82020d1c60f2a56253574646176b74/0308c4ee/_0004s_0020_bottle-deer-green.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 2
+    }
+  }
+}

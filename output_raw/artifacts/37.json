@@ -1,0 +1,107 @@
+{
+  "id": "37",
+  "name": "Iona's Crook",
+  "description": "A spectral impression of the HAG IONA’s shepherd’s crook. Its gothic lantern is well suited to a NECROMANCER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/37",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=37&witch-id=9759",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_9759.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9759"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Nephrite Jade"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Scales (Green)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Ornate (Dark)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Feathered Wings (Silver)"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Gothic (Dark)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Wiles (Glow)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "37",
+    "name": "Iona's Crook",
+    "description": "A spectral impression of the HAG IONA’s shepherd’s crook. Its gothic lantern is well suited to a NECROMANCER.",
+    "witchId": "9759",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://dl.airtable.com/.attachments/8e646a4467ffc083a412be3ec1f5bd0d/e16a0194/plum.png"
+      },
+      {
+        "name": "handle",
+        "style": "nephrite-jade",
+        "url": "https://dl.airtable.com/.attachments/1aee8a6bc56123a90d5e1c6215aa22b4/4eb3f9b8/_0002s_0007_nephrite-jade.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "scales",
+        "color": "green",
+        "url": "https://dl.airtable.com/.attachments/5af2de7157f25e74e40832632ac30bfd/c36c0c0a/_0001s_0002_scales-green.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "feathered-wings",
+        "color": "silver",
+        "url": "https://dl.airtable.com/.attachments/3152c5252231bc10e5567ab8483dd504/99744b76/featheredwingssilver.png"
+      },
+      {
+        "name": "glow",
+        "style": "wiles",
+        "color": "glow",
+        "url": "https://dl.airtable.com/.attachments/c1d85b778f3e98ae6d71ca3dd0d9430a/89ec6c58/_0005s_0017_wiles.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "ornate",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/2975fa20553cc2c4d61ec72e7d690f8c/6dd1a2f3/_0004s_0003_ornate-dark.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "gothic",
+        "color": "dark",
+        "url": "https://dl.airtable.com/.attachments/a0476a74cf9cc7469249b4e6781b817f/c25e55cb/_0003s_0008_gothic-dark.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

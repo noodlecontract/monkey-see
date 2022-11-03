@@ -1,0 +1,77 @@
+{
+  "id": "346",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/346",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=346&witch-id=8015",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8015.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8015"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Nightshade"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Nasturtium (White)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Elephant of Will (Cool)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-2"
+    }
+  ],
+  "coven": {
+    "id": "346",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "8015",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "handle",
+        "style": "nightshade",
+        "url": "https://dl.airtable.com/.attachments/227596a5406511fb7209a6104a7dc0f5/910adb8a/hag_0002s_0006_nightshade.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "nasturtium",
+        "color": "white",
+        "url": "https://dl.airtable.com/.attachments/5b58e302f684a69ce21e490e4432c253/670a145d/_0001s_0000_nasturtium-white.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "elephant-of-will",
+        "color": "cool",
+        "url": "https://dl.airtable.com/.attachments/477ac0990a0d76ddd6a661f619c32843/1b298c3c/hag_0004s_0005_bottle-elephant-cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -2
+    }
+  }
+}

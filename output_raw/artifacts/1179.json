@@ -1,0 +1,107 @@
+{
+  "id": "1179",
+  "name": "Spinor's Axe",
+  "description": "An enchanting, bejeweled axe fit for an ENCHANTRESS. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1179",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=1179&witch-id=4719",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_4719.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4719"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Halo (Gold)"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Pillowed (Gold)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Pear Cut (Capricorn Smoky Quartz)"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Floret (Gold)"
+    },
+    {
+      "trait_type": "Center Ornament",
+      "value": "Deco Gems (Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1179",
+    "name": "Spinor's Axe",
+    "description": "An enchanting, bejeweled axe fit for an ENCHANTRESS. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "4719",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "handle",
+        "style": "pillowed",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/a17cd473546f9c63ade09d0e16e93edd/e9a12d45/_0004s_0007_gold-pillowed.png"
+      },
+      {
+        "name": "blade",
+        "style": "floret",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/b96b59c0c1c68fb762b23dffec1dbef2/cdee0c75/_0003s_0006_floret-gold.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "floret",
+        "url": "https://dl.airtable.com/.attachments/3b5dcaaea9ee955859f56e9c3ea9af11/730d1a06/spinorsaxeenchantress.png"
+      },
+      {
+        "name": "center",
+        "style": "halo",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/bea138a4339e99fd5738ff626651e32d/c1a94563/_0002s_0008_gold-halo.png"
+      },
+      {
+        "name": "sun",
+        "style": "pear-cut",
+        "color": "capricorn-smoky-quartz",
+        "url": "https://dl.airtable.com/.attachments/c4d12b9e0e80fcbe3a19c3f326e3749f/b1058fb4/_0001s_0000s_0009_capricorn-smoky-quartz.png"
+      },
+      {
+        "name": "center-ornament",
+        "style": "deco-gems",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/03e39346a9ad6bb72a5826c3de350361/9fd11f3f/_0000s_0002_red.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "1414",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1414",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1414&witch-id=1530",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_1530.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1530"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Striped"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Owl Skull of Wisdom (Antique)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Spines (Antique)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Sunset Almond (Violet)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1414",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "1530",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark",
+        "url": "https://dl.airtable.com/.attachments/b36ba97439faad07d6298ca2d4c7c362/919f8976/_0002s_0002_dark.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "striped",
+        "url": "https://dl.airtable.com/.attachments/e1a30a8c2792b309582f512cd23f1c1b/368e7505/_0001s_0004_striped.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "spines",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/599f60e5e0a2010d5c7491237137f1dd/d29699f4/_0000s_0005_spines-aged.png"
+      },
+      {
+        "name": "glow",
+        "style": "sunset-almond",
+        "color": "violet",
+        "url": "https://dl.airtable.com/.attachments/a4efb2927eec0422cabc6239b8304b28/e6f4c414/_0005s_0004_sunset-almond-violet.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "owl-skull-of-wisdom",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/43439f1bdaf29cceddda498f59399ef7/9d3ce2d9/_0004s_0006_wisdom-owl-aged.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

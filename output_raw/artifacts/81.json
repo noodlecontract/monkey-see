@@ -1,0 +1,104 @@
+{
+  "id": "81",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/81",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=81&witch-id=76",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_76.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "76"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Deep Teal"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Demonic (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Soul Fire (Red)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Clawed"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Woe"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "81",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "76",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "handle",
+        "style": "deep-teal",
+        "url": "https://dl.airtable.com/.attachments/1e2db3d4a1753323d3a5388be6d07101/97825046/_0002s_0005_deep-teal.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "demonic",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/7a00ab3b632a0fdeefabe493b10c893d/d6d1b95d/_0001s_0001s_0005_demonic.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d2a1dc4d7546a49ac6f01188a7dd3dfc/82d87c10/_0000s_0001_pink.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "soul-fire",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/ed5b06a874e2d37c90bc1f8c915c39e7/a4c1521b/soulfirered.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "clawed",
+        "url": "https://dl.airtable.com/.attachments/d95c685182950074c6f62763dc017d21/4173f669/_0004s_0001_clawed.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-woe",
+        "url": "https://dl.airtable.com/.attachments/06791927413d47bc5e7cb449e1033f24/7bbadd4f/_0003s_0003_woe.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

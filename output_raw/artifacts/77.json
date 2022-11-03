@@ -1,0 +1,106 @@
+{
+  "id": "77",
+  "name": "Rijha's Mirror",
+  "description": "An erudite flame mirror summoned by nifty engineering. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/77",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=77&witch-id=76",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_76.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "76"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Phosphorous (Red)"
+    },
+    {
+      "trait_type": "Handle Ornament",
+      "value": "Pincer"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Void (Gaze)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mensa the Literate"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "77",
+    "name": "Rijha's Mirror",
+    "description": "An erudite flame mirror summoned by nifty engineering. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a MAGE.",
+    "witchId": "76",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://dl.airtable.com/.attachments/577cc91b5b4ab94180004373397f87e0/9852da4f/moss.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://dl.airtable.com/.attachments/5586d717461f21702131daf220596f96/e92a1210/46a9fce0.png"
+      },
+      {
+        "name": "face",
+        "style": "Mensa the Literate",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/8f52bd96d0018be94d9dbddc6af49063.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://dl.airtable.com/.attachments/e5d3b1883d4204289e05326a1100a2c4/399d3631/bf71f4a1.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://dl.airtable.com/.attachments/935fb8a0f375f06fe81b77d925796e26/e4d51f65/sheen.png"
+      },
+      {
+        "name": "crack",
+        "style": "void",
+        "color": "gaze",
+        "url": "https://dl.airtable.com/.attachments/732844797ae889a90356af18a58dad96/109ff97f/voidmirroreyes.png"
+      },
+      {
+        "name": "frame",
+        "style": "phosphorous",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/e71501ba157772e1967f573d181331be/da22b22e/mirror-mage-export_0001s_0002_red.png"
+      },
+      {
+        "name": "handle-ornament",
+        "style": "pincer",
+        "url": "https://dl.airtable.com/.attachments/751a055a1d5122651ba1140f0b073399/535aa5bc/pincer.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 1,
+      "woe": 1
+    }
+  }
+}

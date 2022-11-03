@@ -1,0 +1,132 @@
+{
+  "id": "179",
+  "name": "Iona's Crook",
+  "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/179",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=179&witch-id=1988",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_1988.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1988"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Midnight Sun"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Pagoda (Hoodlondon Hathor)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Burnished Gold"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Domed Gold"
+    },
+    {
+      "trait_type": "Tassel",
+      "value": "Beaded (Purple)"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Gilded Wonder"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Lantern Secondary Ornament",
+      "value": "Lotus (Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "179",
+    "name": "Iona's Crook",
+    "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+    "witchId": "1988",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "handle",
+        "style": "gold",
+        "url": "https://dl.airtable.com/.attachments/17bd0064d17c0bff04fe3c34ee4e1e0b/60f0b331/ionas-crook-enchantress_0002s_0002_gold.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "midnight-sun",
+        "url": "https://dl.airtable.com/.attachments/28b91a32f1326b744a592627d2da95c4/104aeea6/ionas-crook-enchantress_0000s_0004_woe.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "burnished-gold",
+        "url": "https://dl.airtable.com/.attachments/e8e6c16f978379e6de546b554b851907/13b00bdc/ionas-crook-enchantress_0001s_0003_burnished-gold.png"
+      },
+      {
+        "name": "glow",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/498674ab1c282b856b4bd2fa53703024/ebdd5282/ionas-crook-enchantress_0004s_0001_wisdom.png"
+      },
+      {
+        "name": "lantern-secondary-ornament",
+        "style": "lotus",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/972f3db44eb5d553633165ccc8b9bde9/4ab4cb3f/ionas-crook-enchantress_0003s_0003s_0001_red-lotus.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "pagoda",
+        "color": "hoodlondon-hathor",
+        "url": "https://dl.airtable.com/.attachments/979efbe971dc01af08c4e92591f10b40/7aa59fcd/ionas-crook-enchantress_0003s_0001s_0003_2-copy-11.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "domed-gold",
+        "url": "https://dl.airtable.com/.attachments/364d08171e59042e1b774382065d9d64/2d012efa/domedgold.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "gilded-wonder",
+        "url": "https://dl.airtable.com/.attachments/1350376a6a24c7900fb2544bbb80051e/8585ac84/gildedwonder.png"
+      },
+      {
+        "name": "tassel",
+        "style": "beaded",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/8c619a9e2c9f15aa52e64bd6bcef9b71/50389332/tasselbeadedpurple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

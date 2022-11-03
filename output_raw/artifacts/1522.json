@@ -1,0 +1,131 @@
+{
+  "id": "1522",
+  "name": "Iona's Crook",
+  "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1522",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1522&witch-id=6657",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_6657.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6657"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Daybreak"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Pagoda (Ethereum Diadem)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Starry Openwork"
+    },
+    {
+      "trait_type": "Tassel",
+      "value": "Feathered (Gold)"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Gilded Will"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Lantern Secondary Ornament",
+      "value": "Pearled"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "1522",
+    "name": "Iona's Crook",
+    "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+    "witchId": "6657",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://dl.airtable.com/.attachments/6fc5861d0768672d2abd0e8284167136/2423e901/taupe.png"
+      },
+      {
+        "name": "handle",
+        "style": "gold",
+        "url": "https://dl.airtable.com/.attachments/17bd0064d17c0bff04fe3c34ee4e1e0b/60f0b331/ionas-crook-enchantress_0002s_0002_gold.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "daybreak",
+        "url": "https://dl.airtable.com/.attachments/f2aa2298992952f597a10a9fca2d31d6/6a09c534/ionas-crook-enchantress_0000s_0001_wit.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "obsidian",
+        "url": "https://dl.airtable.com/.attachments/a811cd555e03aff42518747b7ea0c2b9/3187515b/ionas-crook-enchantress_0001s_0000_obsidian.png"
+      },
+      {
+        "name": "glow",
+        "style": "gold",
+        "url": "https://dl.airtable.com/.attachments/cacda71ca33db11852270c16495c7fb1/5b6aab9e/ionas-crook-enchantress_0004s_0000_wit.png"
+      },
+      {
+        "name": "lantern-secondary-ornament",
+        "style": "pearled",
+        "url": "https://dl.airtable.com/.attachments/707061c1d4db48d82a7dfa1c2d127898/89b9d3d2/ionas-crook-enchantress_0003s_0003s_0000_pearls.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "pagoda",
+        "color": "ethereum-diadem",
+        "url": "https://dl.airtable.com/.attachments/22e73e786cded4662561252958f78002/a97ab6b9/ionas-crook-enchantress_0003s_0001s_0008_2-copy-6.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "starry-openwork",
+        "url": "https://dl.airtable.com/.attachments/4a54279c66f46a1320d47a351494ee60/b64c0968/ionas-crook-enchantress_0003s_0000s_0000_1.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "gilded-will",
+        "url": "https://dl.airtable.com/.attachments/f188b0a6daffb0882eca66eac3b2c0d2/8250a759/gildedwill.png"
+      },
+      {
+        "name": "tassel",
+        "style": "feathered",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/84b44f75d2977d116ccea1390363738b/7753562f/tasselfeathergold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

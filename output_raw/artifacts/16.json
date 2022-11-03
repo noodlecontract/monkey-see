@@ -1,0 +1,86 @@
+{
+  "id": "16",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/16",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=16&witch-id=8821",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8821.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8821"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Purple Heart"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Turkeytail (Red)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Leafy Kokedama (Gold)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Clouded Yellow Butterfly"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "16",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "8821",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "handle",
+        "style": "purple-heart",
+        "url": "https://dl.airtable.com/.attachments/400a8a1672a2a58137bd436d6191cc9c/72cdb410/hag_0002s_0004_purple-heart.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "turkeytail",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/bea5bf6988246cba10ba16b7814e909a/c4aca22a/hag_0001s_0006_turkeytail-red.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "clouded-yellow-butterfly",
+        "url": "https://dl.airtable.com/.attachments/81b8e6a6944c4a6f036c854fe8576a2d/988d3ba9/hag_0000s_0001_clouded-yellow.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "leafy-kokedama",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/205a6c8cf638db6eedd7c10fea5f60f7/d024e591/hag_0004s_0012_leafy-kokedama-gold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

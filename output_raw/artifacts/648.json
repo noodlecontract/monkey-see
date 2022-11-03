@@ -1,0 +1,130 @@
+{
+  "id": "648",
+  "name": "Dove's Monkey Charm",
+  "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/648",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=648&witch-id=7622",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_7622.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7622"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Royal (Black Red)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fan (Purple)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Veil (Blue)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Red"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "-2"
+    }
+  ],
+  "coven": {
+    "id": "648",
+    "name": "Dove's Monkey Charm",
+    "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "7622",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://dl.airtable.com/.attachments/fea7548e8aa6abff074b29f87ff9d4e9/1a591dbc/purple.png"
+      },
+      {
+        "name": "kimono",
+        "style": "royal",
+        "color": "black-red",
+        "url": "https://dl.airtable.com/.attachments/ceb10ef0ecbcd0a72088f932aa720e70/2609d05a/black-red.png"
+      },
+      {
+        "name": "head",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/4cb6e31592587a4990ae8fa5aa099935/81a4445c/blue-pearl_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "red",
+        "url": "https://dl.airtable.com/.attachments/cf919f1d88ef9af8079dadfc2d922aae/3558d303/red.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/59303b55e4351003ed73949e5d70718a/4289bcbe/blue-pearl.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "fan",
+        "color": "purple",
+        "url": "https://dl.airtable.com/.attachments/6871bc6cdd41238c7de0e875c0ea38c0/2549d6ee/fan-purple.png"
+      },
+      {
+        "name": "hands",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/f33f2835a2fd481e03d82e5a24988a52/4bcf64a5/blue-pearl_hands.png"
+      },
+      {
+        "name": "hat",
+        "style": "veil",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/d0630986ded55ee9c17ab933bf30920a/5e3b66a8/enchantress_blue-veil.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": -2
+    }
+  }
+}

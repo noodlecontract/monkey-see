@@ -1,0 +1,129 @@
+{
+  "id": "1510",
+  "name": "Dove's Monkey Charm",
+  "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1510",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1510&witch-id=9173",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_9173.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9173"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Ochre"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Glowing Swirls (Orange)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Mage Glass Ribbon (Glowing)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Glo"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Moon Clasp"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "3"
+    }
+  ],
+  "coven": {
+    "id": "1510",
+    "name": "Dove's Monkey Charm",
+    "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "9173",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "platform",
+        "style": "ochre",
+        "url": "https://dl.airtable.com/.attachments/11094dc93933ccc3fdaaadf4a039be10/1a0fb18d/ochre.png"
+      },
+      {
+        "name": "kimono",
+        "style": "glowing-swirls",
+        "color": "orange",
+        "url": "https://dl.airtable.com/.attachments/1a6ea59d52559162d0872f553ad441e7/6cd076c0/orange.png"
+      },
+      {
+        "name": "head",
+        "style": "glo",
+        "url": "https://dl.airtable.com/.attachments/bd94ecd42340d27b8b853052cbc220ca/9b0cea87/glo_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "glo",
+        "url": "https://dl.airtable.com/.attachments/85602b60f0fb80aca3f884feb5d0703b/e833c450/glo.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "glo",
+        "url": "https://dl.airtable.com/.attachments/80c19d6b1937320f4ebb8eb37b5ca863/8dcc1999/glo.png"
+      },
+      {
+        "name": "hands",
+        "style": "glo",
+        "url": "https://dl.airtable.com/.attachments/5f2c4efe8d733ee33923cf70e5f57665/4b9d5995/glo_hands.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "mage-glass-ribbon",
+        "color": "glowing",
+        "url": "https://dl.airtable.com/.attachments/012f2b0c30144c6854c9438d6d9713c6/155a2bf6/mage_ribbon-sparkle_green.png"
+      },
+      {
+        "name": "facewear",
+        "style": "moon-clasp",
+        "url": "https://dl.airtable.com/.attachments/f5b1416217635bc5210c31280f021711/3eba3656/moon-clasp.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 3
+    }
+  }
+}
