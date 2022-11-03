@@ -1,0 +1,21 @@
+---
+layout: base.liquid
+pagination:
+    data: all_artifacts
+    size: 1
+    alias: artifact
+permalink: "artifacts/{{ artifact.id }}/"
+eleventyComputed:
+    title: "{{ artifact.name }} (#{{ artifact.id }}) | monkey see..."
+---
+
+<div style="width: 1000px;">
+  <div><a href="{{ artifact.external_url }}" target="_blank" rel="noopener noreferrer" class="text-orange">{{ artifact.name }}</a></div><br />
+  <div>{{ artifact.description }}</div><br />
+  <div>
+    <a href="{{ artifact.image }}" class="text-orange" style="width: 400px; display: flex; flex-direction: column; align-items:center;">
+      <div>RIGHT CLICK SAVE</div>
+      <img src="{{ artifact.image }}"></img>
+    </a>
+  </div>
+</div>
