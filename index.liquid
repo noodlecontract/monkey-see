@@ -3,5 +3,36 @@ layout: base.liquid
 permalink: "/"
 ---
 <div style="width: 1000px;">
-  STUFF HERE
+  <div style="margin-bottom: 32px;">
+    <input type="text" placeholder="WITCH id" id="witch-id" />
+    <button type="button" id="find-witch">FIND</button>
+  </div>
+
+  <div style="margin-bottom: 32px;">
+    <input type="text" placeholder="ARTIFACT id" id="artifact-id" />
+    <button type="button" id="find-artifact">FIND</button>
+  </div>
 </div>
+
+<script>
+(function (window, document) {
+  // TODO: some sort of better 404, probably
+  const witchBaseUrl = "{{ "/witches/" | url }}"
+  const findWitchButton = document.getElementById("find-witch");
+  const witchIdField = document.getElementById("witch-id");
+
+  findWitchButton.addEventListener("click", (_e) => {
+    witchId = witchIdField.value
+    window.location.assign(witchBaseUrl + witchId);
+  });
+
+  const artifactBaseUrl = "{{ "/artifacts/" | url }}"
+  const findartifactButton = document.getElementById("find-artifact");
+  const artifactIdField = document.getElementById("artifact-id");
+
+  findartifactButton.addEventListener("click", (_e) => {
+    artifactId = artifactIdField.value
+    window.location.assign(artifactBaseUrl + artifactId);
+  });
+})(window, document);
+</script>
