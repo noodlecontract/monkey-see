@@ -1,6 +1,7 @@
 ---
 layout: base.liquid
 permalink: "/"
+date: Last Modified
 ---
 <div style="width: 1000px;">
   <div style="margin-bottom: 32px;">
@@ -12,6 +13,8 @@ permalink: "/"
     <input type="text" placeholder="ARTIFACT id" id="artifact-id" />
     <button type="button" id="find-artifact">FIND</button>
   </div>
+
+  <div>last updated {{ page.date | formatDate }}</div>
 </div>
 
 <script>
