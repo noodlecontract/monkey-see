@@ -1,0 +1,129 @@
+{
+  "id": "1819",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1819",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=1819&witch-id=525",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_525.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "525"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Lava Rock (Orange)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Languid Pool (Deep Green)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Versicolor (Teal)"
+    },
+    {
+      "trait_type": "Right Plant",
+      "value": "Delicate Stripes (Pink)"
+    },
+    {
+      "trait_type": "Back Plant",
+      "value": "Cyclops Mushroom (Gold)"
+    },
+    {
+      "trait_type": "Left Plant",
+      "value": "Spiked Mushroom (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1819",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+    "witchId": "525",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://dl.airtable.com/.attachments/f4e969347e6c21ef2ff2dc03661d3ff7/2ea06071/lavender.png"
+      },
+      {
+        "name": "shell",
+        "style": "lava-rock",
+        "color": "orange",
+        "url": "https://dl.airtable.com/.attachments/9236108eaabdf6639e68967bb79bafa9/decf0a3a/orange.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "versicolor",
+        "color": "teal",
+        "url": "https://dl.airtable.com/.attachments/e6bbd3200ed3560d7d7d254d1e7174a0/6391ebb0/bottom_turkey_teal.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "languid-pool",
+        "color": "deep-green",
+        "url": "https://dl.airtable.com/.attachments/7db937df2992ef6b13f96f56a1432df1/69198bbc/dark-green.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "languid-pool",
+        "color": "deep-green",
+        "url": "https://dl.airtable.com/.attachments/e238a6e50b2c3a4858297dc4c7cccff9/a4de752b/dark-green.png"
+      },
+      {
+        "name": "back-plant",
+        "style": "cyclops-mushroom",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/e02212e3dff1638b421914e113789800/f4cf2b64/cyclops-gold.png"
+      },
+      {
+        "name": "pearl",
+        "style": "brown",
+        "url": "https://dl.airtable.com/.attachments/3c01ce3bbee4c7492261c6b36015885f/a2b4ca27/brown.png"
+      },
+      {
+        "name": "right-plant",
+        "style": "delicate-stripes",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/48558214f7ee32a3e6177ebcaa17af4a/196c0c63/striped-pink.png"
+      },
+      {
+        "name": "left-plant",
+        "style": "spiked-mushroom",
+        "color": "gold",
+        "url": "https://dl.airtable.com/.attachments/ae0dc2062db76ffaf0671fa565591f91/4c0ebe15/spiked-gold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": 1
+    }
+  }
+}

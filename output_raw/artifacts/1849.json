@@ -1,0 +1,125 @@
+{
+  "id": "1849",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1849",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=1849&witch-id=7175",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_7175.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7175"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Splash (Garnet)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Hydrophobic Pool (Neon)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Dark Spider (Glow)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Spirit (Glow)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Spider (Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-2"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "1849",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+    "witchId": "7175",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://dl.airtable.com/.attachments/d4654a3d2fc4a95a0a3591dfafd59a91/af8d8857/pink.png"
+      },
+      {
+        "name": "stand",
+        "style": "dark-spider",
+        "color": "glow",
+        "url": "https://dl.airtable.com/.attachments/61d5e8faa3fee3d5f1185a8081625ef0/5d3b9c91/spider-woe-glow.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "spider",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/5065e2cdbc18969baaba79c873067fa7/e395cddd/spider-red.png"
+      },
+      {
+        "name": "shell",
+        "style": "splash",
+        "color": "garnet",
+        "url": "https://dl.airtable.com/.attachments/964a445f9acf8432675a01c03706219f/1f80d0c4/red-back.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "spirit",
+        "color": "glow",
+        "url": "https://dl.airtable.com/.attachments/648159a8d8aceb6c1ecccac5dfb3cbc5/bacfbcf5/mage_spirit.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "hydrophobic-pool",
+        "color": "neon",
+        "url": "https://dl.airtable.com/.attachments/5d1ca1931ac0de6e081a61a23ff36a5b/67f24c59/neon.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "hydrophobic-pool",
+        "color": "neon",
+        "url": "https://dl.airtable.com/.attachments/6228b64d76f5b92be74e1626a64bf5b8/b8cc695d/neon-overlay.png"
+      },
+      {
+        "name": "pearl",
+        "style": "spectral",
+        "url": "https://dl.airtable.com/.attachments/eb41891acc92348fc6d45e89411351fe/7058383d/pearlspectral.png"
+      },
+      {
+        "name": "shell-front",
+        "style": "splash",
+        "color": "garnet",
+        "url": "https://dl.airtable.com/.attachments/748bb32a7abff4a8333b5fa7b6c3ae38/9afb3d6d/red-front.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": -2,
+      "wisdom": 2
+    }
+  }
+}

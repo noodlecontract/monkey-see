@@ -1,0 +1,119 @@
+{
+  "id": "1765",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a prophetic pool, attuned to the work of a new SEER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1765",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=1765&witch-id=1385",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_1385.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1385"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Uni (Peach)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Prophetic Pool (Dreamy)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Wave Stand (Wood)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Eye Motif (Red)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Eyes (Blue)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "-3"
+    }
+  ],
+  "coven": {
+    "id": "1765",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a prophetic pool, attuned to the work of a new SEER.",
+    "witchId": "1385",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://dl.airtable.com/.attachments/37c955e3bf913cd6f19564dc136add74/4b2b5e48/peach.png"
+      },
+      {
+        "name": "stand",
+        "style": "wave-stand",
+        "color": "wood",
+        "url": "https://dl.airtable.com/.attachments/a2bb97de5c4eeaea7b3e458616a73e30/63d8a9e8/wood.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "eyes",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/fe5aa6185d14870b6ecbd86edd5be788/5d3af47d/blue-blue.png"
+      },
+      {
+        "name": "shell",
+        "style": "uni",
+        "color": "peach",
+        "url": "https://dl.airtable.com/.attachments/a7f47b14dc3ad20ad9e9306a9bdd02b7/99b2a402/peach.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "eye-motif",
+        "color": "red",
+        "url": "https://dl.airtable.com/.attachments/5abece86d5bee6fddcdddc64167f9373/c5ee6fbd/seer_demon.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "prophetic-pool",
+        "color": "dreamy",
+        "url": "https://dl.airtable.com/.attachments/6a07ae2ac3eec337705d5c2f3f75ae20/35eb4a52/dreams2.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "prophetic-pool",
+        "color": "dreamy",
+        "url": "https://dl.airtable.com/.attachments/f679df62da2d8f2ccd291658966066ad/1d59ba36/dream.png"
+      },
+      {
+        "name": "pearl",
+        "style": "blue",
+        "url": "https://dl.airtable.com/.attachments/d72125aac5c841437f00c7d2b260f20d/bc364863/blue.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": -3
+    }
+  }
+}

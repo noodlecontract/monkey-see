@@ -1,0 +1,130 @@
+{
+  "id": "1743",
+  "name": "Dove's Monkey Charm",
+  "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1743",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1743&witch-id=450",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_450.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "450"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Serene (Pink)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Iridescent"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Stamped Gourd (Blue)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goth Lolita (Pink)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Glo"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1743",
+    "name": "Dove's Monkey Charm",
+    "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "450",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://dl.airtable.com/.attachments/c766632595066b2d7da5504dbce61eab/7394bbcc/teal.png"
+      },
+      {
+        "name": "kimono",
+        "style": "serene",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/70641e211060b407e9743e0a7fa1b843/33a8d57a/robes-pink.png"
+      },
+      {
+        "name": "head",
+        "style": "iridescent",
+        "url": "https://dl.airtable.com/.attachments/85f10997a050c8e888e81d2ed182ac70/deaa5fc6/irredescent_head.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/bffe2e2ee7e91760b620b2bf02c4f5ff/b19e580a/eye_white.png"
+      },
+      {
+        "name": "irises",
+        "style": "glo",
+        "url": "https://dl.airtable.com/.attachments/85602b60f0fb80aca3f884feb5d0703b/e833c450/glo.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://dl.airtable.com/.attachments/8e1148c90c57b838c2af5d51c61269d9/c4e748fa/eyelid-mask.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://dl.airtable.com/.attachments/2ecf602050517bbfad6e1552578e413e/6c64e9f3/eye-lid.png"
+      },
+      {
+        "name": "expression",
+        "style": "iridescent",
+        "url": "https://dl.airtable.com/.attachments/7d9bc791083a2886b7007a2803ab4887/66bccc4d/iridescent.png"
+      },
+      {
+        "name": "accessory",
+        "style": "goth-lolita",
+        "color": "pink",
+        "url": "https://dl.airtable.com/.attachments/00766fe941e3bcc5cdc9725b56bd5ea6/12b9b303/lolita-pink.png"
+      },
+      {
+        "name": "hands",
+        "style": "iridescent",
+        "url": "https://dl.airtable.com/.attachments/f9ebfa25d88b2f993acaaacb608d5b4f/84187002/irridescent_hands.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "stamped-gourd",
+        "color": "blue",
+        "url": "https://dl.airtable.com/.attachments/0ffe3b3fdde8a74c7e4dab17cf8a9a47/608f37ac/necromancer_stamped-gourd_blue.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

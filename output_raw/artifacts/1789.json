@@ -1,0 +1,105 @@
+{
+  "id": "1789",
+  "name": "Spinor's Axe",
+  "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1789",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=1789&witch-id=4412",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_4412.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4412"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Starry Helm (Antique)"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Carved (Antique)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Maw (Antique)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Eclectic Tassels"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1789",
+    "name": "Spinor's Axe",
+    "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "4412",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://dl.airtable.com/.attachments/187b1e068f5c755e3d47bc21941e674e/9f117249/sea.png"
+      },
+      {
+        "name": "handle",
+        "style": "carved",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/42627174d28d61bd37b0d1f6b1c1e068/ec2c7fb6/_0004s_0003_carved-brown.png"
+      },
+      {
+        "name": "blade",
+        "style": "maw",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/54baeb47a8c03965c0aff6aa8087b89a/70f9ea92/_0003s_0002_maw-brown.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://dl.airtable.com/.attachments/13e91826f64040dd14da01e213cb56c9/d1ccca67/axe-blade-shine.png"
+      },
+      {
+        "name": "mask",
+        "style": "maw",
+        "url": "https://dl.airtable.com/.attachments/0affc93ea5302ba1bf547c09268fd7cc/ab2f7ed7/spinorsaxeoccultist.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "eclectic-tassels",
+        "url": "https://dl.airtable.com/.attachments/059678f78654ca8a56d32f5124c5b6d7/28125382/_0002s_0000_eclectic-tassels.png"
+      },
+      {
+        "name": "center",
+        "style": "starry-helm",
+        "color": "antique",
+        "url": "https://dl.airtable.com/.attachments/2bff4bd1a2d1ff3ddf545d22a001ecc9/67dc3402/_0001s_0013_starry-helm-brown.png"
+      },
+      {
+        "name": "sun",
+        "style": "libra",
+        "url": "https://dl.airtable.com/.attachments/abc7972ae0fa359a898d1ba9e2194d58/6cea1532/_0000s_0005_libra.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}
