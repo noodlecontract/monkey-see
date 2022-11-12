@@ -1,9 +1,8 @@
 name: Pull updated data
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron:  '* * * * *'
 
 jobs:
   build:
@@ -15,3 +14,13 @@ jobs:
       - name: Pull data from artifact api
         run: |
           ./pull.sh
+
+      - name: commit and push
+        run: |
+          git remote rm origin
+          git remote add origin ***github.com/noodlecontract/monkey-see.git
+          git add --all
+          git config user.name noodlecontract
+          git config user.email noodlecontract@users.noreply.github.com
+          git commit -m "pull new data"
+          git push origin main
