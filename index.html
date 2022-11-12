@@ -6,29 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>monkey see...</title>
     <link rel="stylesheet" href="/monkey-see/assets/css/reset.css">
+    <link rel="stylesheet" href="/monkey-see/assets/css/app.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap">
-    <style>
-      body {
-        font-family: Inconsolata,Times New Roman,serif;
-        background: #211F25;
-        color: rgba(255, 255, 255, 0.8);
-      }
-      a {
-        color: inherit;
-        text-decoration: none;
-      }
-      .text-orange {
-        color: rgb(224, 175, 132);
-      }
-      .text-white {
-        color: #ffffff;
-      }
-      .text-gray {
-        color: rgba(255, 255, 255, 0.8);
-      }
-    </style>
   </head>
   <body>
     <div style="display: flex; flex-direction: column;">
@@ -62,18 +43,21 @@
   const findWitchButton = document.getElementById("find-witch");
   const witchIdField = document.getElementById("witch-id");
 
-  findWitchButton.addEventListener("click", (_e) => {
-    witchId = witchIdField.value
-    window.location.assign(witchBaseUrl + witchId);
+  const goToWitch = (id) => window.location.assign(witchBaseUrl + id);
+  const goToArtifact = (id) => window.location.assign(artifactBaseUrl + id);
+
+  findWitchButton.addEventListener("click", (_e) => goToWitch(witchIdField.value));
+  witchIdField.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { goToWitch(witchIdField.value) }
   });
 
   const artifactBaseUrl = "/monkey-see/artifacts/"
-  const findartifactButton = document.getElementById("find-artifact");
+  const findArtifactButton = document.getElementById("find-artifact");
   const artifactIdField = document.getElementById("artifact-id");
 
-  findartifactButton.addEventListener("click", (_e) => {
-    artifactId = artifactIdField.value
-    window.location.assign(artifactBaseUrl + artifactId);
+  findArtifactButton.addEventListener("click", (_e) => goToArtifact(artifactIdField.value));
+  artifactIdField.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { goToArtifact(artifactIdField.value) }
   });
 })(window, document);
 </script>
