@@ -1,0 +1,83 @@
+{
+  "id": "1893",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a hypnotic pool. What future did it see?",
+  "external_url": "https://cryptocoven.xyz/artifacts/1893",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=1893",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_1_1893.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Butterfly (Silver)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Solace"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Brown"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "2"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1893",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a hypnotic pool. What future did it see?",
+    "witchId": null,
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "shell",
+        "style": "butterfly",
+        "color": "silver",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell_unattuned_butterfly_silver.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "solace",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill_unattuned_solace_no_color.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "solace",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill-overlay_unattuned_solace_no_color.png"
+      },
+      {
+        "name": "pearl",
+        "style": "brown",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_pearl_brown_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 2,
+      "wisdom": 1
+    }
+  }
+}

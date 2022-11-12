@@ -1,0 +1,107 @@
+{
+  "id": "1889",
+  "name": "Iona's Crook",
+  "description": "A spectral impression of the HAG IONA’s shepherd’s crook. Its gothic lantern is well suited to a NECROMANCER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1889",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1889&witch-id=1825",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_1825.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "1825"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Petrified Wood"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Scales (Natural)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Ornate (Light)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Hanging Moss (Silver)"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Austere (Light)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Will (Dark)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1889",
+    "name": "Iona's Crook",
+    "description": "A spectral impression of the HAG IONA’s shepherd’s crook. Its gothic lantern is well suited to a NECROMANCER.",
+    "witchId": "1825",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_moss_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "petrified-wood",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_necromancer_petrified-wood_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "scales",
+        "color": "natural",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_necromancer_scales_natural.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "hanging-moss",
+        "color": "silver",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_secondary-ornament_necromancer_hanging-moss_silver.png"
+      },
+      {
+        "name": "glow",
+        "style": "will",
+        "color": "dark",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_glow_necromancer_will_dark.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "ornate",
+        "color": "light",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_necromancer_ornate_light.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "austere",
+        "color": "light",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-holder_necromancer_austere_light.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

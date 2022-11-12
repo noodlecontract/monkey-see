@@ -1,0 +1,120 @@
+{
+  "id": "1923",
+  "name": "Dove's Monkey Charm",
+  "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1923",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1923&witch-id=3742",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_3742.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3742"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Kraken (Orange Purple)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fortune (Blue Purple)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Hypnotic Grey"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "1923",
+    "name": "Dove's Monkey Charm",
+    "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "3742",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_platform_teal_no_color.png"
+      },
+      {
+        "name": "kimono",
+        "style": "kraken",
+        "color": "orange-purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_kimono_seer_kraken_orange-purple.png"
+      },
+      {
+        "name": "head",
+        "style": "lilac",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_head_attuned_lilac_no_color.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eye-whites_attuned_white_no_color.png"
+      },
+      {
+        "name": "irises",
+        "style": "hypnotic-grey",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_irises_attuned_hypnotic-grey_no_color.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelid-mask_white_no_color.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelids_attuned_neutral_no_color.png"
+      },
+      {
+        "name": "expression",
+        "style": "lilac",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_expression_attuned_lilac_no_color.png"
+      },
+      {
+        "name": "hands",
+        "style": "lilac",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hands_attuned_lilac_no_color.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "fortune",
+        "color": "blue-purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_item-above-hands_seer_fortune_blue-purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 0
+    }
+  }
+}

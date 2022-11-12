@@ -1,0 +1,129 @@
+{
+  "id": "1913",
+  "name": "Dove's Monkey Charm",
+  "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1913",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1913&witch-id=3468",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_3468.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3468"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Feral Flesh (Antique)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Incense (Sandalwood)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Coyote Stole"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Grey"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1913",
+    "name": "Dove's Monkey Charm",
+    "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "3468",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "platform",
+        "style": "blue",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_platform_blue_no_color.png"
+      },
+      {
+        "name": "kimono",
+        "style": "feral-flesh",
+        "color": "antique",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_kimono_occultist_feral-flesh_antique.png"
+      },
+      {
+        "name": "head",
+        "style": "mermaid",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_head_attuned_mermaid_no_color.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eye-whites_attuned_white_no_color.png"
+      },
+      {
+        "name": "irises",
+        "style": "grey",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_irises_attuned_grey_no_color.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelid-mask_white_no_color.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelids_attuned_neutral_no_color.png"
+      },
+      {
+        "name": "expression",
+        "style": "mermaid",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_expression_attuned_mermaid_no_color.png"
+      },
+      {
+        "name": "accessory",
+        "style": "coyote-stole",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_accessory_occultist_coyote-stole_no_color.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "incense",
+        "color": "sandalwood",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_item-below-hands_occultist_incense_sandalwood.png"
+      },
+      {
+        "name": "hands",
+        "style": "mermaid",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hands_attuned_mermaid_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}
