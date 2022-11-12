@@ -1,0 +1,129 @@
+{
+  "id": "1924",
+  "name": "Dove's Monkey Charm",
+  "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1924",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=1924&witch-id=9626",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_9626.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9626"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Feral Fawn (Antique)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Incense (Bergamot)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Maleficent Horns"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Glo"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1924",
+    "name": "Dove's Monkey Charm",
+    "description": "An occult snow monkey carved from stone, ready for an OCCULTIST ritual. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "9626",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_platform_purple_no_color.png"
+      },
+      {
+        "name": "kimono",
+        "style": "feral-fawn",
+        "color": "antique",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_kimono_occultist_feral-fawn_antique.png"
+      },
+      {
+        "name": "head",
+        "style": "lilac",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_head_attuned_lilac_no_color.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eye-whites_attuned_white_no_color.png"
+      },
+      {
+        "name": "irises",
+        "style": "glo",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_irises_attuned_glo_no_color.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelid-mask_white_no_color.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelids_attuned_neutral_no_color.png"
+      },
+      {
+        "name": "expression",
+        "style": "lilac",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_expression_attuned_lilac_no_color.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "incense",
+        "color": "bergamot",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_item-below-hands_occultist_incense_bergamot.png"
+      },
+      {
+        "name": "hands",
+        "style": "lilac",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hands_attuned_lilac_no_color.png"
+      },
+      {
+        "name": "hat",
+        "style": "maleficent-horns",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hat_occultist_maleficent-horns_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}
