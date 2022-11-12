@@ -2,7 +2,7 @@ name: Pull updated data
 
 on:
   schedule:
-    - cron:  '26,31,36 * * * *'
+    - cron: "38,43,48 * * * *"
 
 jobs:
   build:
