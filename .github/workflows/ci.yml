@@ -1,9 +1,13 @@
 name: Build Eleventy
 
-# on:
-#   push:
-#     branches:
-#       - main
+on:
+  push:
+    branches:
+      - main
+  workflow_run:
+    workflows: [Pull data]
+    types:
+      - completed
 
 jobs:
   build:
