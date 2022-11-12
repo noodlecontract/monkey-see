@@ -2,7 +2,7 @@ name: Pull data
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '17 10 * * *'
 
 jobs:
   build:
