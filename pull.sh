@@ -5,10 +5,10 @@ IFS=$'\n'
 # grab witch data off home page
 # curl $CC_NEXT_URL | jq '.pageProps.witches | map({id, name, image})' > output_raw/witches.json
 
-# TODO: replace, calc max based on stuff currently in ouput dir
-max=${1:-20}
-# # assume that between runs there have been a max of 100 new mints
-# max=`bc <<< "`ls output_raw/artifacts | cut -f 1 -d '.' | sort -n | tail -n1` + 100"`
+# default to pulling next 50 entries
+offset=${1:-50}
+max=$(bc <<< "`ls output_raw/artifacts | cut -f 1 -d '.' | sort -n | tail -n1` + $offset")
+echo $max
 
 mkdir -p output_raw/artifacts
 base_url="https://cryptocoven.xyz/api/hut/artifacts/metadata"
