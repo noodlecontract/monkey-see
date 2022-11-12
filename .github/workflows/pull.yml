@@ -1,0 +1,17 @@
+name: Pull updated data
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Pull data from artifact api
+        run: |
+          ./pull.sh

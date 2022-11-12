@@ -6,7 +6,9 @@ IFS=$'\n'
 # curl $CC_NEXT_URL | jq '.pageProps.witches | map({id, name, image})' > output_raw/witches.json
 
 # default to pulling next 50 entries
-offset=${1:-50}
+# offset=${1:-50}
+# XXX setting to 1 to test cron
+offset=${1:-1}
 max=$(bc <<< "`ls output_raw/artifacts | cut -f 1 -d '.' | sort -n | tail -n1` + $offset")
 echo $max
 
