@@ -20,5 +20,4 @@ jobs:
           git add --all
           git config user.name noodlecontract
           git config user.email noodlecontract@users.noreply.github.com
-          git commit -m "pull new data"
-          git push
+          (git diff-index --quiet HEAD || git commit -m "pull new data") && git push
