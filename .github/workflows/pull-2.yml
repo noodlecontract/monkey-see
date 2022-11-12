@@ -1,8 +1,8 @@
-name: Pull updated data
+name: Pull data
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
