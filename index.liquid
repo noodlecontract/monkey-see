@@ -24,18 +24,21 @@ date: Last Modified
   const findWitchButton = document.getElementById("find-witch");
   const witchIdField = document.getElementById("witch-id");
 
-  findWitchButton.addEventListener("click", (_e) => {
-    witchId = witchIdField.value
-    window.location.assign(witchBaseUrl + witchId);
+  const goToWitch = (id) => window.location.assign(witchBaseUrl + id);
+  const goToArtifact = (id) => window.location.assign(artifactBaseUrl + id);
+
+  findWitchButton.addEventListener("click", (_e) => goToWitch(witchIdField.value));
+  witchIdField.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { goToWitch(witchIdField.value) }
   });
 
   const artifactBaseUrl = "{{ "/artifacts/" | url }}"
-  const findartifactButton = document.getElementById("find-artifact");
+  const findArtifactButton = document.getElementById("find-artifact");
   const artifactIdField = document.getElementById("artifact-id");
 
-  findartifactButton.addEventListener("click", (_e) => {
-    artifactId = artifactIdField.value
-    window.location.assign(artifactBaseUrl + artifactId);
+  findArtifactButton.addEventListener("click", (_e) => goToArtifact(artifactIdField.value));
+  artifactIdField.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { goToArtifact(artifactIdField.value) }
   });
 })(window, document);
 </script>
