@@ -1,8 +1,13 @@
 name: Pull data
 
+# on:
+#   schedule:
+#     - cron: '*/5 * * * *'
 on:
-  schedule:
-    - cron: '*/5 * * * *'
+  push:
+    branches:
+      - main
+
 
 jobs:
   build:
@@ -17,10 +22,8 @@ jobs:
 
       - name: commit and push
         run: |
-          git remote rm origin
-          git remote add origin ***github.com/noodlecontract/monkey-see.git
           git add --all
           git config user.name noodlecontract
           git config user.email noodlecontract@users.noreply.github.com
           git commit -m "pull new data"
-          git push origin main
+          git push
