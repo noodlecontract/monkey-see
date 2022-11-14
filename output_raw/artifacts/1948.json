@@ -1,0 +1,133 @@
+{
+  "id": "1948",
+  "name": "Iona's Crook",
+  "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/1948",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=1948&witch-id=8046",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8046.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8046"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Blooming Dusk"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Pagoda (Hoodlondon Hathor)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Rhodium"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Embroidered (Black)"
+    },
+    {
+      "trait_type": "Tassel",
+      "value": "Fanned (Gold)"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Gilded Wit"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Lantern Secondary Ornament",
+      "value": "Lotus (Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "1948",
+    "name": "Iona's Crook",
+    "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+    "witchId": "8046",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_rust_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "obsidian",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_enchantress_obsidian_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "blooming-dusk",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_enchantress_blooming-dusk_no_color.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "rhodium",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_secondary-ornament_enchantress_rhodium_no_color.png"
+      },
+      {
+        "name": "glow",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_glow_enchantress_pink_no_color.png"
+      },
+      {
+        "name": "lantern-secondary-ornament",
+        "style": "lotus",
+        "color": "red",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-secondary-ornament_enchantress_lotus_red.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "pagoda",
+        "color": "hoodlondon-hathor",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_enchantress_pagoda_hoodlondon-hathor.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "embroidered",
+        "color": "black",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-holder_enchantress_embroidered_black.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "gilded-wit",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-ornament_enchantress_gilded-wit_no_color.png"
+      },
+      {
+        "name": "tassel",
+        "style": "fanned",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_tassel_enchantress_fanned_gold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}
