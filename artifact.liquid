@@ -10,7 +10,14 @@ eleventyComputed:
 ---
 
 <div style="width: 1000px;">
-  <div><a href="{{ artifact.external_url }}" target="_blank" rel="noopener noreferrer" class="text-orange">{{ artifact.name }}</a></div><br />
+  <div>
+    <a href="{{ artifact.external_url }}" target="_blank" rel="noopener noreferrer" class="text-orange">{{ artifact.name }}</a> <br />
+    {% if artifact.coven.attunementModifiers %}
+      {% formatAttunementMods artifact.coven.attunementModifiers %}
+      <br />
+      <br />
+    {% endif %}
+  </div>
   <div>{{ artifact.description }}</div><br />
   <div>
     <a href="{{ artifact.image }}" class="text-orange" style="width: 400px; display: flex; flex-direction: column; align-items:center;">

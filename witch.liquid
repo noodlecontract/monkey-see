@@ -30,6 +30,10 @@ eleventyComputed:
               {{ mod[0] }} {{ mod[1] }}
           {% endfor %}
           {% endcomment %}
+
+          {% if artifact.coven.attunementModifiers %}
+            {% formatAttunementMods artifact.coven.attunementModifiers %}
+          {% endif %}
         </a>
       </div>
     {% endfor %}
