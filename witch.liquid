@@ -25,12 +25,6 @@ eleventyComputed:
           <a href="{{ "/artifacts/" | append: artifact.id | url}}" style="width: 180px; display: flex; flex-direction: column; align-items:center;">
           <img src="{{ artifact.image }}"></img>
           <div>{{ artifact.name }}</div>
-          {% comment %}
-          {% for mod in artifact.coven.attunementModifiers %}
-              {{ mod[0] }} {{ mod[1] }}
-          {% endfor %}
-          {% endcomment %}
-
           {% if artifact.coven.attunementModifiers %}
             {% formatAttunementMods artifact.coven.attunementModifiers %}
           {% endif %}
