@@ -1,0 +1,86 @@
+{
+  "id": "2006",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2006",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2006&witch-id=3259",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_3259.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3259"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Purple Heart"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Turkeytail (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Raven of Woe (Cool)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Clouded Yellow Butterfly"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2006",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "3259",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "purple-heart",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_hag_purple-heart_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "turkeytail",
+        "color": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_hag_turkeytail_pink.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "clouded-yellow-butterfly",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_secondary-ornament_hag_clouded-yellow-butterfly_no_color.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "raven-of-woe",
+        "color": "cool",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_hag_raven-of-woe_cool.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}
