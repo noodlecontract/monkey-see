@@ -9,7 +9,7 @@ title: monkey see...
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/reset.css" | url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/app.css" | url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/app.css" | url | cacheBust }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap">
