@@ -19,14 +19,14 @@ eleventyComputed:
   <div><a href="https://cryptocoven.xyz/witches/{{ witch.id }}" target="_blank" rel="noopener noreferrer" class="text-orange display: block;">{{ witch.name }}</a></div>
 
   <div style="display: flex; gap: 16px; margin-top: 24px;">
-    {% assign sorted = artifacts | sort: "coven.artifactId" %}
+    {% assign sorted = artifacts | sort: "artifactId" %}
     {% for artifact in sorted %}
       <div>
           <a href="{{ "/artifacts/" | append: artifact.id | url}}" style="width: 180px; display: flex; flex-direction: column; align-items:center;">
           <img src="{{ artifact.image }}"></img>
           <div>{{ artifact.name }}</div>
-          {% if artifact.coven.attunementModifiers %}
-            {% formatAttunementMods artifact.coven.attunementModifiers %}
+          {% if artifact.attunementMods %}
+            {% formatAttunementMods artifact.attunementMods %}
           {% endif %}
         </a>
       </div>

@@ -12,8 +12,8 @@ eleventyComputed:
 <div style="width: 1000px;">
   <div>
     <a href="{{ artifact.external_url }}" target="_blank" rel="noopener noreferrer" class="text-orange">{{ artifact.name }}</a> <br />
-    {% if artifact.coven.attunementModifiers %}
-      {% formatAttunementMods artifact.coven.attunementModifiers %}
+    {% if artifact.attunementMods %}
+      {% formatAttunementMods artifact.attunementMods %}
       <br />
       <br />
     {% endif %}
