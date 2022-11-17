@@ -13,7 +13,7 @@ eleventyComputed:
 {% assign artifacts = entry.artifacts %}
 
 <div style="width: 1000px; display: flex; flex-direction: column; align-items: center;">
-  <div style="width: 180px;">
+  <div style="width: 180px; border: 1px solid rgba(255, 255, 255, 0.4);">
       <img src="{{ witch.image }}"></img>
   </div>
   <div><a href="https://cryptocoven.xyz/witches/{{ witch.id }}" target="_blank" rel="noopener noreferrer" class="text-orange display: block;">{{ witch.name }}</a></div>
@@ -23,7 +23,7 @@ eleventyComputed:
     {% for artifact in sorted %}
       <div>
           <a href="{{ "/artifacts/" | append: artifact.id | url}}" style="width: 180px; display: flex; flex-direction: column; align-items:center;">
-          <img src="{{ artifact.image }}"></img>
+          <img style="border: 1px solid rgba(255, 255, 255, 0.4);" src="{{ artifact.image }}"></img>
           <div>{{ artifact.name }}</div>
           {% if artifact.attunementMods %}
             {% formatAttunementMods artifact.attunementMods %}
