@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>monkey see...</title>
     <link rel="stylesheet" href="/monkey-see/assets/css/reset.css">
-    <link rel="stylesheet" href="/monkey-see/assets/css/app.css">
+    <link rel="stylesheet" href="/monkey-see/assets/css/app.css?v=1668689590">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap">
@@ -25,40 +25,60 @@
           <div style="width: 1000px;">
   <div style="margin-bottom: 32px;">
     <input type="text" placeholder="WITCH id" id="witch-id" />
-    <button type="button" id="find-witch">FIND</button>
+    <button type="button" id="find-witch" disabled>FIND</button>
   </div>
 
   <div style="margin-bottom: 32px;">
     <input type="text" placeholder="ARTIFACT id" id="artifact-id" />
-    <button type="button" id="find-artifact">FIND</button>
+    <button type="button" id="find-artifact" disabled>FIND</button>
   </div>
 
-  <div>last updated Nov 17, 2022</div>
+  <div style="font-size: 0.875rem; font-style: italic;">last updated Nov 17, 2022</div>
 </div>
 
 <script>
 (function (window, document) {
-  // TODO: some sort of better 404, probably
-  const witchBaseUrl = "/monkey-see/witches/"
-  const findWitchButton = document.getElementById("find-witch");
-  const witchIdField = document.getElementById("witch-id");
+  fetch("/monkey-see/assets/exists.json?v=1668689589").then((resp) => {
+    resp.json().then((existing) => {
+      const findWitchButton = document.getElementById("find-witch");
+      const findArtifactButton = document.getElementById("find-artifact");
 
-  const goToWitch = (id) => window.location.assign(witchBaseUrl + id);
-  const goToArtifact = (id) => window.location.assign(artifactBaseUrl + id);
+      findWitchButton.disabled = false;
+      findArtifactButton.disabled = false;
 
-  findWitchButton.addEventListener("click", (_e) => goToWitch(witchIdField.value));
-  witchIdField.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") { goToWitch(witchIdField.value) }
+      const witchBaseUrl = "/monkey-see/witches/"
+      const witchIdField = document.getElementById("witch-id");
+
+      const goToWitch = (id) => {
+        if (existing.witches[id]) {
+          window.location.assign(witchBaseUrl + id);
+        } else {
+          window.location.assign(witchBaseUrl + "no_artifacts");
+        }
+      }
+      const goToArtifact = (id) => {
+        if (existing.artifacts[id]) {
+          window.location.assign(artifactBaseUrl + id);
+        } else {
+          window.location.assign(artifactBaseUrl + "not_conjured");
+        }
+      }
+
+      findWitchButton.addEventListener("click", (_e) => goToWitch(witchIdField.value));
+      witchIdField.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") { goToWitch(witchIdField.value) }
+      });
+
+      const artifactBaseUrl = "/monkey-see/artifacts/"
+      const artifactIdField = document.getElementById("artifact-id");
+
+      findArtifactButton.addEventListener("click", (_e) => goToArtifact(artifactIdField.value));
+      artifactIdField.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") { goToArtifact(artifactIdField.value) }
+      });
+    });
   });
 
-  const artifactBaseUrl = "/monkey-see/artifacts/"
-  const findArtifactButton = document.getElementById("find-artifact");
-  const artifactIdField = document.getElementById("artifact-id");
-
-  findArtifactButton.addEventListener("click", (_e) => goToArtifact(artifactIdField.value));
-  artifactIdField.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") { goToArtifact(artifactIdField.value) }
-  });
 })(window, document);
 </script>
 
