@@ -18,8 +18,7 @@ seq 1 $max | xargs -P 4 -I {} sh -c "(test ! -e output_raw/artifacts/{}.json) &&
 invalid=`{ grep -rL 'name' output_raw/artifacts || true; }`;
 [[ ! -z $invalid ]] && (xargs rm <<< $invalid)
 
-# TODO:
-# - witch name on artifact page
+# TODO: pull witch name while accounting for unattuned artifacts somehow
 
 # wombo combo join witches + artifacts by witch id
 jq -s '.[0] * .[1] | values[] | select(.artifacts != null)' \
@@ -29,7 +28,7 @@ jq -s '.[0] * .[1] | values[] | select(.artifacts != null)' \
   | jq -cs \
   > _data/artifacts_and_witches.json
 
-jq '.[] | .artifacts | .[]' _data/artifacts_and_witches.json | jq -cs > _data/all_artifacts.json
+jq '{id: .id, name: .name, image: .image, external_url: .external_url, description: .description, animation_url: .animation_url, attunementMods: .coven.attunementModifiers, witchId: .coven.witchId, artifactId: .coven.artifactId}' output_raw/artifacts/* | jq -cs > _data/all_artifacts.json
 
 jq -cs '{witches: .[0], artifacts: .[1]}' \
     <(jq 'map({key: .witch.id, value: 1}) | from_entries' _data/artifacts_and_witches.json) \
