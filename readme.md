@@ -3,5 +3,5 @@
 maybe someday lol:
 - even more monkeys
 - pull witch name in artifact page
-- fancier wtich page
+- fancier witch page
 - mobile support
