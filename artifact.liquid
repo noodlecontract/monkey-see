@@ -11,12 +11,14 @@ eleventyComputed:
 
 <div style="width: 1000px;">
   <div>
-    <a href="{{ artifact.external_url }}" target="_blank" rel="noopener noreferrer" class="text-orange">{{ artifact.name }}</a> <br />
+    <a href="{{ artifact.external_url }}" target="_blank" rel="noopener noreferrer" class="text-orange">{{ artifact.name }}</a>
     {% if artifact.attunementMods %}
-      {% formatAttunementMods artifact.attunementMods %}
-      <br />
-      <br />
+      {% formatAttunementMods artifact.attunementMods %}<br />
     {% endif %}
+    {% if artifact.witchId %}
+      attuned to <a href="{{ "/witches/" | append: artifact.witchId | url }}" class="text-orange">WITCH {{ artifact.witchId }}</a><br />
+    {% endif %}
+    <br />
   </div>
   <div>{{ artifact.description }}</div><br />
   <div style="display: flex; align-items: end; justify-content: space-between">
