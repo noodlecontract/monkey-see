@@ -1,0 +1,96 @@
+{
+  "id": "2032",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2032",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2032&witch-id=4379",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_4379.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4379"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Spotted"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Elephant Skull of Will (Bleached)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Scales (Natural)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Hooded Side (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "2032",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "4379",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_occultist_dark_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "spotted",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_occultist_spotted_no_color.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "scales",
+        "color": "natural",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_secondary-ornament_occultist_scales_natural.png"
+      },
+      {
+        "name": "glow",
+        "style": "hooded-side",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_glow_occultist_hooded-side_gold.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "elephant-skull-of-will",
+        "color": "bleached",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_occultist_elephant-skull-of-will_bleached.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

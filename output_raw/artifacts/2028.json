@@ -1,0 +1,86 @@
+{
+  "id": "2028",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2028",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2028&witch-id=8176",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8176.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8176"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Pink Ivory"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Gardenia (Yellow)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Owl of Wisdom (Warm)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Cabbage White Butterfly"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "2028",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "8176",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "peach",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_peach_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "pink-ivory",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_hag_pink-ivory_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "gardenia",
+        "color": "yellow",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_hag_gardenia_yellow.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "cabbage-white-butterfly",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_secondary-ornament_hag_cabbage-white-butterfly_no_color.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "owl-of-wisdom",
+        "color": "warm",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_hag_owl-of-wisdom_warm.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

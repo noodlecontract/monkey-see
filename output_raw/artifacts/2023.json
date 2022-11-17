@@ -1,0 +1,96 @@
+{
+  "id": "2023",
+  "name": "Spinor's Axe",
+  "description": "A prophetic, starlit axe fit for a SEER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2023",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=2023&witch-id=6017",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_6017.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6017"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Elegant Coral (Ivory)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Shell (Opaline)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Scrying Stones (Rose)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2023",
+    "name": "Spinor's Axe",
+    "description": "A prophetic, starlit axe fit for a SEER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "6017",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "elegant-coral",
+        "color": "ivory",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle_seer_elegant-coral_ivory.png"
+      },
+      {
+        "name": "blade",
+        "style": "shell",
+        "color": "opaline",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade_seer_shell_opaline.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_shine_no_color.png"
+      },
+      {
+        "name": "mask",
+        "style": "shell",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_mask_seer_shell_no_color.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "scrying-stones",
+        "color": "rose",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade-ornament_seer_scrying-stones_rose.png"
+      },
+      {
+        "name": "sun",
+        "style": "taurus",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_sun_seer_taurus_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}

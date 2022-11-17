@@ -1,0 +1,106 @@
+{
+  "id": "2030",
+  "name": "Spinor's Axe",
+  "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2030",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=2030&witch-id=4379",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_4379.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4379"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Aries Horns (Bleached)"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Spiked (Bleached)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Maw (Bleached)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Pierced Moon (Bone)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2030",
+    "name": "Spinor's Axe",
+    "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "4379",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "spiked",
+        "color": "bleached",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle_occultist_spiked_bleached.png"
+      },
+      {
+        "name": "blade",
+        "style": "maw",
+        "color": "bleached",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade_occultist_maw_bleached.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_shine_no_color.png"
+      },
+      {
+        "name": "mask",
+        "style": "maw",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_mask_occultist_maw_no_color.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "pierced-moon",
+        "color": "bone",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade-ornament_occultist_pierced-moon_bone.png"
+      },
+      {
+        "name": "center",
+        "style": "aries-horns",
+        "color": "bleached",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_center_occultist_aries-horns_bleached.png"
+      },
+      {
+        "name": "sun",
+        "style": "leo",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_sun_occultist_leo_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}

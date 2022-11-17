@@ -1,0 +1,96 @@
+{
+  "id": "2035",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2035",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2035&witch-id=505",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_505.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "505"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Mark of the Untamed"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Raven Skull of Woe (Bone)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Frayed Charms (Black)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Smudged (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2035",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "505",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_occultist_dark_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "mark-of-the-untamed",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_occultist_mark-of-the-untamed_no_color.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "frayed-charms",
+        "color": "black",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_secondary-ornament_occultist_frayed-charms_black.png"
+      },
+      {
+        "name": "glow",
+        "style": "smudged",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_glow_occultist_smudged_gold.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "raven-skull-of-woe",
+        "color": "bone",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_occultist_raven-skull-of-woe_bone.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "2041",
+  "name": "Spinor's Axe",
+  "description": "A spectral, gothic axe fit for a NECROMANCER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2041",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=2041&witch-id=9241",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_9241.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9241"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Enamel Moth (Pink)"
+    },
+    {
+      "trait_type": "Rising",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Petaled"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Trumpet (Prismatic Green)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "2041",
+    "name": "Spinor's Axe",
+    "description": "A spectral, gothic axe fit for a NECROMANCER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "9241",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_pink_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "petaled",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle_necromancer_petaled_no_color.png"
+      },
+      {
+        "name": "blade",
+        "style": "trumpet",
+        "color": "prismatic-green",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade_necromancer_trumpet_prismatic-green.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_shine_no_color.png"
+      },
+      {
+        "name": "mask",
+        "style": "trumpet",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_mask_necromancer_trumpet_no_color.png"
+      },
+      {
+        "name": "center",
+        "style": "enamel-moth",
+        "color": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_center_necromancer_enamel-moth_pink.png"
+      },
+      {
+        "name": "sun",
+        "style": "pisces",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_sun_necromancer_pisces_no_color.png"
+      },
+      {
+        "name": "moon",
+        "style": "virgo",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_moon_necromancer_virgo_no_color.png"
+      },
+      {
+        "name": "rising",
+        "style": "leo",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_rising_necromancer_leo_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": -1
+    }
+  }
+}
