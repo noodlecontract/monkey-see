@@ -6,39 +6,59 @@ date: Last Modified
 <div style="width: 1000px;">
   <div style="margin-bottom: 32px;">
     <input type="text" placeholder="WITCH id" id="witch-id" />
-    <button type="button" id="find-witch">FIND</button>
+    <button type="button" id="find-witch" disabled>FIND</button>
   </div>
 
   <div style="margin-bottom: 32px;">
     <input type="text" placeholder="ARTIFACT id" id="artifact-id" />
-    <button type="button" id="find-artifact">FIND</button>
+    <button type="button" id="find-artifact" disabled>FIND</button>
   </div>
 
-  <div>last updated {{ page.date | formatDate }}</div>
+  <div style="font-size: 0.875rem; font-style: italic;">last updated {{ page.date | formatDate }}</div>
 </div>
 
 <script>
 (function (window, document) {
-  // TODO: some sort of better 404, probably
-  const witchBaseUrl = "{{ "/witches/" | url }}"
-  const findWitchButton = document.getElementById("find-witch");
-  const witchIdField = document.getElementById("witch-id");
+  fetch("{{ "/assets/exists.json" | url | cacheBust }}").then((resp) => {
+    resp.json().then((existing) => {
+      const findWitchButton = document.getElementById("find-witch");
+      const findArtifactButton = document.getElementById("find-artifact");
 
-  const goToWitch = (id) => window.location.assign(witchBaseUrl + id);
-  const goToArtifact = (id) => window.location.assign(artifactBaseUrl + id);
+      findWitchButton.disabled = false;
+      findArtifactButton.disabled = false;
 
-  findWitchButton.addEventListener("click", (_e) => goToWitch(witchIdField.value));
-  witchIdField.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") { goToWitch(witchIdField.value) }
+      const witchBaseUrl = "{{ "/witches/" | url }}"
+      const witchIdField = document.getElementById("witch-id");
+
+      const goToWitch = (id) => {
+        if (existing.witches[id]) {
+          window.location.assign(witchBaseUrl + id);
+        } else {
+          window.location.assign(witchBaseUrl + "no_artifacts");
+        }
+      }
+      const goToArtifact = (id) => {
+        if (existing.artifacts[id]) {
+          window.location.assign(artifactBaseUrl + id);
+        } else {
+          window.location.assign(artifactBaseUrl + "not_conjured");
+        }
+      }
+
+      findWitchButton.addEventListener("click", (_e) => goToWitch(witchIdField.value));
+      witchIdField.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") { goToWitch(witchIdField.value) }
+      });
+
+      const artifactBaseUrl = "{{ "/artifacts/" | url }}"
+      const artifactIdField = document.getElementById("artifact-id");
+
+      findArtifactButton.addEventListener("click", (_e) => goToArtifact(artifactIdField.value));
+      artifactIdField.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") { goToArtifact(artifactIdField.value) }
+      });
+    });
   });
 
-  const artifactBaseUrl = "{{ "/artifacts/" | url }}"
-  const findArtifactButton = document.getElementById("find-artifact");
-  const artifactIdField = document.getElementById("artifact-id");
-
-  findArtifactButton.addEventListener("click", (_e) => goToArtifact(artifactIdField.value));
-  artifactIdField.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") { goToArtifact(artifactIdField.value) }
-  });
 })(window, document);
 </script>

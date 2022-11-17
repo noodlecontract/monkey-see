@@ -1,0 +1,17 @@
+---
+layout: base.liquid
+permalink: "/artifacts/not_conjured/"
+date: Last Modified
+---
+
+<div style="width: 1000px;">
+  <div style="display: flex; gap: 32px;">
+    <div style="width: 300px; border: 1px solid rgba(255, 255, 255, 0.4);">
+      <img src="{{ "/assets/404_monkey.png" | url | cacheBust }}"></img>
+    </div>
+    <div>
+      <p>THIS ARTIFACT HAS YET TO BE CONJURED.  PERHAPS IT IS WAITING.  PATIENTLY.  WITH A SNACK.</p>
+      <div style="font-size: 0.875rem; font-style: italic; margin-top: 16px;">last updated {{ page.date | formatDate }}</div>
+    </div>
+  </div>
+</div>
