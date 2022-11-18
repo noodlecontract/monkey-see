@@ -1,0 +1,109 @@
+{
+  "id": "2059",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2059",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=2059&witch-id=9125",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_9125.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9125"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Skull (Bone)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Shallow Pool (Dark)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Twisted Quill Offerings (Horn)"
+    },
+    {
+      "trait_type": "Background Decor",
+      "value": "Painted (Blue)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "2"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "2059",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an occult pool, attuned to the work of an OCCULTIST.",
+    "witchId": "9125",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_sea_no_color.png"
+      },
+      {
+        "name": "shell",
+        "style": "skull",
+        "color": "bone",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell_occultist_skull_bone.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "twisted-quill-offerings",
+        "color": "horn",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell-ornament_occultist_twisted-quill-offerings_horn.png"
+      },
+      {
+        "name": "background-decor",
+        "style": "painted",
+        "color": "blue",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_background-decor_occultist_painted_blue.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "shallow-pool",
+        "color": "dark",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill_occultist_shallow-pool_dark.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "shallow-pool",
+        "color": "dark",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill-overlay_occultist_shallow-pool_dark.png"
+      },
+      {
+        "name": "pearl",
+        "style": "silver",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_pearl_silver_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 2,
+      "wisdom": -1
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "2057",
+  "name": "Spinor's Axe",
+  "description": "An erudite, rune-carved axe, fit for a MAGE. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2057",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=2057&witch-id=5157",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_5157.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "5157"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Clawed"
+    },
+    {
+      "trait_type": "Rising",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Geometric (Gold)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Scythe (Gold)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Water (Gold)"
+    },
+    {
+      "trait_type": "Background Item",
+      "value": "Mage Aura (Glo)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2057",
+    "name": "Spinor's Axe",
+    "description": "An erudite, rune-carved axe, fit for a MAGE. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "5157",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_plum_no_color.png"
+      },
+      {
+        "name": "background-item",
+        "style": "mage-aura",
+        "color": "glo",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_background-item_mage_mage-aura_glo.png"
+      },
+      {
+        "name": "handle",
+        "style": "geometric",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle_mage_geometric_gold.png"
+      },
+      {
+        "name": "blade",
+        "style": "scythe",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade_mage_scythe_gold.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_shine_no_color.png"
+      },
+      {
+        "name": "mask",
+        "style": "scythe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_mask_mage_scythe_no_color.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "water",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade-ornament_mage_water_gold.png"
+      },
+      {
+        "name": "center",
+        "style": "clawed",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_center_mage_clawed_no_color.png"
+      },
+      {
+        "name": "sun",
+        "style": "scorpio",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_sun_mage_scorpio_no_color.png"
+      },
+      {
+        "name": "moon",
+        "style": "libra",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_moon_mage_libra_no_color.png"
+      },
+      {
+        "name": "rising",
+        "style": "sagittarius",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_rising_mage_sagittarius_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}
