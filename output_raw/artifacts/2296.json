@@ -1,0 +1,133 @@
+{
+  "id": "2296",
+  "name": "Iona's Crook",
+  "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2296",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2296&witch-id=3139",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_3139.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "3139"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Blooming Dusk"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Pagoda (Punks Tiara)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Rhodium"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Embroidered (Black)"
+    },
+    {
+      "trait_type": "Tassel",
+      "value": "Beaded (Red)"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Gilded Wisdom"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Lantern Secondary Ornament",
+      "value": "Peony (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "2296",
+    "name": "Iona's Crook",
+    "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+    "witchId": "3139",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "rust",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_rust_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_enchantress_gold_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "blooming-dusk",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_enchantress_blooming-dusk_no_color.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "rhodium",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_secondary-ornament_enchantress_rhodium_no_color.png"
+      },
+      {
+        "name": "glow",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_glow_enchantress_pink_no_color.png"
+      },
+      {
+        "name": "lantern-secondary-ornament",
+        "style": "peony",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-secondary-ornament_enchantress_peony_gold.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "pagoda",
+        "color": "punks-tiara",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_enchantress_pagoda_punks-tiara.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "embroidered",
+        "color": "black",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-holder_enchantress_embroidered_black.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "gilded-wisdom",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-ornament_enchantress_gilded-wisdom_no_color.png"
+      },
+      {
+        "name": "tassel",
+        "style": "beaded",
+        "color": "red",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_tassel_enchantress_beaded_red.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": -1
+    }
+  }
+}

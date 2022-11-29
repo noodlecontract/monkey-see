@@ -1,0 +1,96 @@
+{
+  "id": "2294",
+  "name": "Iona's Crook",
+  "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2294",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2294&witch-id=8269",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_8269.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8269"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Bone"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Striped"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Raven Skull of Woe (Blackened)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Spines (Blackened)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Inscribed Demon Bloom (Black)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2294",
+    "name": "Iona's Crook",
+    "description": "An occult impression of the HAG IONA’s shepherd’s crook. Its skull lantern is well-suited to an OCCULTIST.",
+    "witchId": "8269",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_plum_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "bone",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_occultist_bone_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "striped",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_occultist_striped_no_color.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "spines",
+        "color": "blackened",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_secondary-ornament_occultist_spines_blackened.png"
+      },
+      {
+        "name": "glow",
+        "style": "inscribed-demon-bloom",
+        "color": "black",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_glow_occultist_inscribed-demon-bloom_black.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "raven-skull-of-woe",
+        "color": "blackened",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_occultist_raven-skull-of-woe_blackened.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

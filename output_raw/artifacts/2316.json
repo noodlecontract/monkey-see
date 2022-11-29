@@ -1,0 +1,129 @@
+{
+  "id": "2316",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an enchanting pool, attuned to the work of an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2316",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=2316&witch-id=4186",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_4186.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4186"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Lotus (Burnished)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Gilded Pool (Dusk)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Ornate (Burnished)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Wrap Adornment (Purple)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Twin Statuettes (Gold)"
+    },
+    {
+      "trait_type": "Background Decor",
+      "value": "Kokeshi (Gold Red)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "0"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2316",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an enchanting pool, attuned to the work of an ENCHANTRESS.",
+    "witchId": "4186",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_pink_no_color.png"
+      },
+      {
+        "name": "stand",
+        "style": "ornate",
+        "color": "burnished",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_stand_enchantress_ornate_burnished.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "twin-statuettes",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_stand-ornament_enchantress_twin-statuettes_gold.png"
+      },
+      {
+        "name": "shell",
+        "style": "lotus",
+        "color": "burnished",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell_enchantress_lotus_burnished.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "wrap-adornment",
+        "color": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell-ornament_enchantress_wrap-adornment_purple.png"
+      },
+      {
+        "name": "background-decor",
+        "style": "kokeshi",
+        "color": "gold-red",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_background-decor_enchantress_kokeshi_gold-red.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "gilded-pool",
+        "color": "dusk",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill_enchantress_gilded-pool_dusk.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "gilded-pool",
+        "color": "dusk",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill-overlay_enchantress_gilded-pool_dusk.png"
+      },
+      {
+        "name": "pearl",
+        "style": "orange",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_pearl_orange_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 0,
+      "wisdom": 1
+    }
+  }
+}

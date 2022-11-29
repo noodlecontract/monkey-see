@@ -1,0 +1,129 @@
+{
+  "id": "2301",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2301",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=2301&witch-id=7213",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_7213.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "7213"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Lava Rock (Jade)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Languid Pool (Deep Umber)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Versicolor (Blue)"
+    },
+    {
+      "trait_type": "Right Plant",
+      "value": "Morrel (Purple)"
+    },
+    {
+      "trait_type": "Back Plant",
+      "value": "Inky Cap (Green)"
+    },
+    {
+      "trait_type": "Left Plant",
+      "value": "Spiked Mushroom (Green)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2301",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a lush pool, attuned to the work of a HAG.",
+    "witchId": "7213",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "shell",
+        "style": "lava-rock",
+        "color": "jade",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell_hag_lava-rock_jade.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "versicolor",
+        "color": "blue",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell-ornament_hag_versicolor_blue.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "languid-pool",
+        "color": "deep-umber",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill_hag_languid-pool_deep-umber.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "languid-pool",
+        "color": "deep-umber",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill-overlay_hag_languid-pool_deep-umber.png"
+      },
+      {
+        "name": "back-plant",
+        "style": "inky-cap",
+        "color": "green",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_back-plant_hag_inky-cap_green.png"
+      },
+      {
+        "name": "pearl",
+        "style": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_pearl_purple_no_color.png"
+      },
+      {
+        "name": "right-plant",
+        "style": "morrel",
+        "color": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_right-plant_hag_morrel_purple.png"
+      },
+      {
+        "name": "left-plant",
+        "style": "spiked-mushroom",
+        "color": "green",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_left-plant_hag_spiked-mushroom_green.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": -1,
+      "wisdom": 1
+    }
+  }
+}
