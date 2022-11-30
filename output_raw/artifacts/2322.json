@@ -1,0 +1,106 @@
+{
+  "id": "2322",
+  "name": "Spinor's Axe",
+  "description": "A prophetic, starlit axe fit for a SEER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2322",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=2322&witch-id=2303",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_2303.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "2303"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Flowing Coral (Orange)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Shell (Silver)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Cloth (Aquamarine)"
+    },
+    {
+      "trait_type": "Handle Ornament",
+      "value": "Piercing Collar (Teal)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2322",
+    "name": "Spinor's Axe",
+    "description": "A prophetic, starlit axe fit for a SEER. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "2303",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "flowing-coral",
+        "color": "orange",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle_seer_flowing-coral_orange.png"
+      },
+      {
+        "name": "handle-ornament",
+        "style": "piercing-collar",
+        "color": "teal",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle-ornament_seer_piercing-collar_teal.png"
+      },
+      {
+        "name": "blade",
+        "style": "shell",
+        "color": "silver",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade_seer_shell_silver.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_shine_no_color.png"
+      },
+      {
+        "name": "mask",
+        "style": "shell",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_mask_seer_shell_no_color.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "cloth",
+        "color": "aquamarine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade-ornament_seer_cloth_aquamarine.png"
+      },
+      {
+        "name": "sun",
+        "style": "aquarius",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_sun_seer_aquarius_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 1
+    }
+  }
+}
