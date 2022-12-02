@@ -1,0 +1,87 @@
+{
+  "id": "2433",
+  "name": "Spinor's Axe",
+  "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2433",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=2433&witch-id=8244",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_8244.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8244"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Mantis (Verdant)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Taurus Poppy (Gold)"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Pierine (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "3"
+    }
+  ],
+  "coven": {
+    "id": "2433",
+    "name": "Spinor's Axe",
+    "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "8244",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "mantis",
+        "color": "verdant",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle_hag_mantis_verdant.png"
+      },
+      {
+        "name": "blade",
+        "style": "pierine",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade_hag_pierine_gold.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_shine_no_color.png"
+      },
+      {
+        "name": "mask",
+        "style": "pierine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_mask_hag_pierine_no_color.png"
+      },
+      {
+        "name": "sun",
+        "style": "taurus-poppy",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_sun_hag_taurus-poppy_gold.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 3
+    }
+  }
+}

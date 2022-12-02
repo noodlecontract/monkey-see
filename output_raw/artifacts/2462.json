@@ -1,0 +1,140 @@
+{
+  "id": "2462",
+  "name": "Dove's Monkey Charm",
+  "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2462",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=2462&witch-id=965",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_965.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "965"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Serene (Cream)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Rope Gourd (Yellow)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dainty Hat (Green)"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goth Lolita (Green)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Hazel"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2462",
+    "name": "Dove's Monkey Charm",
+    "description": "A spectral snow monkey carved from stone, gothic like a NECROMANCER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "965",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "platform",
+        "style": "teal",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_platform_teal_no_color.png"
+      },
+      {
+        "name": "kimono",
+        "style": "serene",
+        "color": "cream",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_kimono_necromancer_serene_cream.png"
+      },
+      {
+        "name": "head",
+        "style": "black",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_head_attuned_black_no_color.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eye-whites_attuned_white_no_color.png"
+      },
+      {
+        "name": "irises",
+        "style": "hazel",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_irises_attuned_hazel_no_color.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelid-mask_white_no_color.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelids_attuned_neutral_no_color.png"
+      },
+      {
+        "name": "expression",
+        "style": "black",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_expression_attuned_black_no_color.png"
+      },
+      {
+        "name": "accessory",
+        "style": "goth-lolita",
+        "color": "green",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_accessory_necromancer_goth-lolita_green.png"
+      },
+      {
+        "name": "hands",
+        "style": "black",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hands_attuned_black_no_color.png"
+      },
+      {
+        "name": "hat",
+        "style": "dainty-hat",
+        "color": "green",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hat_necromancer_dainty-hat_green.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "rope-gourd",
+        "color": "yellow",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_item-above-hands_necromancer_rope-gourd_yellow.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

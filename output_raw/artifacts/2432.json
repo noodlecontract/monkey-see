@@ -1,0 +1,77 @@
+{
+  "id": "2432",
+  "name": "Iona's Crook",
+  "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2432",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2432&witch-id=248",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_248.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "248"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Aubergine"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Turkeytail (Pink)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Fox of Wit (Warm)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "2432",
+    "name": "Iona's Crook",
+    "description": "A lush impression of the HAG IONA’s shepherd’s crook. Its natural lantern is well-suited to a HAG.",
+    "witchId": "248",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_moss_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "aubergine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_hag_aubergine_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "turkeytail",
+        "color": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_hag_turkeytail_pink.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "fox-of-wit",
+        "color": "warm",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_hag_fox-of-wit_warm.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 2
+    }
+  }
+}

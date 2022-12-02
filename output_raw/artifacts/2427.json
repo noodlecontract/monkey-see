@@ -1,0 +1,97 @@
+{
+  "id": "2427",
+  "name": "Rijha's Mirror",
+  "description": "An enchanting mirror in full bloom.  It once reflected the fine ENCHANTRESS RIJHA, now perfect for a new ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2427",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=2427&witch-id=88",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_88.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "88"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Gold (Purple)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Void (Starry)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Satin the Melodious"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "0"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-3"
+    }
+  ],
+  "coven": {
+    "id": "2427",
+    "name": "Rijha's Mirror",
+    "description": "An enchanting mirror in full bloom.  It once reflected the fine ENCHANTRESS RIJHA, now perfect for a new ENCHANTRESS.",
+    "witchId": "88",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection_enchantress_no_color.png"
+      },
+      {
+        "name": "face",
+        "style": "Satin the Melodious",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/9973bc8b8d36d4c75c0ecb01163672aa.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection-clip_enchantress_canvas-clip_no_color.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_sheen_glint_no_color.png"
+      },
+      {
+        "name": "crack",
+        "style": "void",
+        "color": "starry",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_crack_void_starry.png"
+      },
+      {
+        "name": "frame",
+        "style": "gold",
+        "color": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_frame_enchantress_gold_purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 0,
+      "woe": -3
+    }
+  }
+}

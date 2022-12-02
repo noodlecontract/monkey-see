@@ -1,0 +1,97 @@
+{
+  "id": "2430",
+  "name": "Rijha's Mirror",
+  "description": "A lush mirror with blinking eyes. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a HAG.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2430",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=2430&witch-id=121",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_121.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "121"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Butterfly (Emerald)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Void (Starry)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Chamomile, the Durable Cup"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "2430",
+    "name": "Rijha's Mirror",
+    "description": "A lush mirror with blinking eyes. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a HAG.",
+    "witchId": "121",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection_hag_no_color.png"
+      },
+      {
+        "name": "face",
+        "style": "Chamomile, the Durable Cup",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/f073fe2fb67f21c7cda3b76cfd989c14.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection-clip_hag_canvas-clip_no_color.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_sheen_glint_no_color.png"
+      },
+      {
+        "name": "crack",
+        "style": "void",
+        "color": "starry",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_crack_void_starry.png"
+      },
+      {
+        "name": "frame",
+        "style": "butterfly",
+        "color": "emerald",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_frame_hag_butterfly_emerald.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 1,
+      "woe": 0
+    }
+  }
+}
