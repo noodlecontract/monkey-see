@@ -1,0 +1,95 @@
+{
+  "id": "2549",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2549",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2549&witch-id=2946",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_2946.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "2946"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Dark Oak"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Woods (Gold)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Soul Fire (Red)"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Shielded"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Woe"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2549",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "2946",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_moss_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "dark-oak",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_mage_dark-oak_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "woods",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_mage_woods_gold.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "soul-fire",
+        "color": "red",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_mage_soul-fire_red.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "shielded",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-holder_mage_shielded_no_color.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-woe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-ornament_mage_rune-of-woe_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 1
+    }
+  }
+}

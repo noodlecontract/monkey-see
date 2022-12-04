@@ -1,0 +1,94 @@
+{
+  "id": "2564",
+  "name": "Iona's Crook",
+  "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2564",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2564&witch-id=4867",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_4867.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4867"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Daedric (Glo)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Nega Moon"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Deco"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Rune of Wiles"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "2564",
+    "name": "Iona's Crook",
+    "description": "An erudite impression of the HAG IONA’s shepherd’s crook. Its innovative lantern is well-suited to a MAGE.",
+    "witchId": "4867",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_pink_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "obsidian",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_mage_obsidian_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "daedric",
+        "color": "glo",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_mage_daedric_glo.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "nega-moon",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_mage_nega-moon_no_color.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "deco",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-holder_mage_deco_no_color.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "rune-of-wiles",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-ornament_mage_rune-of-wiles_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

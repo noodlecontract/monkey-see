@@ -1,0 +1,129 @@
+{
+  "id": "2561",
+  "name": "Dove's Monkey Charm",
+  "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2561",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=2561&witch-id=8119",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_8119.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8119"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Glowing Swirls (Green)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Neon Ribbon (Pink)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Moon Clasp"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2561",
+    "name": "Dove's Monkey Charm",
+    "description": "An erudite snow monkey carved from stone, brimming with a MAGE’s ingenuity. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "8119",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "moss",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_moss_no_color.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_platform_purple_no_color.png"
+      },
+      {
+        "name": "kimono",
+        "style": "glowing-swirls",
+        "color": "green",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_kimono_mage_glowing-swirls_green.png"
+      },
+      {
+        "name": "head",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_head_attuned_pink_no_color.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eye-whites_attuned_white_no_color.png"
+      },
+      {
+        "name": "irises",
+        "style": "amber",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_irises_attuned_amber_no_color.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelid-mask_white_no_color.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelids_attuned_neutral_no_color.png"
+      },
+      {
+        "name": "expression",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_expression_attuned_pink_no_color.png"
+      },
+      {
+        "name": "hands",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hands_attuned_pink_no_color.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "neon-ribbon",
+        "color": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_item-above-hands_mage_neon-ribbon_pink.png"
+      },
+      {
+        "name": "facewear",
+        "style": "moon-clasp",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_facewear_mage_moon-clasp_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 1
+    }
+  }
+}

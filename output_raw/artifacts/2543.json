@@ -1,0 +1,95 @@
+{
+  "id": "2543",
+  "name": "Rijha's Mirror",
+  "description": "An occult mirror made from a creature’s ribcage. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for an OCCULTIST.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2543",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=2543&witch-id=4608",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_4608.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4608"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Blackened Curse"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Smooth"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sinarka, the Burgundy Ammunition"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "0"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "2543",
+    "name": "Rijha's Mirror",
+    "description": "An occult mirror made from a creature’s ribcage. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for an OCCULTIST.",
+    "witchId": "4608",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection_occultist_no_color.png"
+      },
+      {
+        "name": "face",
+        "style": "Sinarka, the Burgundy Ammunition",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/bf344a5fff4d33c1ab09ad0a67ca18a0.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection-clip_occultist_canvas-clip_no_color.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_sheen_glint_no_color.png"
+      },
+      {
+        "name": "crack",
+        "style": "smooth",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_crack_smooth_no_color.png"
+      },
+      {
+        "name": "frame",
+        "style": "blackened-curse",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_frame_occultist_blackened-curse_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 0,
+      "woe": 2
+    }
+  }
+}
