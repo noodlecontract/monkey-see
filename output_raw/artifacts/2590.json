@@ -1,0 +1,105 @@
+{
+  "id": "2590",
+  "name": "Rijha's Mirror",
+  "description": "An erudite flame mirror summoned by nifty engineering. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2590",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=2590&witch-id=2414",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_2414.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "2414"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Phosphorous (Glo)"
+    },
+    {
+      "trait_type": "Handle Ornament",
+      "value": "Caged"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Smooth"
+    },
+    {
+      "trait_type": "Face",
+      "value": "The Metronome"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "-2"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2590",
+    "name": "Rijha's Mirror",
+    "description": "An erudite flame mirror summoned by nifty engineering. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a MAGE.",
+    "witchId": "2414",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_sea_no_color.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection_mage_no_color.png"
+      },
+      {
+        "name": "face",
+        "style": "The Metronome",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/6de5e5b16e0889ef731154e53515ea56.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection-clip_mage_canvas-clip_no_color.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_sheen_glint_no_color.png"
+      },
+      {
+        "name": "crack",
+        "style": "smooth",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_crack_smooth_no_color.png"
+      },
+      {
+        "name": "frame",
+        "style": "phosphorous",
+        "color": "glo",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_frame_mage_phosphorous_glo.png"
+      },
+      {
+        "name": "handle-ornament",
+        "style": "caged",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_handle-ornament_mage_caged_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": -2,
+      "woe": 1
+    }
+  }
+}
