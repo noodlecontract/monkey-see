@@ -1,0 +1,116 @@
+{
+  "id": "2600",
+  "name": "Dove's Monkey Charm",
+  "description": "A gentlemanly snow monkey carved from stone. A marker of the kind DOVE’s arrangement with the keepers of THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2600",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=2600",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_5_2600.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Swirl (Vibrant Blue)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Stone Kintsugi"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Shamisen (Purple)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Stone"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "2600",
+    "name": "Dove's Monkey Charm",
+    "description": "A gentlemanly snow monkey carved from stone. A marker of the kind DOVE’s arrangement with the keepers of THE ASYLUM.",
+    "witchId": null,
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "platform",
+        "style": "blue",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_platform_blue_no_color.png"
+      },
+      {
+        "name": "kimono",
+        "style": "swirl",
+        "color": "vibrant-blue",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_kimono_unattuned_swirl_vibrant-blue.png"
+      },
+      {
+        "name": "head",
+        "style": "stone-kintsugi",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_head_unattuned_stone-kintsugi_no_color.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "stone",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eye-whites_unattuned_stone_no_color.png"
+      },
+      {
+        "name": "irises",
+        "style": "stone",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_irises_unattuned_stone_no_color.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelid-mask_white_no_color.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "stone",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelids_unattuned_stone_no_color.png"
+      },
+      {
+        "name": "expression",
+        "style": "stone-kintsugi",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_expression_unattuned_stone-kintsugi_no_color.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "shamisen",
+        "color": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_item-below-hands_unattuned_shamisen_purple.png"
+      },
+      {
+        "name": "hands",
+        "style": "stone-kintsugi",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hands_unattuned_stone-kintsugi_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": 2
+    }
+  }
+}
