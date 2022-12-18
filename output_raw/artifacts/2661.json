@@ -1,0 +1,97 @@
+{
+  "id": "2661",
+  "name": "Spinor's Axe",
+  "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2661",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=2661&witch-id=8578",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_8578.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8578"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Leafy (Royal)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Aries Honeysuckle (Red)"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Pierine (Rose Quartz)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Wings (Ruby)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "2661",
+    "name": "Spinor's Axe",
+    "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "8578",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "leafy",
+        "color": "royal",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle_hag_leafy_royal.png"
+      },
+      {
+        "name": "blade",
+        "style": "pierine",
+        "color": "rose-quartz",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade_hag_pierine_rose-quartz.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_shine_no_color.png"
+      },
+      {
+        "name": "mask",
+        "style": "pierine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_mask_hag_pierine_no_color.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "wings",
+        "color": "ruby",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade-ornament_hag_wings_ruby.png"
+      },
+      {
+        "name": "sun",
+        "style": "aries-honeysuckle",
+        "color": "red",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_sun_hag_aries-honeysuckle_red.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 2
+    }
+  }
+}
