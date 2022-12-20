@@ -1,0 +1,102 @@
+{
+  "id": "2704",
+  "name": "Rijha's Mirror",
+  "description": "An intricately carved mirror that once reflected the fine ENCHANTRESS RIJHA. It cannot seem to find your face…",
+  "external_url": "https://cryptocoven.xyz/artifacts/2704",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=2704",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_2_2704.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Polished Dawn"
+    },
+    {
+      "trait_type": "Frame Ornament",
+      "value": "Agate (Fire)"
+    },
+    {
+      "trait_type": "Charm",
+      "value": "Diamond Cabochon (Mirth)"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Rijha"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2704",
+    "name": "Rijha's Mirror",
+    "description": "An intricately carved mirror that once reflected the fine ENCHANTRESS RIJHA. It cannot seem to find your face…",
+    "witchId": null,
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_sea_no_color.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection_unattuned_no_color.png"
+      },
+      {
+        "name": "face",
+        "style": "Rijha",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/rijha-unattuned.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection-clip_unattuned_canvas-clip_no_color.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_sheen_glint_no_color.png"
+      },
+      {
+        "name": "frame",
+        "style": "polished-dawn",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_frame_unattuned_polished-dawn_no_color.png"
+      },
+      {
+        "name": "frame-ornament",
+        "style": "agate",
+        "color": "fire",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_frame-ornament_unattuned_agate_fire.png"
+      },
+      {
+        "name": "charm",
+        "style": "diamond-cabochon",
+        "color": "mirth",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_charm_unattuned_diamond-cabochon_mirth.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 1,
+      "woe": 1
+    }
+  }
+}

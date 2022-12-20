@@ -1,0 +1,102 @@
+{
+  "id": "2705",
+  "name": "Iona's Crook",
+  "description": "One of the renowned HAG IONA’s story-carved shepherd’s crooks. It nestles a lantern of golden light.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2705",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2705",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/unattuned_3_2705.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Unattuned"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Natural Stone"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Flow (Dark)"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Classic (Pink)"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Classic (Ivory)"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Agate (Crazy Lace)"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Sparkling Rose"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "2705",
+    "name": "Iona's Crook",
+    "description": "One of the renowned HAG IONA’s story-carved shepherd’s crooks. It nestles a lantern of golden light.",
+    "witchId": null,
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "natural-stone",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_unattuned_natural-stone_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "flow",
+        "color": "dark",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_unattuned_flow_dark.png"
+      },
+      {
+        "name": "glow",
+        "style": "sparkling-rose",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_glow_unattuned_sparkling-rose_no_color.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "classic",
+        "color": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_unattuned_classic_pink.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "classic",
+        "color": "ivory",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-holder_unattuned_classic_ivory.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "agate",
+        "color": "crazy-lace",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-ornament_unattuned_agate_crazy-lace.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 0
+    }
+  }
+}

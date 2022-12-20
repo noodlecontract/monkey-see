@@ -1,0 +1,105 @@
+{
+  "id": "2701",
+  "name": "Spinor's Axe",
+  "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2701",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=2701&witch-id=4606",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_4606.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "4606"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Center",
+      "value": "Maleficent Horns (Antique)"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Spine (Antique)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Maw (Antique)"
+    },
+    {
+      "trait_type": "Blade Ornament",
+      "value": "Horned Moon"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "2701",
+    "name": "Spinor's Axe",
+    "description": "An occult, toothy axe fit for an OCCULTIST. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "4606",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "spine",
+        "color": "antique",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle_occultist_spine_antique.png"
+      },
+      {
+        "name": "blade",
+        "style": "maw",
+        "color": "antique",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade_occultist_maw_antique.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_shine_no_color.png"
+      },
+      {
+        "name": "mask",
+        "style": "maw",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_mask_occultist_maw_no_color.png"
+      },
+      {
+        "name": "blade-ornament",
+        "style": "horned-moon",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade-ornament_occultist_horned-moon_no_color.png"
+      },
+      {
+        "name": "center",
+        "style": "maleficent-horns",
+        "color": "antique",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_center_occultist_maleficent-horns_antique.png"
+      },
+      {
+        "name": "sun",
+        "style": "leo",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_sun_occultist_leo_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 0
+    }
+  }
+}
