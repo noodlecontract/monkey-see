@@ -1,0 +1,133 @@
+{
+  "id": "2862",
+  "name": "Iona's Crook",
+  "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2862",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/ionas-crook?token-id=2862&witch-id=6108",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_3_6108.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Iona's Crook"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "6108"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Primary Ornament",
+      "value": "Shimmering Twilight"
+    },
+    {
+      "trait_type": "Lantern Body",
+      "value": "Pagoda (Hoodlondon Hathor)"
+    },
+    {
+      "trait_type": "Secondary Ornament",
+      "value": "Red Coral"
+    },
+    {
+      "trait_type": "Lantern Holder",
+      "value": "Embroidered (Red)"
+    },
+    {
+      "trait_type": "Tassel",
+      "value": "Beaded (Purple)"
+    },
+    {
+      "trait_type": "Lantern Ornament",
+      "value": "Gilded Wit"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Lantern Secondary Ornament",
+      "value": "Lotus (Purple)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Will",
+      "value": "3"
+    }
+  ],
+  "coven": {
+    "id": "2862",
+    "name": "Iona's Crook",
+    "description": "An enchanting impression of the HAG IONA’s shepherd’s crook. Its decadent lantern is well-suited to an ENCHANTRESS.",
+    "witchId": "6108",
+    "artifactId": 3,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "obsidian",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_handle_enchantress_obsidian_no_color.png"
+      },
+      {
+        "name": "primary-ornament",
+        "style": "shimmering-twilight",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_primary-ornament_enchantress_shimmering-twilight_no_color.png"
+      },
+      {
+        "name": "secondary-ornament",
+        "style": "red-coral",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_secondary-ornament_enchantress_red-coral_no_color.png"
+      },
+      {
+        "name": "glow",
+        "style": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_glow_enchantress_purple_no_color.png"
+      },
+      {
+        "name": "lantern-secondary-ornament",
+        "style": "lotus",
+        "color": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-secondary-ornament_enchantress_lotus_purple.png"
+      },
+      {
+        "name": "lantern-body",
+        "style": "pagoda",
+        "color": "hoodlondon-hathor",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-body_enchantress_pagoda_hoodlondon-hathor.png"
+      },
+      {
+        "name": "lantern-holder",
+        "style": "embroidered",
+        "color": "red",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-holder_enchantress_embroidered_red.png"
+      },
+      {
+        "name": "lantern-ornament",
+        "style": "gilded-wit",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_lantern-ornament_enchantress_gilded-wit_no_color.png"
+      },
+      {
+        "name": "tassel",
+        "style": "beaded",
+        "color": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_ionas-crook_tassel_enchantress_beaded_purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "will": 3
+    }
+  }
+}
