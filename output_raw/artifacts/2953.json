@@ -1,0 +1,125 @@
+{
+  "id": "2953",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2953",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=2953&witch-id=9600",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_9600.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9600"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Splash (Ichor)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Hydrophobic Pool (Fluorite)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Pale Filagree (Glow)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Crystal (Glow)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Filagree (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "0"
+    }
+  ],
+  "coven": {
+    "id": "2953",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above an erudite pool, attuned to the work of an MAGE.",
+    "witchId": "9600",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_pink_no_color.png"
+      },
+      {
+        "name": "stand",
+        "style": "pale-filagree",
+        "color": "glow",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_stand_mage_pale-filagree_glow.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "filagree",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_stand-ornament_mage_filagree_gold.png"
+      },
+      {
+        "name": "shell",
+        "style": "splash",
+        "color": "ichor",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell_mage_splash_ichor.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "crystal",
+        "color": "glow",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell-ornament_mage_crystal_glow.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "hydrophobic-pool",
+        "color": "fluorite",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill_mage_hydrophobic-pool_fluorite.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "hydrophobic-pool",
+        "color": "fluorite",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill-overlay_mage_hydrophobic-pool_fluorite.png"
+      },
+      {
+        "name": "pearl",
+        "style": "brown",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_pearl_brown_no_color.png"
+      },
+      {
+        "name": "shell-front",
+        "style": "splash",
+        "color": "ichor",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell-front_mage_splash_ichor.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 1,
+      "wisdom": 0
+    }
+  }
+}

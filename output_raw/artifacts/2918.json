@@ -1,0 +1,87 @@
+{
+  "id": "2918",
+  "name": "Spinor's Axe",
+  "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2918",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/spinors-axe?token-id=2918&witch-id=2194",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_4_2194.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Spinor's Axe"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "2194"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Leafy (Ruby)"
+    },
+    {
+      "trait_type": "Sun",
+      "value": "Capricorn Magnolia (Blue)"
+    },
+    {
+      "trait_type": "Blade",
+      "value": "Pierine (Rose Quartz)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wit",
+      "value": "2"
+    }
+  ],
+  "coven": {
+    "id": "2918",
+    "name": "Spinor's Axe",
+    "description": "A lush, winged axe fit for a HAG. It’s all the more captivating after you clean the blood of the terrifying MAGE SPINOR.",
+    "witchId": "2194",
+    "artifactId": 4,
+    "styles": [
+      {
+        "name": "background",
+        "style": "lavender",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_lavender_no_color.png"
+      },
+      {
+        "name": "handle",
+        "style": "leafy",
+        "color": "ruby",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_handle_hag_leafy_ruby.png"
+      },
+      {
+        "name": "blade",
+        "style": "pierine",
+        "color": "rose-quartz",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_blade_hag_pierine_rose-quartz.png"
+      },
+      {
+        "name": "shine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_shine_no_color.png"
+      },
+      {
+        "name": "mask",
+        "style": "pierine",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_mask_hag_pierine_no_color.png"
+      },
+      {
+        "name": "sun",
+        "style": "capricorn-magnolia",
+        "color": "blue",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_spinors-axe_sun_hag_capricorn-magnolia_blue.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wit": 2
+    }
+  }
+}

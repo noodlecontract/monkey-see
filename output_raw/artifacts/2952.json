@@ -1,0 +1,109 @@
+{
+  "id": "2952",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a spectral pool, attuned to the work of a NECROMANCER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2952",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=2952&witch-id=9008",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_9008.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9008"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Scallop (Silver)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Pensive Pool (Gold)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Cameo Bow (Green)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Hammered Studs (Gold)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "2"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2952",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a spectral pool, attuned to the work of a NECROMANCER.",
+    "witchId": "9008",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "taupe",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_taupe_no_color.png"
+      },
+      {
+        "name": "stand",
+        "style": "cameo-bow",
+        "color": "green",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_stand_necromancer_cameo-bow_green.png"
+      },
+      {
+        "name": "shell",
+        "style": "scallop",
+        "color": "silver",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell_necromancer_scallop_silver.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "hammered-studs",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell-ornament_necromancer_hammered-studs_gold.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "pensive-pool",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill_necromancer_pensive-pool_gold.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "pensive-pool",
+        "color": "gold",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill-overlay_necromancer_pensive-pool_gold.png"
+      },
+      {
+        "name": "pearl",
+        "style": "spectral",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_pearl_spectral_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": 2,
+      "wisdom": 1
+    }
+  }
+}

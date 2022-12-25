@@ -1,0 +1,96 @@
+{
+  "id": "2939",
+  "name": "Rijha's Mirror",
+  "description": "A spectral raven feather mirror with a delicate brooch. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a NECROMANCER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2939",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/rijhas-mirror?token-id=2939&witch-id=670",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_2_670.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Rijha's Mirror"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "670"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Bee (Blue)"
+    },
+    {
+      "trait_type": "Crack",
+      "value": "Smooth"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cadmium the Bitter"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wiles",
+      "value": "1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "2939",
+    "name": "Rijha's Mirror",
+    "description": "A spectral raven feather mirror with a delicate brooch. Though it once reflected the fine ENCHANTRESS RIJHA, now it’s perfect for a NECROMANCER.",
+    "witchId": "670",
+    "artifactId": 2,
+    "styles": [
+      {
+        "name": "background",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_pink_no_color.png"
+      },
+      {
+        "name": "reflection",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection_necromancer_no_color.png"
+      },
+      {
+        "name": "face",
+        "style": "Cadmium the Bitter",
+        "url": "https://d3ohv66tlx3ep1.cloudfront.net/9f01a4c74150d23641591518d2accbeb.png"
+      },
+      {
+        "name": "reflection-clip",
+        "style": "canvas-clip",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_reflection-clip_necromancer_canvas-clip_no_color.png"
+      },
+      {
+        "name": "sheen",
+        "style": "glint",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_sheen_glint_no_color.png"
+      },
+      {
+        "name": "crack",
+        "style": "smooth",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_crack_smooth_no_color.png"
+      },
+      {
+        "name": "frame",
+        "style": "bee",
+        "color": "blue",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_rijhas-mirror_frame_necromancer_bee_blue.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wiles": 1,
+      "woe": -1
+    }
+  }
+}

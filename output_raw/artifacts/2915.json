@@ -1,0 +1,130 @@
+{
+  "id": "2915",
+  "name": "Dove's Monkey Charm",
+  "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2915",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=2915&witch-id=9527",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_9527.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "9527"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sea"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Kraken (Bleached Teal)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Iridescent"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fortune (Green Red)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Facewear",
+      "value": "Third Eye (Pink)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "2915",
+    "name": "Dove's Monkey Charm",
+    "description": "A prophetic snow monkey carved from stone, its eyes clairvoyant like a SEER. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "9527",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "sea",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_sea_no_color.png"
+      },
+      {
+        "name": "platform",
+        "style": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_platform_purple_no_color.png"
+      },
+      {
+        "name": "kimono",
+        "style": "kraken",
+        "color": "bleached-teal",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_kimono_seer_kraken_bleached-teal.png"
+      },
+      {
+        "name": "head",
+        "style": "iridescent",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_head_attuned_iridescent_no_color.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eye-whites_attuned_white_no_color.png"
+      },
+      {
+        "name": "irises",
+        "style": "green",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_irises_attuned_green_no_color.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelid-mask_white_no_color.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelids_attuned_neutral_no_color.png"
+      },
+      {
+        "name": "expression",
+        "style": "iridescent",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_expression_attuned_iridescent_no_color.png"
+      },
+      {
+        "name": "hands",
+        "style": "iridescent",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hands_attuned_iridescent_no_color.png"
+      },
+      {
+        "name": "item-above-hands",
+        "style": "fortune",
+        "color": "green-red",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_item-above-hands_seer_fortune_green-red.png"
+      },
+      {
+        "name": "facewear",
+        "style": "third-eye",
+        "color": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_facewear_seer_third-eye_pink.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": -1
+    }
+  }
+}

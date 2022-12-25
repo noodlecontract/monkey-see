@@ -1,0 +1,130 @@
+{
+  "id": "2913",
+  "name": "Dove's Monkey Charm",
+  "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2913",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/doves-monkey-charm?token-id=2913&witch-id=8475",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_5_8475.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Dove's Monkey Charm"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "8475"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Ochre"
+    },
+    {
+      "trait_type": "Kimono",
+      "value": "Royal Forest (Purple Red)"
+    },
+    {
+      "trait_type": "Fur Color",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Fan (Black)"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Earth Queen (Purple)"
+    },
+    {
+      "trait_type": "Irises",
+      "value": "Pink"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wonder",
+      "value": "-1"
+    }
+  ],
+  "coven": {
+    "id": "2913",
+    "name": "Dove's Monkey Charm",
+    "description": "An enchanting snow monkey carved from stone and seeped in an ENCHANTRESS’s glamour. A marker of the kind DOVE’s arrangement with THE ASYLUM.",
+    "witchId": "8475",
+    "artifactId": 5,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_plum_no_color.png"
+      },
+      {
+        "name": "platform",
+        "style": "ochre",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_platform_ochre_no_color.png"
+      },
+      {
+        "name": "kimono",
+        "style": "royal-forest",
+        "color": "purple-red",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_kimono_enchantress_royal-forest_purple-red.png"
+      },
+      {
+        "name": "head",
+        "style": "platinum",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_head_attuned_platinum_no_color.png"
+      },
+      {
+        "name": "eye-whites",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eye-whites_attuned_white_no_color.png"
+      },
+      {
+        "name": "irises",
+        "style": "pink",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_irises_attuned_pink_no_color.png"
+      },
+      {
+        "name": "eyelid-mask",
+        "style": "white",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelid-mask_white_no_color.png"
+      },
+      {
+        "name": "eyelids",
+        "style": "neutral",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_eyelids_attuned_neutral_no_color.png"
+      },
+      {
+        "name": "expression",
+        "style": "platinum",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_expression_attuned_platinum_no_color.png"
+      },
+      {
+        "name": "item-below-hands",
+        "style": "fan",
+        "color": "black",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_item-below-hands_enchantress_fan_black.png"
+      },
+      {
+        "name": "hands",
+        "style": "platinum",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hands_attuned_platinum_no_color.png"
+      },
+      {
+        "name": "hat",
+        "style": "earth-queen",
+        "color": "purple",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_doves-monkey-charm_hat_enchantress_earth-queen_purple.png"
+      }
+    ],
+    "attunementModifiers": {
+      "wonder": -1
+    }
+  }
+}
