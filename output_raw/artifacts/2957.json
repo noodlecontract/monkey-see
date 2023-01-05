@@ -1,0 +1,119 @@
+{
+  "id": "2957",
+  "name": "Avisa's Pearl",
+  "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a prophetic pool, attuned to the work of a new SEER.",
+  "external_url": "https://cryptocoven.xyz/artifacts/2957",
+  "animation_url": "https://cryptocoven.xyz/map/narrators-hut/artifacts/avisas-pearl?token-id=2957&witch-id=821",
+  "image": "https://d1iprqwg62qql5.cloudfront.net/attuned_1_821.png",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Avisa's Pearl"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Witch ID",
+      "value": "821"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Plum"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Uni (Peach)"
+    },
+    {
+      "trait_type": "Liquid Fill",
+      "value": "Prophetic Pool (Weird)"
+    },
+    {
+      "trait_type": "Pearl",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stand",
+      "value": "Wave Stand (Blue)"
+    },
+    {
+      "trait_type": "Shell Ornament",
+      "value": "Jelly Spikes (Blue)"
+    },
+    {
+      "trait_type": "Stand Ornament",
+      "value": "Eyes (Ochre)"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Woe",
+      "value": "-1"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": "1"
+    }
+  ],
+  "coven": {
+    "id": "2957",
+    "name": "Avisa's Pearl",
+    "description": "A shimmering pearl spat from the mouth of the great SEER AVISA. It floats above a prophetic pool, attuned to the work of a new SEER.",
+    "witchId": "821",
+    "artifactId": 1,
+    "styles": [
+      {
+        "name": "background",
+        "style": "plum",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_shared_background_plum_no_color.png"
+      },
+      {
+        "name": "stand",
+        "style": "wave-stand",
+        "color": "blue",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_stand_seer_wave-stand_blue.png"
+      },
+      {
+        "name": "stand-ornament",
+        "style": "eyes",
+        "color": "ochre",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_stand-ornament_seer_eyes_ochre.png"
+      },
+      {
+        "name": "shell",
+        "style": "uni",
+        "color": "peach",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell_seer_uni_peach.png"
+      },
+      {
+        "name": "shell-ornament",
+        "style": "jelly-spikes",
+        "color": "blue",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_shell-ornament_seer_jelly-spikes_blue.png"
+      },
+      {
+        "name": "liquid-fill",
+        "style": "prophetic-pool",
+        "color": "weird",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill_seer_prophetic-pool_weird.png"
+      },
+      {
+        "name": "liquid-fill-overlay",
+        "style": "prophetic-pool",
+        "color": "weird",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_liquid-fill-overlay_seer_prophetic-pool_weird.png"
+      },
+      {
+        "name": "pearl",
+        "style": "brown",
+        "url": "https://d1iprqwg62qql5.cloudfront.net/layer_avisas-pearl_pearl_brown_no_color.png"
+      }
+    ],
+    "attunementModifiers": {
+      "woe": -1,
+      "wisdom": 1
+    }
+  }
+}
