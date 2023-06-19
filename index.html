@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>monkey see...</title>
     <link rel="stylesheet" href="/monkey-see/assets/css/reset.css">
-    <link rel="stylesheet" href="/monkey-see/assets/css/app.css?v=1687084046">
+    <link rel="stylesheet" href="/monkey-see/assets/css/app.css?v=1687170555">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap">
@@ -33,12 +33,12 @@
     <button type="button" id="find-artifact" disabled>FIND</button>
   </div>
 
-  <div style="font-size: 0.875rem; font-style: italic;">last updated Jun 18, 2023</div>
+  <div style="font-size: 0.875rem; font-style: italic;">last updated Jun 19, 2023</div>
 </div>
 
 <script>
 (function (window, document) {
-  fetch("/monkey-see/assets/exists.json?v=1687084043").then((resp) => {
+  fetch("/monkey-see/assets/exists.json?v=1687170551").then((resp) => {
     resp.json().then((existing) => {
       const findWitchButton = document.getElementById("find-witch");
       const findArtifactButton = document.getElementById("find-artifact");
